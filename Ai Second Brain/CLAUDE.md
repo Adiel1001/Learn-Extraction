@@ -32,31 +32,27 @@ That's it. Your brain is working. Everything else builds on this.
 ## About Me
 
 ### Who I Am
-- **Name**: [Your Full Name]
-- **Role**: [Your Professional Title]
-- **Industry/Focus**: [Your Primary Industry or Expertise Area]
+- **Name**: Josue T
+- **Role**: Content creator
+- **Industry/Focus**: Youtube gta 5 gaming content
 
 > 💡 **Quick Start Tip**: Fill in your basic details above, then run `/ask` to start using your Second Brain. You can come back and add more details later.
 
 ### What I Do
-[2-3 sentences describing your professional work. What problems do you solve? Who do you serve? What makes your approach unique?]
+i create and produce entertainment content for gta 5 viewers, from ages 24 - 30 
 
 **Example**: "I help growing SaaS companies scale their operations without sacrificing quality. My work focuses on building systems and processes that enable teams to work more efficiently while maintaining high standards."
 
 ### My Expertise
-- [Core Expertise Area 1]
-- [Core Expertise Area 2]
-- [Core Expertise Area 3]
-- [Core Expertise Area 4]
-- [Add more as needed]
+-
 
 **💡 Tip**: List 3-7 areas where you have deep knowledge or unique insights.
 
 ### My Goals with This Brain
-- **[Goal Category 1]**: [Specific outcome you want, e.g., "Save 5 hours/week on content creation"]
-- **[Goal Category 2]**: [Another specific outcome]
-- **[Goal Category 3]**: [Another specific outcome]
-- **[Add More Goals]**: [The more specific you are, the better your brain performs]
+- **[Goal Category 1]**: my main goal for this brain is so that it can provide mentorship and guidence based on course material only
+- **[Goal Category 2]**: brainstorming ideas and brainstorming the strategy,
+- **[Goal Category 3]**: to be my accountability coach and make sure things get done
+- **[Add More Goals]**: and provide me with feedback based on the questions i ask and the answers i get and give
 
 **💡 Tip**: Start with 3-5 concrete goals. You can add more as you discover new use cases.
 
