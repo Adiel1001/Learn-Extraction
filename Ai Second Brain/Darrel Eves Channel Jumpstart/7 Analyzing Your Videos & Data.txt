@@ -1,0 +1,1547 @@
+7 Analyzing Your Videos & Data
+
+Hey, jump starters. Now we're going to talk about the tools that you need as a
+content creator to help you become successful with your videos.
+Now, I can tell you, there is a lot of tools out there, but there's tools that
+actually can help us make better decisions and the type of decisions that we want
+to make and the type of decisions that's all around.
+how to engage and so on. And the number one tool that I use 99 .9 % of the time
+is YouTube analytics. And I can tell you that this is a great system.
+YouTube has given us a suite of tools to really help us understand the relationship
+data of audiences and also our videos and that how it corresponds together.
+Now, I actually put together a system over years and years and of helping Many
+people achieve their goals of getting gold play buttons, millions and billions and
+billions of views. And ultimately, this system is what I'm going to be teaching you
+here of really how to analyze your content, what to look at, what not to look at,
+what to avoid, and what not to worry about. Like, that's going to be great. And it
+has everything to do with YouTube analytics. Now, if you look below this video,
+you're going to see some other tools that you might be familiar with, you might
+have access to. What I wanted to do is to make sure that as you purchase this
+Channel Jumpstart, that you have access to the same tools that I use. And you'll
+see links below, you can get your free access out there to the different tools that
+we have. Also, you have access during the time you're part of Channel Jumpstart.
+Now, this is where it gets really cool. So once we get a little bit deeper into
+channel jumpstart, I'm going to show you how I use these different tools. We're not
+going to get in all the details now, but as we get to that section where we're
+using a tool, I'll show you my system of what I do to make a better decision,
+because when we make data -driven decisions, we increase the probability for us to
+succeed. So I'm super excited to have you a part of Channel Jumpstart, and I will
+see you on the next video.
+
+PT2
+
+It is time. It is time. It is time. I really am excited about section 7 and also
+8. They're actually my favorite. It's where we really start to implement the channel
+jumpstart system. Now, we've been talking about this is not a course, but a system.
+And ultimately, it really goes in depth of the scientific process.
+success is for multiple YouTube channels because as we know how to analyze and
+adjust, we know how to really navigate our content strategy on YouTube, which is the
+most important thing. And so all things actually lead towards your content strategy,
+how it needs to evolve as you evolve, but also as you actually understand the data
+is coming in on who's actually watching what, how the content's being responded to,
+and so on. So ultimately, I have found when jump starters actually start to have
+things click, they actually understand how to analyze it and come up with great
+assumptions to test. And that's what we're trying to teach you here in Section 7
+and 8. And the whole reason why we do Section 7 and Section 8 is to understand
+the data and test the data so it can become our roadmap, our roadmap for content
+success. And as we get more data, we're able to validate it and see what works,
+what doesn't work, what's hot, what's not hot, what's trending, and so on to help
+you make better data -driven decisions because what's what we want to do. We want to
+actually make data -driven decisions to help us know how to navigate the landscape of
+YouTube. Now, YouTube actually has the most robust analytics out there. And there is
+so much data that I think it does two things for creators. Now, you might be a
+creator that gets overwhelmed with data and gets overwhelmed with analytics or you're
+really petrified of analytics and we'll put you over here in this category. Or you
+might be able to be in this category where you want to know the analytics and
+you're reading into the analytics, but it's not really making sense. And I've done
+tons of consultations over the course of my career. And I always get the
+consultation question in twofold. The first fold would be, you know, I'm getting a
+high average view duration. I'm giving a high click through, but I'm not getting any
+views, you know, what's going on here. And they're missing really what's actually
+happening. Or I get the other thing where the creator is like, I never look at
+analytics. I'm just looking at the view count. And like, well, both are not
+necessarily the best. And ultimately, this beginning of Section 7 is to get you
+comfortable of what to look at and what to see and what to do very specifically as
+a creator. Now, as a jump starter, I don't want you so obsessed with the analytics
+that you don't do anything. Analytics and data is good for us to make decisions to
+know what to do.
+understanding of what's actually happening behind the scenes. And this data helps us
+really as creators, really understand our audience and what makes the video really,
+really hit that we call a banger.
+So I don't want you to get stuck in the data. I don't want you to have an
+analysis paralysis. I don't want you to get so focused in on specific data points
+that you miss the whole picture. So as jump starters, you're going to commit to
+actually deep dive into this content twice a month, okay, at the beginning of the
+month, at the middle of the month. And I'm going to show you in section seven
+exactly what we're looking for to really know how to pull the information and how
+to gauge what's actually happening on our channel. Can you commit to that? That's
+something that you need to do. Now, I want you to write down on a piece of paper.
+I commit, Darrell, I commit to do this twice a month. Now, we're going to be
+looking at data a little bit more than twice a month, but I only want you to deep
+dive twice a month. I think it's a very healthy way to do it. It gives you a
+kind of a scope of what's actually happening. And then it also helps with your
+preparation for your upcoming videos. Now the channel jump start system is simple.
+It's plan, execute, analyze, and adjust. I know I mentioned that a little bit
+earlier in this training and throughout the different sections, but ultimately this is
+where the rubber meets the road because we're doing a lot of planning and we
+execute it on the plan. Now we're going to analyze a little bit deeper. and what
+we're trying to find.
+and bots that really control that gives the data point back to the AI. Now, the AI
+has two specific goals. One is trying to predict what the viewer wants to watch,
+and the second goal is to keep them on the platform longer. So ultimately, our
+understanding of the patterns we're looking for is to understand the viewer at so
+micro -level that we know and predict what the viewer wants to watch. And as we
+predict that, YouTube is actually going to find more people like that because that's
+the whole goal of the YouTube AI. Now, this is the pattern recognition and
+ultimately I like to get really, really granular with this. And I think this is
+really what sets me apart from other YouTube consultants or strategists is because we
+deep dive into the viewer. And that's where the big bulk of the success is because
+once we're in line with the viewer, it's really easy to make those decisions to
+make the right type of decisions on what you want to make based on how it's being
+responded to or, you know, how your creativity will come out when it comes in these
+specific verticals or specific buckets. Now there is a method that you do very in
+-depth investigation. It's something that an investigative journalist used and also
+investigators with the FBI and police. And ultimately it goes back to a poet that
+actually was in 1902, Rupyard Kipling, and basically these are the Kipling method or
+the Kipling questions that he was able to put together in a way that would really
+give you the truth of what's actually happening. His poem says, I keep six honest
+serving men. They taught me all I knew. Their names are what and why and when and
+how and where and who. Six universal questions. So this is a very interesting poem,
+but ultimately it really helps us deep dive into the things that we've heard about
+before is the 5Ws and the 1H, right? And so that's what we're actually looking at
+and that's what we're trying to find is the patterns of this. Now, I want to
+reiterate this really, really important point. The thing that you need to focus in
+on is the viewer. And with the viewer, we're looking at five, five things the
+sixth, right? So the five Ws and the sixth, which is an H. And I really want to
+understand really in depth that process. And that's gonna help me make better
+decisions on my content strategy and know how to pivot. Now the five Ws are who,
+what, where, why, when, and how. And as you can see in this graph, they're all
+around your content strategy. So the more that you understand that, the better your
+content strategy is going to be because what we want to do is really know what our
+viewers care about and what our content's about. And we have that sweet spot, that
+crossover data that is really making the content more powerful. And when that content
+is more powerful, it's going to connect with the viewer. And as it connects, it's
+going to do what we call the viral feedback loop. Okay. So basically, when I
+actually watch and consume something, I'm already saying, oh, this hit me so to the
+core. As a human, I want to share it. This Kipling method is really important to
+really understand and something that we're going to deep dive into. The first W is
+where. I can honestly say I'm obsessed where the traffic's actually coming from.
+And there's a reason why I'm obsessed. Because where we know it comes from, you're
+going to treat it differently. So, for example, if the traffic's actually coming
+through search, you're going to respond differently on your strategies and tactics as
+you would if it was coming from the home page. If it was coming from the homepage,
+then the subscription feed. If it's coming differently from the subscription feed to
+the suggested videos. Now, I know all this might kind of blend together all in just
+views for you, but I want you to commit as a jump starter to really deep dive
+into this because ultimately, when you understand where the traffic's coming from,
+it's going to give you specific things. Like, for example, if I'm searching for
+something and I'm going to do this because that's archaic and that's how you search
+for something, right? People are looking for specific things they want to find. These
+are how -to videos. These are instructional videos. These might be things that they're
+looking to solve a problem or they're looking to be entertained, but they just don't
+necessarily see it in their daily viewing experience. They're really actively seeking
+those specific videos and really actively seeking very specific things. Their viewer
+journey starts with them seeking. Now, there's a difference between that versus their
+viewer journey when they just open up the YouTube homepage and says, oh, look at
+this title and thumbnail that I'm really connected with and click on it. That's a
+different viewing experience. Or more Certainly, they're basically in the short shelf
+and they're just wiping up and they have no option to pick, basically YouTube's
+telling them this there. So these are all different traffic sources and ultimately
+they have different types of things that viewers are actually trying to do to grab
+that information. Now, with that, with that traffic source, it can help us really
+understand what to pivot, how to actually take them along their viewer's journey so
+they can consume more of your videos because because if they only consume one video,
+that is not a good thing. What we're trying to do is to get them to watch a
+video, click on it, then watch to the end, and then click on another video, and
+then another video. So you have that binge effect. And it doesn't matter if they're
+coming through search. It doesn't matter if they're going through home. That's what
+we're trying to accomplish, because then we're actually fulfilling with the second
+goal that YouTube has, which is keeping them on the platform longer. And that's an
+analytic that we're going to deep dive into of the average view per viewer. But
+we'll get to that in a little bit. The next W in the 5Ws is what. What are they
+watching? I want to know out of all our library, that's all the videos that you
+actually have and uploaded and are live out there for the world, what videos are
+getting the views right now. So that's why I look very closely at the real -time
+analytics. It gives me a really good understanding of what's actually bringing in the
+momentum right now on your channel and then ultimately what YouTube is putting out
+there to the world for the people to connect with. And you'll see you could drill
+in deeper on any of these videos and see the different traffic sources that are
+coming off it. And we're going to show you all this. But ultimately it's helping me
+understand, you know, where the traffic's coming from, what they're watching, and what
+makes it very unique. Now, some of the things I'm looking for are content that I
+can see patterns in. So the first thing that I look for is the age of the video.
+Is it all brand new videos? Is it half brand new videos? Is it some
+understand what we're going to create next and what's working and what's not. And
+ultimately, when we understand what's actually happening in your back end, when the
+videos are actually performing or not, that's going to give us the data that we
+need to make better decisions. Now the third W is the who. This is one that we
+went way in depth on in section two, section three, where we're trying to come up
+with the viewer avatar. Well, we're able to take that information and dig a little
+bit deeper because you know we're making assumptions before we're trying to validate
+it and basically what we're looking at is a couple key things first off we were
+looking at the demographics this is like how old they are and where they're from
+and all the easy data that comes in and ultimately we want to drill down a little
+bit deeper into the geographics like we want to know what states they're actually
+coming from if you're really targeting the united states how much is in the u .s
+versus the uk versus Canada versus the Philippines versus Indonesia. Ultimately, we
+want to understand regionally where they're at. Because when we understand regionally,
+we can actually make better decisions. So if we actually had our number one traffic
+source with the US be in Texas versus California, we might approach it a little bit
+different because it's on central time zone instead of Pacific time zone. There's
+different types of metropolitan areas in LA versus in Texas.
+So basically we're trying to get a little bit more data points to say okay.
+watches your videos, but also becomes an active viewer and churn rate. So the churn
+rate is when they stop watching your content. So YouTube's really specific on it. I
+went in depth on a vid summit presentation I did about four or five years ago.
+This is what they really, really care about. And so when I go into the analytics,
+I'm looking very specifically on these key metrics. Number one is the new viewer.
+I want to know how many new viewers are coming on. This is also known as unique
+viewers okay these this new viewer you
+that came back and watched another video. So they watched more than one would be a
+returning viewer. And over the course of the date range that you put in there,
+YouTube will be very specific on how many people are active and how many people are
+returning. So basically you have viewers and then you have returning viewers. Now, I
+hope that makes a lot of sense. And our goal is to always bring new viewers in,
+top of the funnel videos, things that will reach out to a broader audience and then
+convert those viewers into returning viewers. That means getting them to watch more
+than one video. This by far is one of the most difficult things that you do as a
+creator because getting that first initial view, I actually think is pretty easy. But
+to get them to come back and be loyal to you, it's going to take a lot of work.
+It's going to take a lot of connection. It needs to be something that we work on
+very, very specifically as channel jumpstart. It's something if you want success, that
+loyalty factor needs to be there. Now, I know that a lot of you have seen
+YouTubers that have put out content and they don't have the best thumbnail and they
+don't have the best title, but they get the views. Have you ever wondered that?
+Well, I've been able to pill back behind the curtains and see their analytics, and
+I can tell you, their returning viewer ratio is extremely high. they have a loyalty
+factor far greater and beyond what you can ever imagine. Now, the goal would be is
+to have a really good mix. And so they're not really utilizing the videos. They're
+only getting the returning viewers and not really reaching out to get the new
+viewers coming in. Because if you do that, basically you're going to really expand.
+Here's the thing of getting a good mix. Now, in VidSummit, we actually had the
+person that's in charge of the team of the AI at YouTube present at VidSummit and
+he asked everyone the question you know how many views that was coming from Mr.
+Beast were new viewers that never watched any of his videos and everyone made a
+guess and he actually had me make a guess and and ultimately I was off I was off
+a little bit I was pretty close but I was off a little bit this is what he said
+what percentage of Mr. Beast's unique viewers from the past 28 days were new to Mr.
+Beast's channel. And by new here,
+I'm saying that they're new if they hadn't watched the channel at all in the past
+year. Okay? So Mr. Beast, he's got 70 million subs.
+Say he had 70 million viewers this month. How many, what percentage of those do you
+think were new to the channel?
+All right.
+I asked Daryl,
+Darrell guessed 20, which I thought was actually a good guess.
+This data is available for your your channel analytics, but unfortunately, and I'm
+working with the analytics team to make it easier. And Mr. Beast, actually, I check
+with him that he was comfortable with me sharing his data here.
+You can see in your audience tab, you got unique viewers, you got returning viewers,
+and if you want to see new viewers, unfortunately you have to do the math.
+And this graph is misleading actually which is another thing I want them to fix you
+can see on a daily basis how much your new viewers are in your returning viewers
+but what this graph doesn't make clear is that often these new viewers on each day
+are different and and the the returning viewers are often the same from day to day
+and so if you actually look, if you sum up across a month, the new viewers sum up
+a lot higher than it looks in the graph. If you haven't had time to do the math
+yet, it's 34 % of people who watched Mr. Beast in the past month had not watched
+in the previous year. So I tend to think of Mr. Beast as a pretty mature channel
+that has a lot of reach out there. It's already gotten 70 million people to click
+the red button, but he still has an opportunity. More than a third of his audience
+in the past month are new to Mr. Beast. And so if Mr. Beast has,
+you know, this much new audience flowing in, I bet you if you look at your
+channel, you probably find something similar, maybe even higher percentages of some
+new viewers. And so my message to you is think about those viewers as well as your
+opportunity. Again,
+you have your core viewers, but there's a lot of casual viewers. There's the 70 %
+from earlier who are not watching any of your new uploads, but they are engaging
+with your channel. Don't forget about those viewers and bringing them in.
+That's going to be key to your growth? To really grow and to get more views,
+you've got to go out to a broader audience. And ultimately, you have a good mix
+between the returning viewer. That's that loyalty factor that we're looking for and
+getting the new viewer to come in, which is something that we want YouTube to do.
+Now, there's a graph here in analytics. I can show you. There's two lines. One's
+blue, one's purple. Basically, blue is the new viewer that's coming in, and purple
+is the returning viewer. Basically, we want purple on top. We want that on top. We
+want as high as on top as possible. However, we want the blue line to intersect at
+times or come up where it meets the purple, because that's an ingest of new viewers
+coming in. And as new viewers coming in, guess what happens? If we do the channel
+jumpstart system, we actually convert them into returning viewers. And so that's kind
+of our goal. Now, part of the WHO, we're also looking at subscribers. And we're
+seeing that loyalty. We're actually seeing how many subscribers in a given period of
+time are actually watching our videos. It's going to be a lot lower than what you
+think. And that's something that we want to get our subscribers to be active and we
+want them to be active viewers. Now, here's a very specific note that YouTube does
+not care about subscribers, but YouTube cares about active viewers. That's why I'm so
+obsessed with active viewers. And ultimately, that translates over to those subscribers
+part of the who is we're really trying to understand the psychology of what's
+actually going on so if I have new viewers coming in and my my blue is way above
+the purple and it's just new views coming in then people are actively seeking a
+video that's generally the case of what I look for so if I see that I just
+probably see that hey this might be a tutorial or an informational channel or it's
+a channel that actually gets tons of views on maybe four or five.
+Now, if the returning viewer is high and the new viewers low, that's pretty much
+telling me there's extreme loyalty, but I'm not opening up and getting new viewers
+coming in. And that's where a lot of channels on YouTube actually hit the plateau
+stage, where they're just really not growing. They're just always getting the same
+amount of views, but their subscribers go up. And they're just like, man, they're
+really frustrated. And that's where they kind of pivot down to. I've seen them
+really regress down where they're really not getting new audiences coming on and
+they're just exhausting that audience and the churn rate of them losing active
+viewers is pretty high. Okay, now the next W is win. Now, win is a very important
+thing and it's something that we look very in detail when we try to analyze. And
+ultimately, in this section, I want to know what time of the day, what day of the
+week. And so that's kind of the win factor as well. Now, we'll also go a little
+bit more in depth, a little bit later, on knowing the win, the duration of the
+analytics that we're looking at, you know, over a seven -day period or real -time or,
+you know, 28 -day or 90 -day or even longer. Ultimately, we're trying to really deep
+dive into that. We'll get to that in a later video. And the other W is why. Why
+are they watching this video? Why is this video getting views right now? Why is
+this video responding really?
+is asking, is it inspiring it? Is it educating it? Is it entertaining them? Are
+they bored? Why are they watching this? So like for me, you know, when someone's
+coming through the browse feature, I know that they're a little bit more active
+YouTuber because they're going to the homepage and clicking on it. They might come
+from entertainment. They want to be inspired. They might want to be educated or they
+might just be bored. And so what we need to do is to kind of draw conclusions and
+say, okay, maybe some are coming for this or some are coming for that. And it
+gives us kind of a help to really,
+us really understand and knowing exactly what's going on with that viewer. And then
+we can be able to see, you know, how people respond. And some of the things that
+we look at very specifically of the why is reading through comments. Like we want
+to read through comments and we want to be able to see because a lot of people
+are vocal of what they got out of it. Oh, I really like this. Hanging out a
+specific time code and making a response. I see that a lot and it helps us really
+understand what's actually happening in that video. We're also looking on why in a
+couple things. If we see a spike of new viewers, we're asking why. Why did that
+happen? Why is that happening? One of the biggest mistakes that a lot of creators
+make, they assume it's happening because they just released a video or they just did
+a live stream. They're really not looking at the traffic source. And that's why we
+really deep dive into the traffic source, I'm telling you, because you're able to
+see, oh, it was maybe an earlier video that just popped off, you you know, 20 days
+later, 100 days later, you know, we need to be very, very sensitive what's actually
+happening because sometimes when we see a spike, we make wrong assumptions, and
+that's why we need to ask why. Why did that spike? What is going on? Who's doing
+what and where did it come from? I mean, basically, we're hitting all the Ws here.
+And ultimately, that's giving us better decisions of how to actually create a plan
+or understand what's going on on our channel. So Rudard Kipling does the Kipling
+method or the Kippin questions. We've done all the Ws and now we're going to talk
+about the H. That's how. This one's a little bit more complicated and this is
+something that I want to just really just kind of not gloss over, but just give
+you a little bit of understanding. My thing with this is how are we going to
+respond with this data that we're getting with the W's, how are we going to
+respond? And ultimately, that is pretty much section 8 that we're going to really
+deep dive in the how because we're taking all this data that's coming in from the
+5Ws and we're trying to make assumptions on what's actually happening. It's kind of
+like popping the hood and seeing the engine and see where it's running and seeing
+where we need to correct the timing or also, you know, fix a part or whatever.
+It's just giving us that data point on how we need to fix it. And so how we need
+to fix it is more in depth on Section 8, and we'll actually deep dive into that
+for the whole section. And it's going to help you understand how you're going to
+create your next content strategy plan and how you're going to adjust. That
+adjustment is really important because that becomes your new plan. To really wrap up
+this training, I want to focus in on two really important things. So part of the
+channel jumpstart system is really understanding what we covered here in this video,
+but we need to put the right lens on. We need to be able to look at very
+specific times and really understand what's going on. And there's actually a magical
+number on YouTube. That magical number exists for a very long time since 2007.
+And that magical number is 90, 90 days. Now,
+why would I say 90 days on YouTube? Well, I can tell you, 90 days is the cycle
+that YouTube really looks at momentum and everything that's going on. And there's
+actually very specific trends. One of the things I always freak out creators is show
+them that 90 day cycle that it is almost wash, rinse, and repeat what the AI is
+doing. The AI is really smart and is able to see things. But the reason why we're
+looking at a 90 lens is because it was actually instituted in the AI because of
+advertising. Advertisers work in a 90 -day cycle, and they work in quarters.
+Now, I don't want you to really look at quarters because it's not going to give
+you the full picture. And so what we're going to do is have 90 days and compare
+the previous 90 days. And if you go two days, you do look at that 90 days versus
+the previous 90 days. So ultimately, we're looking at a lens of 90 days. Now,
+here's where the channel jumpstart system is. We need to be able to have a
+midpoint. That is our midpoint of when we're analyzing. We can go out farther, where
+we can go out to 365 days or back two years. But that is our midpoint. And if we
+want to put that lens on to go deeper, where we can go 60 days or 28 days or
+seven days, we need to do that. But our midpoint always starts with 90 days. That
+gives us actually the complete picture of what's actually happening on a channel and
+we're not making bad decisions because of something that's happening in a month, not
+necessarily over the course of a 90 day cycle. And I've literally warned content
+creators over and over again that they pivot way too quick because they're looking
+at data in real time or they're looking at data in seven days. We always look at
+data in 90 days and drill down or we drill back. So as a jump starter, I want
+you to commit, always look at the 90 day cycle and drill down and drill back. Does
+that sound good? Go ahead. And I really want you to do it this way because
+ultimately when you are looking at a 90D lens, it gives you actually a better
+complete picture because you're in line with the algorithm. And ultimately, when
+you're in line with the algorithm, you can kind of see, because YouTube makes it
+really easy, they kind of do a little cheat sheet. You can see like seven days, we
+have 28 days, we have 90 days, and so on that basically is how the algorithm is
+looking at things and then ultimately i've found that 90 days is the best cycle to
+really understand what's going on because i've found that any channel is being
+consistent over 90 day period will gain momentum and will also increase their
+baselines now that's the second thing we're going to cover is baselines part of
+understanding all this data is understanding what our baseline is. Now, the biggest
+mistake that I have found that content creators mistake over and over again is they
+try to get data off of other people's channels and they don't even really understand
+what that data is. Now, in this system, I'm going to teach you exactly what you
+need to look at and what a baseline is. Now, what a baseline is, is your average,
+your average across whatever we're analyzing. And we're going to go in depth of what
+that average is. Now, the most important thing is that we're trying to be above
+average all the time. If you're always above average over a consistent period of
+time, i .e. 90 days, what happens magically? You increase your baseline. That's what
+we're trying to do is increase your baseline. As you increase your baseline, guess
+what happens? You get more views. You get more views, you make more money. That is
+increasing the baseline and that's why it's so important to understand baselines. Now,
+here in Channel Jumpstart, we have tools to help you understand the baseline setting
+and know where your baseline's at. And ultimately, you can go into analytics and
+we're going to show you exactly there as well. But I don't want you to compare
+yourself against other people because every channel is unique. Every back end is
+unique. Every piece of content is unique. There are different viewers connecting in
+different ways. And I've seen it over and over again. And one of the biggest
+mistakes I see creators make is they're trying to analyze somebody else's channel and
+say, oh, I need to be up to par. When their click rate could be a little lower
+and their focus
+and we're going to try to get above baseline, right? That's what we're trying to
+do. And then when we do it above baseline, we're saying, what, what are we doing
+here? And we're trying to do that more consistently. Because if we consistently be
+above the baseline, that's when we consistently grow. When we consistently grow,
+that's when we consistently make more money. And that's what's all about here on
+Channel Jump Start. There's so much here to really go over. And I want to talk
+about the very, very last thing. What we're trying to do is really understand and
+time our engine perfectly here of really knowing what we're looking at, what needs
+to be fixed. And so that's why the 5Ws, the 1H is really important because as we
+understand the 5Ws, it will help us understand what we need to do, how we need to
+course correct, what we need to do very specifically of engaging that audience. Now,
+a lot of this is going to be done in the advanced mode of analytics, and I know
+this might intimidate you. And I think that some of you are really intimidated by
+analytics. I want you to push that outside your head. You have me to mentor you
+along the way here in Channel Jumpstart. So I'm really excited for this section.
+Please, please, please watch this video again and really comprehend it. We went
+through so much. And it's really going to help you make better decisions as a
+content creator. I need you to really absorb it. Even in watch it three or four
+times is really important because this is the key that I found that when the light
+bulb kicks on for a creator with the Jumpstarter, it's usually when they actually
+understand this.
+
+PT3
+
+Hey jump starters we're about ready to jump right into analytics and before we do I
+want to be able to put a couple words out to you to really start thinking and
+processing this every jump starter we come at different levels and ultimately some of
+you might be a little bit more advanced and others you might be just learning this
+for the first time. What I like to do is really go to the simplicity of what the
+Channel Jump Start system is. And we actually talked about the methodology a little
+bit earlier in the training in Section 7, but now we're going to actually do
+practical things that we look at. Some of you will have the tendency to skip ahead,
+and I warn you never to skip ahead. You never know what you're going to get to
+give that little aha moment, that little clarity that you need. And sometimes it
+comes out in very simple videos and you're able to translate and put it into other
+things. So that being said, please do not skip this video because it's like
+Analytics 101, but it's going to lead to a masterclass of analytics,
+which I'm really excited in the next video. So let's go ahead and jump over to the
+computer. Okay, we are here at the computer and ready to dive into analytics. I
+can't wait to get into the hood of analytics. Now there's a couple words of
+check it out. But right now, when you're in the creator studio, you have a channel
+dashboard, and they basically give us little snippets or widgets, is what they call
+it, where we can get a quick glance of what's happening on our channel. We can see
+the latest performance of our videos. This is the video they just barely released
+about a day in a couple hours ago. You can see that it's 10 out of 10.
+When you roll over this, it pops up this icon. And you can drill down to each
+specific video if you want to see a specific video or you can look at this
+indicator right here saying that we are below typical and you can see right here
+too under views the view count it's gray. It's down. That means it is down.
+It's below typical But the average view duration is up. So I have a lot of hope
+for this video We'll be able to analyze just a little bit later to see what's
+actually going on here. And then you can see channel analytics, current subscribers,
+how many subscribers are gained in the last 28 days. And then it gives you a
+summary. We love seeing green arrows. I love it. I love green arrows. It makes me
+happy. And this is just at a quick glance. You can see our top videos for the
+last 48 hours. So you can see that. And then you come down, you can see the
+latest post for the community tab, the engagement, latest comments, and recent
+subscribers. Now, this is kind of the desktop overview. If you notice, there is go
+to channel analytics, go to video analytics, and that's going to go to the video
+that you're seeing in your latest, and this right here is going to your channel
+analytics. What I want you to do is mouse on over to the left -hand side and click
+on analytics here. Now, here's the thing. YouTube's always updating analytics.
+In fact, they just updated everything throughout the whole platform on analytics and
+they actually are being more in sync with their mobile app and then also with some
+of the other types of things that you can do like shorts and live streams. So it
+is now updated. It has changed and I'm going to show you those changes here. And
+so right now we are in the analytics section. The first thing that I always look
+at is that encouraging note that YouTube gives us. Keep it up, your channel got 182
+% more views than usual in the last 28 days. And once again, I look at those green
+arrows. Look at that. That's always beautiful to see the green arrows going up and
+that were higher than normal. And then you can scroll down, you can see where it
+is, and they give you just another graph of where you're at. So you're way above
+typical. You can see this is below typical, this is typical, this is above typical,
+and you can see that you're well above that. It also shows you your top content
+for this period. See where it says this period right here? Well, this period is
+basically here in the upper right hand corner. You can select it. So I can select
+it to last seven days, and that will change this. And then I can see I want the
+last last 90 days and that will change this. You can see all the different things
+that are happening. I'm gonna keep it at 28 days for a minute or two. And you can
+see that for this period, you can go dive deep into this. And you can see at a
+glance what your top performing videos are on your channel that's happening during
+the period of selection there. So once again, they give this little snippet. This is
+the same one that they have on the home page, and it shows your latest video. And
+then real -time analytics. This is the first place that I go after I do a quick
+glance. I don't ever scroll down. I just go directly to real -time analytics because
+this right here is telling me where all the views are actually coming on the
+channel right now as we speak. So that's really important for me. It shows you all
+the videos. It shows you how many views you're getting per hour and when. It gives
+you the date and time for this as I roll over. This is really important information
+as we dig into making data -driven decisions. It shows you the top 25 videos right
+now in the last 48 hours that is bringing the views. Now, the great thing is you
+can actually hit it for the last 60 minutes, and you can see that it changes. And
+YouTube's going to select and prioritize what's bringing in the views now. And this
+is something I look at all the time because it helps us know what's going on. And
+you can actually do it by a published date too. So I can actually see your latest
+video by published date where that's actually happening. The last 48 hours is
+important for me for a couple reasons. I want to know which videos are bringing the
+most views in the last, you know, two, two days. And so when I'm looking down,
+I notice that there's an older video that's bringing the bulk of the views. If you
+can see that, we'll want to deep dive into this. I'm going to take a specific
+note, but I can see this is an older video, and it's still bringing in views. Now,
+when I roll over this, you see, it brings you up here to analytics. We can drill
+down to the video section of analytics. So I can get very granular with this
+analytics so we can start really analyzing the videos. We're not going to do that
+yet. I wanted to show you that you can actually get there by clicking a really
+quick button. You don't have to go back to analytics. You can just roll over and
+go to analytics here. But you can do that for every video. But what I'm looking at
+here is how new are your videos? So this is new. This is newer.
+This is older. This is older. This is what I would consider older, older, older,
+older. I want to know what's actually happening, how people responding, because as we
+get a little bit more granular, we're able to say, okay, maybe it's time in our
+content strategy to release another video that is bringing views, or is there a
+video piece of content that would coincide with this? Now, we're going to dig deep
+into a lot of those things in Section 8, because that's the adjustment phase of the
+channel jump start system. We're right now just analyzing, but when we're analyzing,
+we need to take note what's actually happening. And we want to be able to say,
+okay, here's what's going on. I see this. I have these notes. Maybe that's going to
+determine what type of content I'm going to create next. Okay. One great thing is
+you can come over here over the channel where it says less Frenches. You can click
+on this. You can actually select videos. If I want to see a specific video, and
+click any video and I can have real time. Thank you.
+I want to see how it's performing. Well, we got three views in the last hour or
+whatever. That's great. It's something you can be able to do very, very quickly. So
+I'm going to go back to the channel page here. And I just love the axis.
+This is actually one of the biggest game changes for me is when I was able to see
+things in real time. And we can get a little bit more granular on that. Now, that
+being said, I don't really dig deep into it. I just want to kind of see where
+we're at and then I kind of kick out because now I have a pretty good
+understanding of what's happening in the last 48 hours on the channel. I want to be
+able to go up to these tabs up here where it says content, audience, revenue, and
+research. Now, some of you might have more items. I'm actually in as a manager.
+There might be some things that you can go a little bit more in depth. But this
+is where it's changed. They actually added this section right here of content, they
+kind of combined it with some other things. And you're able to see all the
+different things. If you're doing videos and live streaming, which they're not,
+they're not live streaming and they're not doing shorts, that will actually show up
+here. So if you actually see shorts, you'll be able to click on the shorts. If you
+see live stream, you can see the live streams. But basically, you can see the
+different methods here. And you can go a little bit more granular with that as
+well. But going back to what I do, I generally will go to audience first.
+And the reason why, after real time, I want to see what's actually happening on the
+channel. And this gives you returning viewer and unique viewers. And that's something
+that we covered in the previous section of how important that is and what we want
+to look for. And we want the purple on top because that is kind of our goal.
+We'll actually dive a lot deeper in this when we do an analysis. And we have a
+section where we go through how I analyze things. But you can see right here these
+little icons that has the play buttons are videos of when you released it. And then
+two, also it'll show up. You'll be able to see a live stream when it comes up and
+also a short. They have different things that they have the live stream icon and
+they have the short icon as well. So you know what type of content you released.
+You can see a growing audience. These are videos that are bringing in a returning
+viewer. But if you look right here, everything's low. So that's telling me to, I
+need to analyze that a little bit as well. So that being said, you can see other
+channels they watch. You can see the videos that they watch. And both of them have
+where you can go a little bit deeper. It goes into three different pages that you
+can do this. And this is the last session.
+the time of the day and also the day of the week that your viewers are on
+YouTube. And so you can say, okay, they're on YouTube. A lot of creators make bad
+decisions on this, and we've talked about that a little bit. What I want you to do
+is hold off on this on when we get into Section 8, and we'll tell you exactly
+what we're analyzing and how we're going to adjust that. We can also see top
+geography. We can see at U .S., UK, Canada, France. We can see how many watchtime
+views are coming from subscribers. Also, we're seeing the languages, and this is for
+more close captioning, and people are using no close captioning, but some people are
+using English. That's kind of an indicator for me, you know, that they might not
+speak English as their native language. I can see that this is more male versus
+female, and And basically 25 to 65 plus is the audience here.
+So, I mean, I'm doing this at a quick glance. We also can go over and see unique
+viewers and subscribers when they came in. And I always see things like this. And
+I'm like, okay, what's going on there? We'll analyze that in a second. So that,
+there's a revenue tab. You can see the revenue. It shows you your revenue per
+thousand or per mill is what they call it. It has your playback cost per mill,
+and that's like the thing that everybody's talking about CPMs. It's how much you're
+actually bringing in per thousand videos is the $13 there. You can also see your
+monthly estimated revenue. You can see when the revenue is increasing. You see you're
+definitely on the increase. And it gives you an ongoing total. You can kind of see
+where you're at monthly with this as well. And you see top earner videos. You can
+see which videos are bringing in the most money. And that's based off of views, but
+also based off of advertising, there might be some videos that the advertiser wants
+to put it on that specific video. And that's when the ad cost goes up. You can
+see revenue sources. This will actually show up if you do super chat or other
+tipping and stuff like that. That will actually show up here as well. And then it
+also shows you the ad type that you actually have here and transaction revenue,
+which isn't showing anything because you haven't had any transactions. There's
+transactional phase on this. There's this new tab called research. You can enter a
+search term or you can see viewer searches. This will be really, really important of
+really digging into, you know, what they're searching into YouTube. This is a newer
+feature, a newer tool. You can go here by geography. You can say, okay, I just
+want to know what they're searching in the U .S. And you can notice Italy, even
+though that it's about France, they're typing in Italy, it's coming up. But this is
+what they're doing is. I think they're probably looking for a trip to Europe when
+they're searching for something. And Italy's a part of that as well. And then, two,
+you can go content gaps only. So what that is, is like all searches, or we can go
+a little bit deeper to content gap. And let me show you right here. There's nothing
+right here specifically in the US that's doing it. But there's a function to really
+deep dive into specific content on YouTube. That's where it would show up here. But
+the size of the channel, you're not seeing any of this. Some of you might, we'll
+be able to see it. I don't really dig too deep into this, but we'll talk about
+that in the analyzation section. And then also you can save things. So if you want
+to save search terms, you can go there. And then you can see, hey, where is this
+actually handling? Where it says go more. This is an option where you can go to
+Google Trends. You can see that you can see is this trending. Is it staying there?
+It pops up into Google Trends. That's where this date is coming at. And you're able
+to see that as well. So basically, that is the overview of analytics and I want to
+go to this content section because I didn't do it justice as we were going through
+but this gives you views impressions click through rate data average view iterations
+and as we come down here it shows you key moments we'll we'll do this more in
+analysis you can see how viewers found your video browse features suggested video
+YouTube search channel so on and so forth so The great thing about it is,
+as we're digging into this, this goes into the advanced mode, which we're not going
+into, that's the next video that we're going to do. But I want you to really look
+at this. So there's one graph that really got me bent, and it was that upside down
+triangle. And it was one of the most deceptive things ever. They cut rid of it,
+thank goodness, because a lot of creators were actually making pretty bad decisions
+based off of that. And so you can see.
+challenge you to do is just get comfortable with it, see what's going on. I'm now
+really going to help you understand how I analyze.
+There's a lot of things to look at. And when we go into advanced mode, there's
+even more to look at. I'm going to give you an overview of advanced mode in the
+next video. And then after that, we're going to show you my process because I
+pretty much don't look at a lot of the features that YouTube gives us data, I
+might glance at it at a time, but not through really my analyzation phase. And as
+I'm analyzing it, we're only looking at certain things. And I'm going to show you
+exactly what we're doing there and how we're actually drawing conclusions of what
+works, what doesn't work, and so on. So when we get to Section 8, we know how to
+adjust. We know how to adjust our content. We know how to adjust our content
+strategy based on what we're analyzing here in the analytics in Section 7.
+
+PT4
+
+Hey, jump starters. We are really excited because we went through analytics. We
+learned the basics. And now I'm ready to teach you the advanced mode. This is my
+favorite report on YouTube. It can do so much, especially when we actually set it
+up to really group things and look for the patterns that we look for in channel
+jumpstart. So let's jump over to the computer. All right. I got a smile on my
+face. Do you know what that means? I get to go to my favorite report in analytics.
+And I'm really excited about this. And I can't wait to show you the overview of
+the most powerful report on YouTube. And it really is a way that we can really
+define what our content strategy is because we can actually bring things together in
+an advanced way. Now, you might be really nervous about advanced when I say the
+word advanced. And I'm
+upper right hand corner right here, you just go ahead and click that and that will
+take you to the advanced mode here. Now, I'm going to show you some other places
+that you can do that. Like anywhere that you're seeing some data and it'll see see
+more, that actually takes you to that specific section in the advanced mode.
+So we can get really granular in sections by jumping into this.
+And I love what YouTube's done here. So like right here, your top content for this
+period, we can roll down and we can see the top content for this period in the
+advanced mode. And it pulls everything right there. So pretty much every place that
+you say Seymour will drill down to an advanced mode. I'm not gonna say the advanced
+mode because every little function has its own advanced mode. Some are in my
+favorite report, and then some are in its own advanced mode. So like that example
+would be right here, if you notice on real -time analytics, it doesn't go to
+advanced mode, but it does advanced mode in real -time analytics, and we can see
+that right here. That's their advanced mode for that. So as we're drilling down, I
+want to show you one other advanced mode that isn't in the main advanced mode. And
+we'll come back to this in a second, but you see the videos growing your audience.
+We see it's low right here. Well, this actually has advanced mode too.
+And this is something that we're going to leverage of really understanding baselines
+and knowing how our video is performing based off of the date, date range that
+we're actually selecting. Okay. So let's go ahead and go up to the right hand side
+and click out because what we want to do is to go to my favorite report, which is
+advanced mode. And right here, this might overwhelm some of you.
+Some of you might be comfortable because you're probably already using this. And
+ultimately, my goal is to show you how powerful the report is by showing all the
+different features that you can use. Now, word of warning, there's so much features
+and there's a lot to really take in. It can feel overwhelming and cumbersome,
+but I don't want you to feel that way. I'm actually...
+I just want to show you the power of what to do. Now, the cool thing about this
+too is as you get an understanding of a basis of advanced mode of what it can do,
+that's where we can get really granular on things and really see what's going on.
+We can track it and we can see the results of that. That's the analyzation and
+also the change, the adjustment where we can adjust our plan moving forward.
+Now, I've used this in so many different ways. That's when I can't wait for you to
+really comprehend what's actually being given to you here. And you can utilize it on
+your channel, on your videos, and then we can get granular in our group coaching
+sessions. And we can talk about the why, and I can go a lot deeper in when you're
+comfortable for this report. So even if it feels overwhelming, I'll get you
+comfortable in the next video of showing you what to focus in on and then we can
+get a little bit more granular as we get more advanced in this. Okay, so right
+here we actually have right here the section, you can have channels, you can get a
+little granular on selecting specific videos or groups or playlists.
+It looks like it's taking a little bit of time to pull up the videos that comes
+here. We'll come back in a second. You can filter, so you could filter by device
+type. Like if I only want to see the results on the TV, we can filter by that,
+okay, which is really, really powerful. So it pulls a report in, but it only uses
+like the TV views on this. Okay. You can also filter by, let's go ahead and show
+you this, ads enabled, audio playback, content type, device type geography,
+live on demand, operating system. You don't get post type because that is dealing
+with the community tab. It depends.
+am hoping that eventually we can actually get a little bit more granular on this.
+This is for live streams and on demand. I want to be able to have that be with
+shorts too, but I'm still asking for it. Hopefully we can because even here, it
+doesn't come up. And I want shorts to be separate so we can get a little bit more
+granular without having to really go from there. So that's a request that I've been
+putting in. And I don't know why I told you that. I guess this is an overview and
+I'm giving you some thoughts that I have of how to improve YouTube. Okay, down
+below, you can see the different tabs. So every tab, you're pulling up the top 25
+results. Okay, so this one has the top 25 videos. And you can see under this views
+by video. You can sort by watchtime, by subscriber, by impressions,
+by click -through rate, and more metrics. Look at all these metrics that you can
+pull in. We can get really, really granular with this. Like if we want to know
+estimated revenue, we can add estimated revenue. We can go way in depth on average
+view per viewer. That right there is something that I really focus in on because
+that's the heartbeat of your content. That's the heartbeat of your channel. We want
+to know and understand that. And then also revenue, you see all the tabs that you
+can really be more granular on. And YouTube's giving you all this data. And I think
+that it can be overwhelming when you look at it as a whole. But we're going to
+look at it in little pieces to put those pieces together for the bigger puzzle of
+what is our content strategy. Okay. So coming down, there is another blue plus icon.
+You can click on that, that gives you the same tab. So if I want to be able to
+add things, check out this. It basically starts adding to that report.
+You can see the average view per viewer is two here. We're going to go ahead and
+click on this. We can see, hey, we want to see how many subscribers we gained. We
+can see that. And we can add every little item that is here.
+And it will give us the data that we're able to take a look at it at the glance.
+Now, I'm not going too in -depth on this. That's more for the analyzations portion
+of how we actually analyze. But I did want to show you that you can do it where
+you can get really, really more in -depth very quickly. And YouTube will sort it for
+you and give you the data that you need to. And so when we're looking at a video,
+here's the top -performing video, had
+subscribers that were gained at 17 % of all the subscribers gained within this time
+period, which is 28 days. We can see the average view per viewer is 1 .2. That
+means they watched 1 .2 videos. That video plus 0 .2. You can see it brought in 145
+,000 views and 11 ,000 watch time hours.
+And you can see the total subscribers so that there was actually subscribers lost
+to, which we can pull that in report. You can see the revenue, the impressions, and
+the click -through rate percentage. So you have all this right here at your
+fingertips and you can add or take away from it. And one thing I love is I can
+even sort right here or we can come back out and sort right here. So you can be
+able to sort on both sides there. So that's kind of the overview of the video tab.
+So let's go to traffic sources. Now, this right here is where I believe the rubber
+meets the road when it comes to where people are watching your content. So you can
+see in the last 28 days, suggested videos is number one traffic source. Well, it's
+not number one traffic source. It's number one traffic source via watch time hours.
+If we click views, we can see that browse feature is. So it's like a close second.
+You can get more views, but more watchtimes coming from suggested videos. You can
+see search, channel pages, and so on. This is really important for me, because right
+here, when we're going through the traffic source, we can see over on this other
+side that gives us the click -through rate percentage. We're basically looking at the
+views and the click -for -rate percentage for that traffic source. And this is a key
+to understanding YouTube. It is. Every different traffic source has its own algorithm,
+and the AI is controlling the algorithm and it has different bots and it basically
+is looking what we call the hit rate what a hit rate is is when YouTube delivers
+something and it and they click on it right so like if they do an impression and
+someone clicks on it that's a hit rate even though that's a click -through rate
+percentage YouTube views it as a hit rate because if we can increase the hit rate
+in that traffic source guess what happens, that's where you're getting more and more
+impressions and the more and more impressions is leading to more and more conversions
+on it. And that's how you actually scale. And so that's what we're wanting to do.
+But we need to know this number of the hit rate or your click -through rate of
+your impressions to view ratio. So you can see that right there. And then each
+traffic source is there. But you can also see that we get more view duration in a
+suggestion for this channel. It's well over a minute and 10 seconds,
+and that's pretty high. And so as we get more traffic from suggestion, we know that
+there's a higher probability that they're going to stay on the video longer. Okay,
+so all this is really good data to do. Now, once again, we have this blue little
+icon. Notice that they're crossed out here. Now, YouTube doesn't allow you to really
+pull in a lot of this data in certain tabs and you can see right here average
+percent viewed that gives us the ability to add that as well and then you can you
+can sort by that or we can come back to to views but it's always there so you
+have that data point but basically based on where you're at in the report YouTube
+will say if it's available or not for you to really get granular with it now that
+being said I want to show you this too like when you're here in browse feature We
+could see how many views were actually coming from the home page, how many views
+were coming from subscription feeds. So we just go ahead and click on this. And
+then that will pull in and we can get a little bit more granular. We can see that
+the bulk of the views were coming from the homepage. And also the subscription was
+only 6 ,000 of the 179 ,000. So you can see where your traffic is even more
+granular there. And then also with suggested videos, you can actually see the videos
+that are actually suggesting your content. So we can see right here, the bulk of
+them should be your videos if we're doing the channel jumpstart system. The bulk of
+it should be yours. This is something that I love showing creators that think that
+they need to social jack where they go and try to hijack somebody else's content
+from getting it to suggest. And it doesn't really work that way. I mean, yeah,
+you can get some videos that can go from there. But YouTube's really good at once
+you get a little bit of traffic, it's really good at promoting and getting it in
+different traffic source. But you can see where it comes from. These are all their
+videos right here, and it's not a surprising at all, that that's where it's at. All
+of them are pretty much their videos. And so you might see a little bit different
+results on your channel, and we'll basically dig deep into that. Now, once again,
+you have the ability to add a couple things. But in this, all you can do is add
+clip views and premium views. So just like YouTube is going from there. And then,
+too, you can go a little bit deeper on some of the stuff where I'm going to go
+back to, you know, you can just go down by traffic source. But if you notice that
+I'm going to show you here in traffic source again. So this is really important
+that in all this you can actually select a secondary metric. So we can do primary
+metric, secondary metric, and we can get a lot more in depth where you're doing
+both and it brings this up in competition. So you can see, okay, I want to know
+how views are performing when it comes to impressions. And so we can get a little
+bit more granular in that and you can see how it coordinates. And you can see that
+The secondary metric is in green and the primary metric is in purple.
+And then you can kind of see the graph of how that's able to go. Now, another
+thing is the graph can change. You can do it as a bar chart. I like that because
+sometimes you want to see, okay, which one's bringing in the most views per
+impression or whatever. But, you know, ultimately, you can also select the date range
+here of, you know, when you see this. Now, I know that Some of you might feel
+overwhelmed and don't feel that way. I'm going to show you exactly step by step in
+the next video, exactly what you're going to do to analyze it. And it's going to
+be really, really comprehensive. So that being said, we showed the primary metric,
+the secondary metric. All you got to do is to unclick none when you go there.
+Also, the next tab is geography. And once again, you're pulling in. You have more
+data points that you can add to this, and then also you can drill down. See that?
+We can literally drill down, like if we want the U .S., we can see California,
+Florida, Texas, New York. That gives us a lot of data that we need to know. And
+once again, you know, all this is really, really super powerful when it comes to
+really getting viewer ages, gender. We can even see the date, like the date when
+the traffic came in. It says your most viewed days. We can get granular too on the
+days that brought in more average view per viewer, so there's certain days that are
+higher. And that's what we're trying to understand is, you know, because of views,
+did it translate into them binge watching? That gives us some indicators there. Also,
+there's a tab called Revenue Source, and it can show you the revenue. You can drill
+down and get really granular on where your revenue is coming from. You can see all
+that, and it breaks it down. I want to show you why we're here. Another way,
+this is, this is one tab when we talk about ad type, I export. And I want to
+show you where that's at. So when you get something, all this in advanced board,
+you can export anything into a sheet. So if you see right up here, upper right end
+corner, you see export current view. And YouTube gives you the ability to add it to
+a Google sheet or a CSV, comma, separated value that you can bring into whatever.
+And I use this a lot for this one because I'm like, hey, I need this report for
+X, Y, or Z. And, you know, at any time in any of these settings, I can just hit
+export right here, which is really, really cool. And then, too, you can use it as
+a data input into some reporting software or stuff like that. Okay? So once again,
+you can get more granular if you need to. Now, right here where it says more, look
+at all the other things that we can do. Subscription source, content type, playlist,
+device type, transaction type, YouTube product, video type, playback location, operating
+system, video information language, translation, blah, blah, blah, blah, blah, blah.
+Like, we can get very, very in depth on each of these things, and it's going to
+give us a lot better understanding of what's actually happening. And you can just
+keep on adding those there. Now, that's kind of like the overview itself of this
+report, but I wanna show you this other feature right here where it says compare
+to. This is where I love it because for us, if we're only looking at data and we
+don't have anything to compare it to, guess what? That's a big mistake. We need to
+compare it with something so we can analyze it. Why did this do this and why is
+this doing that. That's the analyzation process that we're trying to go through. So
+right here we have compare to. This is where you can analyze. And if we're not
+comparing anything, then we're just looking at the data and we don't really know how
+to fix it because we need to compare it to something. This gives the ability to
+compare a lot deeper. So when you see this period over period, year to over year,
+first 48 hours, we can get very granular on the comparisons. And then Also, we can
+compare it against a video. So if we want to go video versus video, I'll show you
+how to do that. So if I wanna compare this video versus another video, all we
+gotta do is come over here and click on this. And we can go ahead and compare it
+against that video. So we can see from a granularity process of what's actually
+happening. So like this one, and I'll come back to notice this one, like 70 % of
+these views were coming from browse feature versus 73 % were coming from browse
+feature. And this one was for search. Search is the number two. On this one, the
+number two is YouTube features. And so we can get a lot more granular on it. And
+this is like my favorite tool because we can actually compare it with things that
+really makes sense. Now, the next one is groups. I'm going to show you exactly what
+to do this in the next video of how to group things and I'll have you group it
+together, which is really important. I want you to do that as well. Ultimately, we
+can compare group against group, and I'll show you that in the next video as well.
+This is pretty much it for the advanced mode. I gave you the overview. We're going
+to start really personalizing it for you and your channel, and then ultimately I'm
+going to show you exactly what you need to look at, what you need to avoid, how
+to process it, and that's coming up of really knowing how to analyze your channel.
+
+PT5
+
+Okay, jump starters, we are ready to jump right in and talk about buckets. We're
+going to talk about playlists and we're going to actually bring them in analytics to
+give us a lot more data to help us make good data -driven decisions in our content
+strategy. Now, before we do, I want to talk about the two objectives of YouTube,
+and I know that we've covered this a lot throughout channel jumpstart, but it's
+really important that you actually grasp this concept so that we know exactly what
+we're looking at. Now, YouTube has two main objectives. One is to predict what the
+viewer wants to watch. The second is to keep them on the platform longer. And
+basically, we're going to cover keeping them on the platform longer and also
+predicting what they want to watch. Now we're going to kind of reverse that. So
+when you're actually watching a video, YouTube's trying to make the best assumption
+for what you want to watch next. Now, it has the next up video, and then it has
+all the videos down the right -hand column on the desktop or beneath the video
+within mobile. And what YouTube's doing is giving you options. Some of them are what
+they call rabbit hole options, which is going deeper and deeper and deeper down the
+rabbit hole. Or they're giving you, say, hey, you like this creator and here's some
+other variations that people like this video, but it's also they like this other
+video from the same creator that you're actually currently watching. And so as you
+have a deep library, YouTube's going to recommend that as well. And then it's going
+to do non -rabbit hole video, something that's completely non -related to what you're
+watching, but it's related to the viewers. So whatever the viewer is watching in
+their history over the period of time, YouTube's going to make a suggestion on some
+of those videos from there. That's basically the option that they're actually getting.
+Now, where buckets really deep dive into it is buckets are rabbit holes. Okay,
+so when we're doing a bucket, we're using the same type of meta -information. It's
+the same type of viewing experience in the specific video. And basically, it crosses
+all the things that YouTube's looking at for a rabbit hole video. So we have a
+high likelihood that if they're watching this video, there's a high likelihood that
+there's going to be a video or two or even three that are in the bucket that are
+going to show up in that suggested video area, whether it's on the side on desktop
+or below the video. And that's what we're trying to do, because as one video takes
+off and receives momentum, guess what happens to the other videos in the bucket?
+They actually get suggested because as one's going, it's going to suggest other
+traffic. And if you've done the channel jumpstart way, where you're actually doing a
+great title and thumbnail and we're correlating it in buckets, then that is like
+kind of intertwined, especially if you have an active audience because then it's
+looking at the audience data too, which really, really ties it in. And I can tell
+you, if you get this system down and you get a lot of viewer loyalty, then you're
+actually going to get a ton more views because YouTube really looks at that viewer
+data just says, hey, there's a higher probability when they watch this video that
+they watch this one next. And it kind of solidifies your ranking locations on
+suggestion. And so that's a really, really awesome thing. And it's something that I
+can't wait for you to do. And this video is to help you set up your buckets using
+the advanced mode in analytics. And I'm going to take you step by step through it
+and then making sure that you have the assignment to do this because this is
+something that we're going to be doing consistently when we're analyzing our channel.
+So let's jump over to the computer. All right, we are here at the computer ready
+to deep dive into analytics and really put your buckets into groups so we can
+analyze that properly. Now, to jump right in, we need to go to advanced mode. You
+can come up to the upper right hand corner. This is our favorite report. And once
+we're here, you're able to see this screen. And we're going to come to the compare
+to up of the upper right hand corner Click on that and then come over to groups.
+You should see this if you have no groups formed. If you have a few groups formed,
+then congratulations. You're one step ahead. So if you don't have a group, all you
+got to do is click this blue button here, create a group. And basically what we're
+going to do, this is on Legit Tim's channel, we're going to actually do a couple
+groups. And so we need to give it a name. We'll actually do the first bucket,
+which is guess the. And this is where he kind of does kind of some content where
+they guess. And we're
+going to select some of his videos that are the guest videos.
+We'll do 10 of them and hit save so by doing that basically it uh brings it into
+a group puts them all together and the great thing about it is you can add uh by
+uh rolling over to this and then hitting the pencil icon and you can keep on
+adding so if i want to add more i can i can add more and there's a couple ways
+to do it i kind of went very quickly um you can you can just click it right here
+or you can click this tab where you could put the video id so that's the video i
+groups for legit Tim. So let's go ahead and do another group. And I'm going to use
+the verses. And we'll do verses again. He has a couple of verses videos.
+And I want to be able to make sure that we're hitting all these.
+Get a couple of these going.
+Okay.
+So let's just make sure I have all these. Yep, that's a versus one,
+two.
+Okay, so we'll go ahead and hit save on that. So we now have two buckets versus
+versus Gesta. We're going to do another one, create another group, and you can
+create as many groups as you need to.
+This other one, he went, so he does one where he goes to some place. And let me
+go ahead and hit those. And this is one of his newer buckets using the channel
+jumpstart system. Really excited about this. And hit save.
+And let's go do another group. He's actually done quite have been on YouTube so
+we're able to group this together and we'll do wearing if I can type
+and we'll do wearing okay
+hit
+some of these here
+um Some
+of these are not titled the same way. I mean, this has done a lot prior than he's
+done Channel Jumpstart, but we'll definitely grab a couple of those.
+So we've got 17 of those, which is good. So we're getting some buckets here. We're
+going to do Another one. This will be the last one I do here. I know he has
+others, but I'll do I bought so that we can actually look at the data the way
+that we need to. So let's go ahead and take
+away that I sold because it's not I bought.
+Okay, so we actually did this for Tim. Basically, we're able to create all these
+groups around his buckets. Now, I know that he has more buckets than we've actually
+created, and we'll actually do that here offline. But I wanted to show you exactly
+how to actually make groups on advanced mode. Now, here's your assignment. This is
+really important. Some of you have zero videos. So this is not going to be an
+assignment for you. but those that have videos, I want you to create a group. Now,
+what groups do we want to create right now? Well, the first group that I want you
+to create is around your first bucket. So everyone should have one bucket. And if
+you have zero videos, you can't do it because you actually have to add a video for
+you to actually create a group, okay? And so basically, I want you to create one
+group around your bucket. Now, some of you have been on YouTube for a while and
+some of you have a lot more buckets that you're actually utilizing right now, what
+I want you to do is also create a group around each individual bucket. So if you
+have five buckets, I want to see five groups. If you have six buckets, I want to
+see six groups. The more work that you do here, you can always add as you add new
+videos to that specific bucket. And that's going to give us the data that we're
+actually looking for. So that's your assignment is to actually create a group around
+your bucket. And if you have multiple, I want to see multiple there. Okay. Now, I
+know earlier on that I said that we're going to actually talk about playlists, and
+playlists are really powerful for consumption. And ultimately, we're going to be
+creating playlists around each bucket. So for extra credit, if you want to create a
+playlist on the public side of your YouTube channel that is in relation to your
+bucket, You can do that too. We're going to really deep dive into how to leverage
+that the right way when we're actually really using that as a target video. So that
+is your assignment for this video. Make sure that you do this because we're going
+to start really breaking this down and analyzing it away. And we actually need this
+data in so we can make really good data -driven decisions.
+
+PT6
+
+Hey, jump starters. We're ready to jump right in and really deep dive into
+analytics. And this is something that I want you to do at the beginning of the
+month and also at the middle of the month. This is where we're going to get really
+granular of what's going on with our channel and also the videos. Now, one of the
+things that you're going to want to do is really get this process down. It's not
+complicated. I know it might feel that way when we're seeing all the different
+features and so on. I'm going to show you what to do, what to look at, and what
+to pretty much avoid until we actually have our first initial assessment for this
+specific things that are happening on our channel and then also the individual
+videos. So this is where we're going to do it. Now, I want you to get in that
+pattern of doing it this way because this is the pattern that we will actually
+explain to how to go deeper on things. And once you have this down, then you're
+like, oh, okay, it makes sense now of what Daryl is saying over here because I
+understand that foundational element of how we're actually analyzing our channel, how
+we're actually analyzing each individual videos, and how we're actually bringing the
+data together to analyze. So when we get to section 8 of how to adjust, that will
+actually help us adjust in the proper way that we can see, did it work? Did
+adjusting that work as we put the new plan and execute on that content? So I'm
+really excited and what I want you to do is buckle up because we're going to
+really get in and check out your channel and videos right now. Okay, we are here
+at the computer. We're ready to deep dive and get a really good analysis of what's
+going on on our channel and then really looking at very specific videos. And what
+we're trying to do is gauge what we do next based off of what's actually happening
+on our channel. And we want to really pull in a really good analysis. Now, I want
+you to go through this. When you really get it down, it's going to only take you
+about 20 minutes to do. So it's not that much time, but it's going to take a
+little bit more as you get comfortable of looking and assessing. Now, I can do it
+in a lot less time than in 20 minutes, but that's like what I want you to just
+get comfortable about 20, 30 minutes. When you analyze it, I want you to really
+deep dive. Now, there have been jump starters that do it more than twice a month.
+I'm just encouraging you to do it twice a month when you get comfortable with it
+and we get a little bit more advanced. Then you could do it as frequent as you
+need to, to do a lot of processing from recon and research of really understanding
+what's happening in your data and really adjusting your content plan. But all content
+plans that I do, I usually do it every two weeks. And so there's no need to go
+into it every day and really lose track of really getting some analysis paralysis or
+spending too much time in your analytics where you should actually apply it to your
+videos. So that's really, really important. Let's kind of jump right in and go
+through that process. Now, we are here on a channel for one of our jump starters,
+legit Tim, he has good news, he's getting more YouTube views from YouTube
+recommendation, which is, that's what we want. That's what jump starters, we love to
+hear. It's like music to our ears. We have green arrows all the way up. We love
+that. We love seeing this happen. So Tim, it's great. Your channel is healthy. Now,
+what we're going to do is go through the process of analyzation. So I did a quick
+glance here. First thing I'm going to do is go into real -time analytics, because
+that is telling us where the views are coming from. We can see that he just barely
+released a video. I bought the world's cheapest Amazon returns. It seems like it's
+performing quite well. It's bringing in some views here. And then I'm looking at all
+this content. This one's a little bit older. So this one's in 2021. All these
+others are June, March, May, April, May. I'm looking for older content,
+guess the name, and I'll buy the shoe for you. Okay, we see that. And, you know,
+we have, I want to sort here by last 60 minutes. So seeing what the hour, see if
+any of those changes. And we see a couple of these. This is all the stuff that I
+want to really understand. Now, what I'm doing with this information is knowing one
+specific thing. Is it something that's going to always be here? And if it is,
+then YouTube's viewing this as data. So I want to go to this one specifically. And
+this is how I start drilling down on this video. Okay. So this one was December
+22nd. Why is this video performing? And it continues to perform in real -time
+analytics. It's like in the top 25 videos. And in that, even with the last two
+days, it's still one of the top videos. So what I want to do is drill deeper, and
+we come right here to analytics. Now, all I'm looking at is traffic. Traffic
+sources, traffic sources, traffic sources, traffic sources. That's what I care about.
+And the reason why we want to do deeper is because we can get the report here to
+see exactly where those views are coming from. And we can see that it's coming from
+YouTube suggesting that video. It's 64 % of the views that he got in the last 48
+hours and then also 27 % on the homepage and you have other features and so on. So
+that's telling me that YouTube really likes this video as a suggestion. So when when
+a video is popping off, we can go a lot more granular into this. And so I'm going
+to go a little bit more granular even though that we're in the advanced mode. You
+know, that's going to go granular a little bit deeper because I'm wondering which
+videos are promoting it. So we can get in here where we go, I'm sorry, I'm going
+a little too fast for you, but traffic source and then suggested videos. I want to
+see that. And we can see that this one is like, I won every sneaker in Keymaster.
+It's done on March 16th. That's bringing the bulk of the views. And you can see
+some other videos that are there as well. Now, this being said, when we come to
+this one, we can watch it. You'll see that it's from his channel, and that's one
+thing I want all of you to realize that YouTube's looking for your content first
+before it goes out to other channels to suggest. You have a higher probability.
+That's why the bucket system works, and we can see that I want every sneaker is
+literally bringing traffic to this, but all these are as well. Now, that being said,
+we're going to come back to this, and I'm going to go back to the real -time
+analytics. Now that we're back here in real -time analytics, I'm going to just do
+that for all the different videos, because what I'm trying to do is understand where
+the traffic is, so we can come to this one right here. I want to know, once
+again, let's go to analytics, and we're going to see where that traffic's coming
+from. Once again, this is suggested videos. And so that's really important, but you
+notice that it's not coming from the home page. It's like suggested videos. So that
+right there gives us a good understanding of what's happening here on our channel.
+And this is basically the top 25 videos. And what I'm trying to do is really
+understanding all the older videos and where the traffic's coming from. Now, I'm not
+going to act upon that news now, but I need to have that in my back pocket for
+when I actually do content strategy because it might be time to redo another video
+in that bucket, you know, and that's something that we need to analyze because
+that's the analysis portion here now. I can tell you right now it's continue to get
+views. And if we release something in the bucket, I mean, we can see right now it
+is in December. So it's had a period of time, but it's still bringing views. Well,
+maybe it is time to do that bucket. And I would say, yes, It'd be, that would be
+one of the videos that I would consider actually releasing when we actually do our
+new content. Okay, that being said, we have another one, guess the price and I'll
+buy you the shoe. And you can see, this is September 22nd, 2019. I really like
+this one, guess the price and I'll buy the shoe. And you see the price is $5 ,000
+and you can see that he's buying the shoe. And so this is really cool. I love the
+idea, the concept of the video. And then two, this is something I'd probably
+consider as well. Once again, I want to see where the traffic's actually coming
+from. And that's where we get a little bit more granular here. And you can see
+suggested videos. So YouTube is recommending that. That's something that we would want
+to put on our list of videos that we might want to do. Now, Tim might not want
+to continue to make content like that. And that's okay. But that's the assumption
+that we're making is Here's the traffic and here's ideas to really maximize the
+momentum that's actually happening on our channel. That's what we're trying to do. So
+that's what we do here in this report. And then two, once again, like I showed you
+in the overview, you can get granular on every video and see each video where this
+is at. We can actually go back into their own real time and you can see in real
+time where videos as. So, like, that's really important. That's something that you
+should all consider when you, uh, when you really break this down in real time is,
+is seeing what's happening right now on the channel. Now, I'm going to click out of
+that, go back to analytics. We went through real time analytics. That's something
+that I look at because that's kind of really the pulse of what's happening right
+now in our YouTube channel. And we got a little granular with videos. And I like
+to look for anomalies. I would like to see, hey, what's actually popping right now?
+Where's the traffic actually coming from for that specific video? Now, we can
+literally pull this in in more of a granular view for traffic sources. But we don't
+do that yet. What we do is go to audience. Now, audience is a really good
+indicator because what I'm trying to do is make an assessment of basically, you
+know, where the traffic's coming from. We show the videos that's getting the views
+now, and I want to know who's actually watching that. That's where our investigated
+process with the Kipling method is in effect, right? So we're coming into it. Now,
+this report tells me so much, and I explained it in another video, but I need to
+go again. When purple is above blue, that means there's actually a loyalty that's
+coming from your subscribers. So Tim actually has a more loyal audience and it kind
+of varies. You know what I'm saying? I look at the higher the purple is over the
+blue, the better, but blue needs to go up like this right here where it gets
+really close to purple because that's bringing new viewers in or it needs to bust
+past purple at different times to bring in new audiences. So that's telling me that
+I need to do more videos that we can actually look at that will bring in a new
+viewer. And that will come back down to a couple things that will hold in our back
+pocket. But we just want to see, hey, where we're at with the channel, what do we
+need to do? Now, this next one is videos growing your audience. Now, I really,
+really love this. And the reason why is because when there's a new viewer, if you
+remember the chart that we actually have is when they use the click through rate
+and we get a new viewer, we have the opportunity to churn them, which means they
+watch just one video or get them watch another video, which is making them an
+active viewer. That's what we want to do. We want to make them an active viewer.
+And this is telling you new viewers who returns. So these are the returning viewers.
+These are the active viewers that are coming in. And it literally will show you
+which videos have a high opportunity for a return. Now, you can see that this one's
+grayed out. It needs enough data to collect. But once it has enough data, it's
+going to do it. But for right now, it's very high. So the reason why it's very
+high, it's a new video. And YouTube, basically from their perspective, Any new video
+has the highest opportunity to get a returning viewer because it's on the home page.
+And the homepage is where the bulk of the views come from for new viewers in their
+viewing experience on the homepage. And so that's something that YouTube knows, like,
+hey, if they're active with your channel, they just watch the video. When they go
+to their homepage, they're going to have a high likelihood of seeing your latest
+release on the front page. And that's really cool. And then, too,
+you can see very in depth of what's actually happening here with other video
+content. So you can say, oh, relationship -wise with their content, if I do this
+type of video that I want a sneaker at Keymasters, the one this sneaker bucket
+might be something you want to do because returning viewers are actually watching
+that. And that's where we get him to watch video after video, after video, after
+video. Also, from this data, It tells me a little bit of data of where people are
+watching content. So it shows your audience where they're watching on YouTube. Stay
+focused, Frank, Jesser, which is really cool. He's another jump starter here, too. We
+see House of Brick. And then right here we can toggle. And I just want to see
+things that kind of help me see what's going on. One thing I'm looking for is
+people like Nolan here. He has 1 .5 ,000 subscribers. That is a note. Like, you
+know, this channel has like 4 million. This is 1 .5. But is that someone that's
+coming up? I want to keep an eye on it. There's something happening here. It's most
+likely a video that's popping off. And guess what we do? We put that in the back
+of our mind of, hey, that's a video that's popping off. This is our recon and
+research because all we're trying to do is analyze what we're going to create. So
+let's go ahead and dig a little bit deeper here. So as we come into this,
+these are the other videos that your audience watched in the last seven days. And
+I'm seeing, okay, phase rug. It gives me an idea of other channels that we can do
+a little recon on that you know that your audience is loving. You can see Jesser's
+video right here. He's blown up right now because of all the stuff that's going on.
+And ultimately, I'm not seeing that guy. At least I don't see him. So I'll want to
+actually come over here and open it up because I'm very curious when this happens,
+okay? I really, really am. I want to see what's going on here. And look at that.
+Holy cow. Look at this. The shoe review got 159 ,000 after one month.
+Your height is your shoe. I'm very interested in that. That could be an idea to go
+from there. But you look at these two things that are here. Shorter form videos,
+it's only 34 view or 34 seconds on it, 22 seconds. I can pretty much tell you
+what's going on here. And it's something that you might want to look at a little
+bit deeper, but they're just testing out titles and thumbnails at times to see if
+we can get a click. And then they might be using it on a different channel. So
+this might be a channel that is being used to get the click through rate and get
+that stuff down so they can put it on another channel eventually. I've seen that
+time and time again before. Also, it might be they're trying to game the system. I
+notice it's shorter form video, so they're probably trying to get that hook. They
+might be testing that as well, or they're trying to game the short algorithm. I'm
+going to show you that in an advance call because they're using shorts, but they're
+not using it in the short shelf, but anyway, they're getting the views there. So
+that's something I'm looking at. It is coming up, but I'm not seeing that. And I
+think it's coming from that older video that you're seeing here a month ago, because
+this is for the last 28 days, and this is only the last seven days. So the seven
+days, traffic's not happening there, but you're able to see that. Now, coming down
+here, we can see that we have really good weekend viewership. So that tells me
+that, hey, they're probably in school. However, this is for the last 28 days. When
+coming into the summer, this will change. It'll be, it'll look like this the whole
+time across the week, and not just selective days. It'll be a lot more in depth.
+Maybe, you know, during the weekend, it's something we need to look at. Also, we're
+looking at people that are the loyalty factor. We saw that, hey, people are coming,
+but I'm looking at here at the notifications. We have 13%. Now, I'm not as
+committed to the notification tab. I just want people to come and find my videos.
+This helps people to get jumpstart, you know, that momentum. But ultimately, I wanted
+it on that homepage because that's the fastest way that you could possibly get
+views. I look here to top geography US. We can drill down a little bit,
+and I'm going to come down here to see where those views are coming from,
+California, Texas, Florida, New York. No surprise there. That's the biggest areas of
+consumers of YouTube in the world, and you can see that as well. So coming here,
+non -subscribed is 82%. Now, remember, YouTube is looking for an active year.
+They don't really care about subscribers, but I like subscribers because it's a
+little bit more of a commitment, but YouTube only cares about, if you come back up
+here, they care about the returning viewer, right? That's what they want, that active
+viewer. And right now, you have a very low subscribe to non -subscribe ratio.
+This could be for a couple reasons. Your channel could be older, that you had a
+lot of subscribers that have now moved on. You could have shift from your content,
+you know, that's something from there. But I basically am looking for a very loyal
+audience that wants to subscribe to me. So for here, I would like to have at least
+60 % of my subscribers watching my content and 40 % that are non -subscribers.
+That's a really good mix. Now, some channels don't have a face. They don't have to
+connect to someone. It's more about the content. So that could be lower here. But
+Tim, your stuff is definitely there. So I want to be able to increase that loyalty
+where they feel invested into your content that they hit that subscribe button,
+but they're also watching actively. And so that's something I want to just kind of
+put back on as we're gathering data here. We also look at you have 82 % male
+versus female. Really, you have Gen Z, older Gen Z, And then you also have some
+millennials. And then you have this right here. This is an indicator. It's like 20%.
+And you're like, wait, what's going on? You know, is it resonating with the older
+audience? It could be. But my guess is it's basically people that are using their
+moms and dad's account. And that's why you have, when we break it down the female,
+that's why I think the 16 % is coming from mom's account. You know, I see some
+females watching it, but usually shoe nerds and things around the shoe world are
+more male, especially when you're showing male shoes. Okay. So that being said,
+that's something that we break down. And ultimately, I'm just trying to gauge what's
+going on with the channel. And, you know, just doing this gives me a glance and
+I'm writing these things down so that I know exactly what I need to course correct.
+And I'm going to take all this information and course correct that, okay? So let's
+come back to the overview. We've now done real time, we've done audience.
+So we have a really good in -depth understanding. Now we need to go a little bit
+more granular on this tab right here on content. Now, this content is a new tab
+for everyone on YouTube. And you can see that You have videos, we have lives,
+and we have posts. And then two, if you're doing shorts, it's going to show up
+here. I'm not a big fan of shorts. I'll put it out there right now. Not a big
+fan at all. But this is something that I'm really worried about in the sense of
+how you look at things. And so right now, I want you to, when you're analyzing
+videos, you analyze videos. If you're analyzing live streams, you analyze live
+streams. Okay. We want to separate right here. So I'm really grateful that YouTube's
+put it in here, but don't look at everything as the same type of content because
+it's not. Okay? So YouTube has given us that aspect. I don't click all.
+And I don't click all for a couple reasons because I don't like to have all the
+data like this. And then this is the devil right here, this upside down triangle.
+It's only in, hey, this is how your channel's doing overall. And I don't care
+because we want to be a really granular. So I don't know.
+misleading. But anyways, I don't like to look at as all only to do a quick glance
+to see, hey, is our YouTube channel being recommended? We're under that 75 %
+recommendation range, which is the average. I want to be higher. But you can see,
+okay, this is where we're at. Okay, now what I want to do is come back to video.
+And the reason why we're coming to video is because of this factor right here. So
+we have videos. It shows you the green arrow here. We see our impressions. We see
+our click -through rate, which I don't look at the click -through rate here. I want
+to go a little bit more granular here in a second. We see our average view
+duration, everything that we need real quick. Now, here is interesting,
+and we can go very specifically into each specific video, but I don't want to do
+that yet. What I'm trying to do is look and gather things that I'm taking and
+making notes for so I know how to really drill down. And so these are key moments.
+I love this key moment section because it basically goes over the last 365 days.
+And we can see, oh, 84 % of the people watching this video stayed after 30 seconds.
+So that hook was really, really important. I can see this one was really important
+to that hook. And you can see some commonalities. And then you can also see the
+stuff that was below, So,
+that, hey, actually worked, we need to write those down of, oh, let's try this
+again. That's when we actually do the analysis portion of, well,
+we're doing the analysis portion here now, but I'm saying we do the adjustment
+portion of we're taking our analysis and say, hey, let's try these things on this
+video. And then we're looking for very, very specific, granular things that's actually
+happening here. Now, as we coming down, how the viewer found you, once again, you're
+seeing the traffic sources. We care about that. You can either hit the tab on
+search and it gives you a little bit more granularity there and you can see the
+top videos there as well. So ultimately you can do it for live streams, you can do
+it for videos, you can do it for shorts. That's the content tab and I actually
+really like it a lot. Like that's one of my favorite new additions because it's
+really like mobile and they're trying to meld the mobile world with the desktop.
+So it's the same experience outside of advanced mode. There's just no way that they
+can ever do that on mobile. It's just way too complicated. Okay, so that being
+said, that gives me a lot of little things that I'm looking at very specifically of
+the help of the channel. I'm going in depth on that in the sense of what's
+working, in the sense of what's happening right now, who the audience is,
+and what they're watching, when they're watching, all those little details. And now
+we come to how we break down a video. And this is something I want you to do on
+every video release. So at the beginning of the month, middle of the month, if you
+release three videos a week, that means you have to do this process six times for
+your videos. And the reason why you want to do that is to really have a good
+understanding of what's going on so that you can be a better content creator because
+We're going to analyze every video, and this is how you do it. So I can't analyze
+this video because it's too new. You has to have at least 48 hours on it.
+And so I'm going to come to this one, and I'm basically going to go over here and
+scroll down to this analytics, and I'm going to click on it. This gives me the
+data that we need, and I'm looking very quickly at this analysis so that we can
+see it took off, And then it's just kind of flatlined right here. So probably
+really, really, really good click -through rate. But YouTube's seeing, you know,
+maybe this is not the best video. And so we need to really do that. And we can
+see that the bulk of the traffic is coming from Browse Feature, which is homepage,
+which makes sense because it's a newer video. I do not see, if you look at last
+48 hours, suggested videos percent. Let's go to this if it jumps up.
+It does jump up to 18. So, yeah, YouTube is still performing this more on the
+homepage and it's not hitting that suggested traffic. So that's all good news to
+know because we know how to course correct based off of this information. So coming
+back down, this gives you a more granular view of where your views are coming from
+and the percentage of it comes from it. And then it gives you these top moments,
+once again, for this specific video. So for the intro, this is really important, is
+when we look at the intro, and we come to the first 30 seconds, so I can roll
+over here, we're about 80%, 81 % of the people stayed there.
+So like right now, but it continued to still drop, and it went to about a minute,
+and then it went again to about three minutes and then it dropped down. So it went
+down below typical. And some of you might freak out about this because you're like,
+hey, wait, this doesn't make sense because my video's popping off and it's below
+typical. Well, it could be typical for your average view duration, but it might not
+be typical for the impressions and the views. Because if the impressions and views
+go out, it's going to a broader audience and it won't be typical. So all I'm
+looking for is patterns of when people drop off. So right here, we can see how
+many people stayed on for the first 10 seconds? Well, almost, it was 11%.
+Right. So what if we got that to five? You know, what are we doing here? And then
+two, how long did it come into it? So this is where I like to go a little bit
+deeper into this. And I want to stay in this mode here first, but we'll actually
+go deeper into it because right now for the intro I can play it
+okay so I like that intro these are the most expensive shoes in the world okay so
+I I don't know if you notice this but the text came up at the bottom of it so
+one of the things that I would want to try is okay that's at the bottom What if
+we just did one thing in the first five seconds? So most channels that I've seen
+and I've worked with, they'll actually do the text right in the middle, even over
+the top of the video itself, and the text is hitting just because it's like,
+oh, my gosh, and it comes in, and there's a lot of momentum and build up with the
+sound. So that would be something I want to consider to try. And I want to play
+this out a little bit and see why, you know, people are dropping off.
+So I also noticed that the text stopped. I would like to see the text go probably
+for the first, you know, when you're setting up the videos because you're reinforcing
+your title and thumbnail. I probably want the text to be right there going across
+that whole thing.
+on since they were made 10 years ago. Now, how do they feel? I feel legit.
+Mike. I feel legit.
+Love it. So, look, like, we're 18 seconds in, 85%. So I'm wondering in that first
+20 seconds, could you actually, you know, really try that one little tip where
+you're going in this is what's going through my mind and having text pop up but
+have it be more center be a little bit bigger and then and you're doing your stuff
+and I think you can still keep everything else but that's something I'd want to try
+on this type of video right now here's another thing that I notice is you're
+starting the clock right here and you're going to wear them for 50 hours straight
+And let's go ahead and play. Yeah,
+I like that. It's there. It's there. However, I would really speed that up.
+I know you're using voiceover to set up the thing, but it's like really speed it
+up. And then we come to right here and there's a huge drop and I want to know
+what's going on here. Because this, like this is pretty big when you see that
+because, you know, here we're just losing it, but we lost a whole bunch right here.
+So I want to see what's going on there. I don't see any creases. I don't see need
+dirt on them. Bottom looks okay still. I think we're good. I think we're good.
+Three miles to go. I had it. Okay. So that tells me you might want to tighten it
+up there because here they're doing, hey, we're checking this after mile three or
+whatever. And they're like, oh, he's running again. You're checking it. Okay, I get
+it. But we're like one minute into the video. And I know that it's part of your
+day, but I can honestly say the first minute of the videos you're most important.
+And so I'm like, okay, what do we need to do? Now, even at the one minute mark,
+you know, we're at 65%. So, you know, you lost 35 % of your video,
+video viewers. And my thing is, is if you could have kept 10 % more,
+this would have been a banger video. Like, like people, they're more tolerant after
+that minute mark. But before, they just bounced very fast. So that is something that
+I would probably put as something to adjust to and really look at that. It's like
+maybe the next video in the series that you're really, really tightening up that
+even more. And you're spending more time on that first hour. That's all the stuff
+that I'm looking at. Another thing right here, let's kind of go from here.
+And I can't shower. That's what I like to do right now. No,
+no, no, no, no.
+They're already wet.
+That they don't ruin with water damage. Please don't run water damage. Just they
+want. We just hot. And I'm kind of thinking. So I get what you're doing here,
+and I understand kind of the progression of it, and it doesn't, I don't think they
+really care if you ruin or not. I think you do it at the very end, and I know
+that you're kind of creating that story that's there. I think there's a missed
+opportunity here, and I want to kind of explain,
+you know, challenge would be how do I actually take a shower with my shoes on. And
+so, and I know this is, this is something that we're doing retroactively,
+But I want you to start thinking about this as you're going into your content would
+be right here. We see a drop. What if you would actually just put baggies?
+Like you got trash bags and you put them on and you literally got duct tape and
+went around your leg. That's actually pretty freaking interesting. You know what I'm
+saying? And what I'm saying is these ideas will come to you as you're analyzing
+this. And I'm just thinking right here, oh, I could have done this, this, and this.
+I want to write those things down because that's not the only time that you'll use
+it. That might be, oh, this is a great way to reengage it. I can see it
+stretching and ripping and, you know, wrapping and, you know, wrapping and all that
+other stuff. And it does break it up where you're like, hey, no, I've got a super
+protect. These are $30 ,000 shoes. And so ultimately, it's just an idea,
+but that's where ideas will come from after the fact, and that's what we will write
+down on kind of our idea chart. And I want you to kind of keep notes of all
+these ideas and write them down or put them in a Google Doc because those ideas
+can be utilized in other videos, maybe not this one, because you're not doing this
+video again. If you do the video again, you could use some of those things, and I
+want you to remember those. And by the time that you're probably shooting it, you're
+probably going to forget. So the analyzation portion of it, you are basically leaving
+notes on cool, cool things that you can do in the videos just as much as you're
+doing notes on new video ideas. Okay, got that? Okay, coming, coming to it.
+And
+also, try to sleep in these sweats and my legs are so sweet. Okay,
+This is where I really look at, once again, you can see that we have drop -off
+point, and it's when you give an analysis of each thing, analysis, analysis, analysis
+right here. And I'm gonna see, is this a pattern that actually happens? Well, let's
+find out.
+for the entire 50 hours. Right. Can I ready for increasing because it's like...
+Yeah, it could be, but like this is kind of where it starts flattening out, and it
+flattens out right here. But ultimately, I want you to go through each one of these
+things. Now, these are the intros, then it comes from the top moment, and then
+YouTube will let us know, hey, nice work, this moment right here, and I didn't even
+need to click on it, but this is when they kind of stabilized, right? I like to
+go into the advanced mode of this and go a little bit deeper. And this isn't as
+dramatic, so you don't see the drop -offs as dramatic as the other. But I come in
+for this toggle right here. So right now it's audience retention. I can go to
+relative audience retention. And this tells me, based on the size of the video, the
+niche of the in my above average and my own current videos in my above average
+average or below average so you can see we're both average and below average for
+almost a full two minutes okay right here um and that's probably where i would
+focus in on so you're going to focus in on the first minute and then right around
+the the two minute two minute 52nd mark um you need to be able to do that that.
+Now, I don't know if this is actually for all your videos, but for right here, if
+we could be above average of the whole thing, I'm here to tell you that YouTube
+would promote the heck out of this video. Okay. And so that's what we need to look
+at. And basically, we do this of really understanding the viewer,
+and we come in a little bit deeper too.
+Notice that there's actually more subscribers watching this video. That's a really
+good sign. Okay. That also talks about YouTube was promoting it really good.
+And then two, you know, your suggested video traffic probably wasn't as I coming in
+here. Everything else looks pretty much identical to what we're doing in the sense
+of our audience itself and what we watched based off that first analysis of the
+channel. We see returning viewers really high. This isn't necessarily bringing a lot
+of new viewers in. So that's something to keep in mind that, hey, this is really
+good for your loyal people, but maybe this is something we need to track. Maybe it
+will come above there. I don't know. It'll be interesting to see because right now,
+you know, we don't have a really strong suggested video, and that's where you're
+going to get a lot of new viewers. And then, too, you know, I'm not seeing it on
+the other traffic sources that would bring that in. So thus, this is kind of
+tapping out. But it could surprise this at 1421.
+And I like to be in the high 90s. That's not always possible. So like anything,
+you know, in the 90s, 80s is really good. But, yeah, that's what we're doing.
+And it shows you where the traffic's coming from. We get a little granular on that.
+And it also shows you the engagement, which we talked about. This is more for
+audience retention and likes and dislikes. I don't really dig into this too much
+because we already did the key moments, you know, but this is more for engagement
+for the video. and
+week you do this to the last two videos that you release you want to be able to
+really analyze this in a really really granular set okay so this one really took
+off for multiple reasons great thumbnail great idea it's bringing traffic in from the
+home page it's bringing traffic in from suggestion it's doing everything we want to
+do you can see right now good healthy suggested videos notice i'm doing the same
+thing over and over again is
+something that you need to do. That's something that will, you know, that you do it
+more in the adjustment phase. But these are the things that I'm giving you so you
+can kind of write them down of how I'm looking at it. Notice that there's not a
+lot of erratic drop -offs. Okay. It's pretty smooth and it's even smoother when we
+come here. Look at this. It's really, really smooth here. So this means it's a
+really good video. People are interested in it. It started to flatten out about two
+minutes into it. But once again, I want to see that three -minute mark. Remember
+that three -minute mark? And let's go deeper into this.
+It was like three -minute.
+And yeah, see, you didn't even go below average. So the reason why this one's
+performing, this video is performing versus the other, is that 3 to 5 minute mark,
+you actually kept it above average. So it's average, right? And then it brought it
+way above average at the very end. So YouTube is going to promote it. Now, you
+might see that this is not, like this is deceiving where the typical, and I want
+you to understand, I don't care about typical. All I care about is that we're here
+because typical is based on your typical viewership. This is getting more video
+views, which it is 2 .6 times higher, then I literally disregard this because this
+is not typical. Okay. This is literally 2 .6 % higher times higher. You can see your
+typicals down here. We're getting new audience, new views. And so right here that
+tells me, hey, this is a great video idea. You did the video beginning. You had a
+higher tension rate in the beginning with more views. Like this is a slam dunk.
+This is great content, Tim, and this is what we're trying to validate, right? So as
+we validate this, that's coming in, and we can see very specifically, this is doing
+exactly what I want to do, and it flattens out how it wants to do. And then when
+we come into here, because we're 2 .6 times higher, this is looking perfect,
+right? right from my point of view. Yes, you can always improve. Um, and I'm going
+to go into two little areas. So right here,
+um, you have a little bit of a drop off. I want to see what's going on there.
+Design.
+The Supreme Timberland. Nice little box right there. Oh my gosh. I've never, oh,
+hold on. Yo, that's sick. Oh, how do you love for hooking these out? The Supreme
+Coleman collab right here and behind it the Honda supreme dirt bike yeah it could
+be get a little bit more energy boom boom boom boom boom but i mean i think they
+just hit a little fast forward button on that and then i mean it's a good video
+i'm not i'm not complaining at all on that but here's another little drop off oh
+not that mesh but right with this material that he loves to use that they don't
+use on those shoes anymore And these go for probably like 15 to 20 today. These
+recently retro, but this was like... Yeah, I think you're fine. I just, I like to
+see these key moments, especially with the intro. Once again, we're going to come to
+the audience because this is where I want to go a lot more in depth. And so we're
+here with the audience. Look at it. It's doing exactly what I want. Like, it's
+doing exactly what I want. So we're looking here. You released the video. video went
+out to your most active people, right? So you have returning viewers. Look at it
+did that little crisscross right here. So you brought new viewers up. Returning
+viewers there. That is really good. That's what we want because we know this video
+was so good. YouTube was expanding your audience and it brought in a new audience
+and your blue line now went above the purple line, which that's what we wanted
+because we wanted it for that moment so that they come in Now, they're more apt to
+watch another video. And that's what we want to really have and really define is
+this right here, is having that happen, and then that we're giving them another
+video for them to watch. That's why the bucket system works really well. If you do
+another video like this, it's going to perform based off of this. Now, you'd have
+to do it within a, you know, 20 -day, 30 -day period or whatever. But you understand
+the bucket system you want to keep your bucket style there. And there might be
+other content right now that they're able to watch. And that's something that we're
+looking at very specifically. So let's, why don't we go to that because in
+engagement, like I said, I don't really dig deep into this at all, but your
+engagement's higher than normal. But let's go into suggested video traffic.
+Notice, oh, let's just notice 92%. You can see it's 92 % of YouTube recommending,
+which that's what we want. We want the 90s, of course. And then specifically,
+YouTube has this little weird bug that you have to do, just you have to select it,
+and then you can go into traffic sources. So we do that. So we want to go suggest
+a video so we can see which one's actually suggesting it. And you can see that a
+short is actually suggesting that. And where is the short coming from? It It's
+coming from Elliot Page. So you're able to see that. This is really good.
+And the reason why the short is suggesting it is because, or is it a short? No,
+it's not. It's just a vertical video because the video's four minutes long. No,
+that's a short, but they watch four minutes of it. Sorry. A lot going in my mind
+right here. But yes, that, yeah, that's really cool. We're able to see that. And
+all we're trying to do is get a little bit of more granularity. You didn't get a
+lot of views there. It was only like 6 ,000 views coming from that video itself
+from suggestion. So ultimately, YouTube's really pounding this out. It's gaining a new
+audience. This is based off of a really good title thumbnail combination and also a
+really good video. So that's how I analyze. And you want to do every video that
+you release, you know, in that granularity. And so this is something that I do in
+depth. And I want you all to get in the habit of really analyzing your videos and
+making notes of ideas you could do to make it better or why your hypothesis that
+it dropped here or why it retained here and why did it spike here. That's what we
+want to do a little bit more granular. Now, in this training, we're going to just
+do this over and over and over again. And what I want you to do is to do this
+on your channel. This is your assignment, to do it on your channel and write down
+the things that you noticed. And I want you to kind of deep dive into it. Now,
+some of you don't have a lot of videos and don't have a lot of views. I still
+want you to go through this process and really start making assumptions of what's
+going on. And there might be some things that are incomplete because you don't have
+enough data. And that's okay too. But I just want you to get in the habit of
+doing this at the beginning of the month.
+lot of notes that I am considering to do because we need to get to Section 8, we
+need to validate a lot of those things, and that's what we're going to do there.
+So this next training that we're going to do here is more about looking at one
+other things that we need to do within buckets. I want to do that a little bit
+separate because that's a little outside of what I want you to do at the beginning
+of the middle of the month. It's something that we get a little hyper -specific in.
+So your assignment is Really go through this process for your channel. I want you
+to go granular like this. Exactly. And I want you to open up the video in one tab
+and do exactly what I did. And when I say, oh, I'm looking at this. I want you
+to write stuff down on what you see on your channel. And I want you to get a
+little bit more granular. Now, you might say, oh, man, I'm not coming up with the
+ideas that you did. Like you did, Daryl. That's okay. I just want you get in the
+process to stop, notice something, and then ask the question, why is this happening?
+Why, why, why, why, why, why? And I want you to write down possibilities, okay, and
+I want you to keep a list. And I want that list to be so complete that when we
+get to Section 8, we can go through this again and realize, oh, this is a
+commonality or this is a pattern, and ultimately we're able to have this to know
+how to adjust. So go through this process on your channel and all your latest
+videos and ultimately create that that list of all ideas that you can do for new
+videos and then hypothesis of what you could do in upcoming videos and make that
+list and we'll see you on the next video.
+

@@ -1,0 +1,2099 @@
+6 Optimizing, Launching & Promotion
+
+Hey Jump Start is ready to jump back in and get started on optimizing your videos.
+Now what I'm going to show you is the video optimization process that we're going
+to use here in Channel Jumpstart. This is where everything starts to come together
+and we're actually having a uniform system so that when we actually set up the
+analytics and we do a lot of looking at those little details it's going to make
+perfect sense now a lot of you might think oh optimizations for more reach and that
+is true but it's also using it in a way that we can gather data and group data
+back together specifically and strategically so we know exactly what we're doing and
+how we're doing now jumping into the optimization process we've done a lot of recon
+and research and video ideas and ultimately we have a bucket and in that bucket we
+have video ideas and we've already done titles and thumbnails now what we're going
+to do in this video is show you the process of what you're going to take next to
+really optimize your video for release. I know a lot of you've already released
+videos and that's okay. You don't need to retroactively go back and do anything.
+This is just basically moving forward. There'll be some more instructions in upcoming
+weeks. Now we're going to go through the optimization process. And we've already
+discussed titles and thumbnails. We're also going to discuss target video, what that
+means, how are you going to use it, and what you're going to use it moving
+forward. Also, we're going to go in depth on the description, the tags, the close
+captioning, and also translation. So let's start with titles. Now, I know we've gone
+in depth on this a lot earlier, but I want to remind you that we're only
+optimizing titles for two things. Number one, for humans. We want humans to say,
+hey, this isn't spam. Oh, I'm enticed by this. This is something that I'm curious
+about. There's some emotion that's involved. And number two, we want to optimize it
+for the bucket. The bucket is key here, guys. That's why we always have a naming
+structure in a way that it will suggest video content. So keep that in mind as
+you're actually doing it. Now, ultimately, it's going to come back down to this. We
+want to create titles that are clickable, but accurately portray what's going on in
+the video. Now, there has been a ton of discussion on, oh, that's clickbait, that's
+clickbait. No, not necessarily. Clickbait is when you say it's one thing and it's
+not. Okay, so if you want something, it's clickable titles. If you want to call it
+click pay, that's fine, but basically you're getting them to click on it and if you
+reinforce what's that's being said in the video, then it's not clickbait, it's
+clickable. And then two, A lot of this analytical issues that you're actually having
+in some of your videos for average view percentage and average view duration deals
+that you're not necessarily delivering on the promise of that title, of that
+thumbnail, quick enough in your video and people like, oh, that's clickbait. So yes,
+you've got to deliver immediately on that. Now, that being said, this is the
+structure. We have the main keyword and phrase, plus the reinforcing keyword and
+phrase and the secondary word and phrase, if you want more training on this, you
+gotta go back and watch that video again when we're brainstorming for that concept
+and especially understanding the buckets. So let's go through thumbnails. Now,
+thumbnails are by far so important because it starts the process. It grabs their
+attention, they go and look at the title, and then if they're curious enough or at
+peaks emotion, they're gonna go and click on that video. Now, One of the things in
+Channel Jumpstart is we need to have variations of thumbnails. And I would ultimately
+have two to three different variations, every video shoot, that you can change out
+or you can modify really quickly so that we have a process in AB testing. Because
+in a couple of weeks, we're going to talk about AB testing, have how to actually
+analyze your thumbnails and analyze it in a way that we can actually put some tests
+out there, which is that AB test so that you're going to need to change the
+thumbnail. We might as well do the work now, then have to react to it a little
+bit later because you want to be able to react pretty quickly on that. Next, we
+also need to see what thumbnails work really well in our bucket. There is a bucket
+system and ultimately we'll see, hey, this thumbnail works. We could do that type of
+variation of thumbnail over and over and over again because it works in that bucket.
+You know it's going to appeal to that target audience that's interested in the
+content in the bucket. And so that's really, really powerful. Lastly, I can't stress
+this enough. Always, always, always have your plan of what your thumbnail is going
+to be before the shoot and I would have two to three variations so we can do that
+split test. Okay, now we're on to Target video. And I think a lot of
+Well, let me tell you, the target video is actually the key for momentum.
+Let me reiterate that. The target video is actually key for momentum.
+And why is it? Because what YouTube is, and we're going to talk about this in
+another video, but the way that YouTube operates is it needs to suggest content.
+And we're going to talk in depth about the algorithm, what the target video is is
+the highest probability in your own personal library, in your own personal bucket to
+give the AI something to recommend. And if we do this right, we're actually creating
+data points across our content that is just bound to suggest.
+Now, I can tell you that the more that we do this strategically, the more of your
+content will get suggested. The more suggested content that gets,
+that you're actually optimizing. So in my example, doing strange street foods in
+China and we are producing a video on starfish on a stick,
+I definitely want to look through my library and say what video is the most likely,
+closely connected to this in content -wise. Once I'm able to do that and say, look,
+it has to be in the same bucket. And It's going to say this is, you know, when
+people watch this video, they're more likely going to watch this video. So we're
+actually doing this before we even shoot the video. And we're also using this in a
+way that we know, hey, this is going to be the highest probability from our
+perspective and from our knowledge of our data. That's what we want to use and
+promote. So having that as a target video, it has to be in that same bucket. I
+would say, do you know what? It's strange street foods in China, the spider on a
+stick, because that's kind of very similar content. And if they watched one, they'd
+be more apt to watch the other. So that being said, the video that you actually
+select as your target video should be one of your top performing videos on your
+channel. And the reason why, because I'm going to look at, hey, what's the top
+performing videos in our bucket? Because that's the highest probability of getting
+someone to click. Like if it is your top performers, there's something about that
+it's more attracted than any other thing that's actually in your bucket. So you want
+to make sure that it has the highest click to rate, also the average view duration
+and average percent viewed. We're going to go a little bit more in depth on that
+on the analyization section in Channel Jumpstart. And lastly, what we're going to do
+with that Target video is we're going to use it in a card. We're going to use it
+in an end screen element. We're going to put it in a description. And if you
+really want to get hyper -focused on this, we can pin it.
+Like, those CTAs are really, really important. It's something that you, as a content
+creator, need to take in mind. And I know that most people want to get subscribers
+and they want comments and likes. We don't want that. Like, what we want is watch
+time. Watch time will bring us subscribers and likes. Watch time will grow our
+channel in the way that we can never do it any other way. So if we're going to
+ask for something, ask them to watch the next video. That's why we're doing a CTA
+to that target video. Okay, so when we're actually using that target video, we
+talked about putting them in cards. Let me give you some set things that I look
+at. YouTube has made a very strong recommendation that you put your cards in the
+last two -thirds of your video, and you really don't want to do it any earlier,
+because what you're doing is if you put it earlier, then you get people to bounce,
+even if they're going to your other video, and it's going to send bad signals back
+to stop recommending your content. And I can tell you, one of the biggest mistakes
+I've seen is people are putting a suggested video in the first part of their video.
+And like, people are like, oh, that seems interesting and click off. Yeah, it might
+be only a small percentage of four, six, 12 percent. But think about what you're
+doing there. You're basically saying, hey, this isn't very good that they're really
+lost their retention and they want to go see another video. We don't want to do
+that. So we want to put everything in the last two -thirds. The next thing is we
+only want two to three cards, max, and one of those have to be your target video.
+Like I would not do it any other way that I like to do two. But if you want to
+be super ambitious, go ahead and do three. If it's a longer form video, if it's
+like six minutes, I'd only do one. I seriously, like you don't want Seriously, you
+don't want to send people off and say, oh, see this, oh, see that, when they
+should be watching the video at hand. Next is end screen elements. And what we want
+to do with our end screen elements to really optimize for our video that we're
+going to release is we need to have that target video as being one of the videos
+that we're actually recommending for viewers to watch because we already identified
+it. The second thing we can do is best for viewer. That's what I found that
+YouTube will look, have seen what you recommended and what other options that are in
+your library is going to be the highest probability for them to watch. Now, I don't
+want to leave that control in YouTube's hands and only do best for viewer because I
+want to create a data relationship between video content. And when you create a data
+relationship that you have a higher percentage of people watch this type of video,
+Guess what shows up in next up. Guess what shows up in the other positions of
+those videos. That's how you start dominating suggestions. That's how you start
+getting your content out there. Now, this next thing is really important. You only
+want to do eight to 10 seconds for your CTA, and that's about the most that I
+want to do it. Now, I know YouTube gives you a lot more time to wrap it up, but
+I have found eight to 10 seconds. People don't just jump off. They'll actually take
+action and go to that target video. That's really important. And the description.
+Now, I have seen all these different types of descriptions over the course of my
+career. And I'm like, some, they're like doing a novel and they're trying to rank
+for every possible thing. And it really feels like spam. Others, you know, it's just
+disjointed. They don't do anything. And so what we're trying to optimize for is
+first off for humans and second off for that video bucket. So the first thing that
+I want you to do is have two to three solid sentences that really reinforce that
+title and also reinforce that thumbnail because that's really important. Now with
+this, basically we're gonna show some options a little bit later in the analyzing
+area, but what we wanna do is use the same keywords that we were using before in
+our title. And we wanna use words that are similar to reinforce that as well. And
+so that's something that we're looking at showing you when we talk about the natural
+language API when we geek out in another video. Next thing is you definitely would
+like your subscribe button, but more importantly, you want two to four links. And
+what you're doing is these are videos within your bucket. Once We want to make sure
+one of those videos is your target video and others are the same type of content
+that is in your video bucket. I found that if you want to put more, it's not
+gonna do you any good. Like increasing the probability of them to watch, that's why
+I liked either two or three, just because you know, you can start narrowing it down
+and it's actually your target video and two others. And it makes sense, you know,
+from a viewing perspective, they don't feel overwhelmed, they don't know where to
+click because there's so many different options, it gives them more opportunity to
+click. Now look, we're going to come to another topic and I really don't think that
+this has a lot of weight, especially what we're trying to do in Channel Jumpstart,
+which is tags, tags for your video. And the reason why is we'll get a little bit
+later in this video, I'll show you why we don't care about it too much, but until
+YouTube takes this feature away, this is a part of our optimization process. The
+first thing that we want to do is we want to stay under 300 characters. Yes, I
+know you can do 500 characters. We don't need to have a debate on this. And you
+can say, oh, this is what so -and -so is teaching. Well, I could care less what
+they're teaching. I have found that less is actually more and it makes you more
+powerful when you do it this way. You want to start with your main keyword and
+phrase that you're actually using in your title and also your description also it
+kind of relates to your target video and you also want to follow this process below
+we have our main keyword and phrase and then we want to tag for our reinforcing
+keyword and phrase we want to have a tag for our secondary keyword and phrase and
+you can have broader keywords and also branding this is basically the tagging system
+and don't try to rank for everything in search because that's not the channel
+jumpstart We want suggestions. Search is down here. Suggestions way up here. Like, we
+don't want to, like, yes, I know it can kickstart it. Like, trust me, I get it.
+But what I'm going to show you next is called video intelligence. Now, what happens
+is YouTube's actually looking at some different things. When you're actually showcasing
+your video, which we have here with Mr. Beast going and buying a whole grocery
+store, he's actually talking about what he's going to do. And basically what
+YouTube's using now is Google Brain. And they can see exactly what's going on.
+how to actually rank videos that are out there and the more that video is hitting
+those indicators like CTR and also average view duration, average percent viewed,
+those will actually show up in search. And you're going to see things that don't
+even have the title of the, what they're searching for because it's actually in the
+content and YouTube thought, you know what, this is a great video and it's getting
+people to click on it when we actually show it under this section. And so let's go
+ahead and bring some traffic through search. That's how it works. Now, let's go
+ahead and talk about optimizing for closed captioning. Now, you need to put this
+disclaimer out. There is a lot of misconceptions on close captioning. I've heard a
+lot of different stories out there. I've tested a lot of theories, and what they're
+saying is true isn't necessarily true. Like, I just, I don't get it. Now,
+I ask specifically the people that make the algorithm. And we had them at VidSummit.
+A couple of years ago, I had this question that come up and I asked that question
+again this last year. And they said, do you know what? When you upload close
+captioning, it actually helps us do our job better because it validates what we're
+actually doing in Google Brain with video intelligence, with what's being said and
+what's being tagged, but also in the natural language API, which we'll talk about a
+little bit later. But I also want you to know that captions will actually do one
+thing for you. And this is something that most people don't necessarily look at,
+which is it will increase your watch time. And do you know why? It's because not
+everyone that's watching that video has English as their first language or French is
+their first language and they need to be able to have that caption or also that
+translation and when they want to turn it on it'll actually increase your watch time
+from bulk viewers okay so if you want captions now below this video you'll actually
+find a link for rev and rev will actually give you some discount because you're a
+part of channel jumpstart and this is a service i've been using for years and
+they're extremely accurate fast turnaround and if you want to use captions and you
+don't want to actually do it yourself This is a great service for you. Okay, so
+that's where we're at with optimizing your videos. Your assignment is your next video
+that you actually are going to optimize. Go through this process. Make sure you have
+everything ready to go. I want you to also save it in a document and upload it to
+the Discord group under the group coaching area. So we can actually analyze this and
+make sure you have the title in there and the thumbnail. So we can say, hey, I do
+this a little bit differently, or I do that a little bit differently. Certainly.
+
+PT2
+
+Hey, Jump Start is ready to jump right in and really start digging into our data
+in analytics to truly understand when's the most optimal time to release our content.
+Now, with the channel Jump Start system, what we're trying to do here is really
+analyze and adjust our content to get the maximum reach on YouTube because the best
+way to get more views and visibility on YouTube is when YouTube's actually
+recommending our content. Now, a big mistake that content creators make is they make
+amazing content, but they release it at the wrong day and the wrong time. It's like
+crazy. And I talk to these content creators and I ask them, hey, when's the best
+time for you to release your content on your channel and I get two responses. The
+first one is probably the most notorious one, and it's like this.
+There are so many content creators like Napoleon Dynamite. It's crazy. Now,
+the second response that I always get is that they're looking at a tool to tell
+them exactly the time of the day to release. Now, I really love Vid IQ.
+I love Tube, I love buddy, I use them all the time. But the thing for me is
+there's other things that you need to take into consideration to really get your
+YouTube video suggested. And ultimately, they're not telling you the day of the week
+you should release. They're really telling you the time. And I can tell you what
+they're actually analyzing and how they're analyzing the time that you should release
+isn't the best time to actually release the video. I've had these discussions with
+them. and ultimately we do disagree on this. Now, for me, it's all about YouTube
+recommendation and also it's all about the traffic. When does the traffic come into
+your site? And so what we're going to do is I'm going to show you my system, my
+way to really analyze the day of the week you should release, but also the hour.
+Let's go ahead and just jump right in. Okay, so we are here in the back end of
+Six Sister stuff, and what we're going to do is analyze when she releases her
+content, and also we're going to analyze when the traffic is,
+that Monday, Friday. So it looks like she's releasing Monday and Friday for here.
+So you already know this as a content creator of when you're doing it. Now, the
+most important thing is that you're consistent. And this actually brings in a lot
+more views and visibility because people are knowing exactly that you're going to
+release content. And these are your most hardcore fans that really can trigger the
+algorithm so that YouTube will actually recommend your content even more. Now, what
+we're going to look at is when is the best time to release your content when
+YouTube's naturally recommending it. So on non -upload days, when is the highest day
+that is bringing in the most views? Because if we can bring our YouTube videos to
+release on those days, when YouTube's normally bringing in a ton of views, that
+there's just a natural uptick on the days of the week that's going to bring in
+more views and visibility for our content, that's when we should actually release our
+videos. So let's go ahead and take a look at this. I'm going to go back into the
+28 -day mode here. And I'm going to analyze this. So Wednesday's a natural uptick.
+We are looking at Sunday is pretty massive. I mean, here you have it. Could just
+be the time of the year here that's bringing this in. But let's analyze and we're
+gonna kind of work backwards to see if Sunday is a great day to post.
+So we have Monday, there's a natural uptick. So you notice here, there's Friday, and
+then there's a natural uptick again here on Sunday, Monday,
+small uptick on Sunday. So let's go back 90 day views.
+Okay, Thursday. Oh, look at that. So you see here, right here, where it goes
+Saturday and then Sunday up here. Look at this. That's quite a few views for here.
+And what I'm looking at even further, and I'm going to just analyze a little bit
+more here. So Saturday and uptick on Sunday and she's releasing on Monday.
+And there's not much difference between Sunday and Monday when she releases a video
+check this out and that's just super super big let's go back even further because
+like what we want to do is to make sure that we're not making a mistake but but
+ultimately I don't think we are I think Sunday is the day that I would recommend
+releasing content on this channel so we can see right here that Sunday is the most
+optimal time for this YouTube channel that's actually bringing.
+You just basically go back through the same process and see exactly when to release.
+So I would recommend to success your stuff to release on Sundays and then ultimately
+probably keep that Friday. But let's kind of dig in a little bit deeper to see,
+you know, what we see here. Now, for me, there were, there was times that she
+wasn't releasing on Friday. And that is a low point. So you notice that that's a
+low point here. Let's see if it's consistent.
+She released a video, but a low point, again, was on Thursday. Tuesday was a low
+point on that one, but she released content on Friday. Maybe let's go back when she
+wasn't releasing on Friday. That is a low point in her channel. So you can see
+right here, Fridays are dipping down. And Thursday is dipping down here too,
+but, you know, these Fridays is a natural downtick. And so we want to stay away
+from those days because it doesn't matter even if you release a video, there's a
+natural downtick in the people that are consuming the type of content that's on this
+channel. So what we want to do is look for the most optimal time for this to
+work. And the best one is for sure for Sunday. And then the next one would be
+probably a Wednesday because that gives enough time between releases to really get
+the most out of browse feature. And then when it kicks in, you know, we have
+another browse feature video that will actually recommend the video. So I'd probably
+do it Wednesday. And Wednesday, I mean, it's not as high as Sunday, but that would
+probably be the best day for this channel. All right. So let's go ahead and jump
+in and see exactly the time of the day we should release our content. Now, before
+we do this, we have some amazing tools here that really will help us analyze this.
+And I need to give you a visual representation of what we're going to do before I
+actually show you what we're doing here. Now, if you are out in the ocean and
+you're waiting to get that next wave to surf on in and really ride that wave,
+what we want to do is catch the wave at the right time. When you hit it at the
+right time, it's going to trigger YouTube to really get you a lot more views and
+visibility because you're at the beginning of the wave and then you are able to go
+through the whole day and get it to the end of the wave. And one of the biggest
+mistakes that content creators make is they get it at the very top of the wave. So
+they're actually missing a lot of momentum that brings YouTube up to speed exactly
+what type of viewer loves that content and will actually recommend it more. So what
+I do is I look in analytics here and I look at real -time analytics and I look at
+the real -time activity. And this is something you got to do over the course of a
+couple weeks. You can't just do it in one day. I want to see right here when the
+downtick is. So I'm on mountain time and you can see that three to four a .m.
+Mountain time is when it's at its lowest point. Let's go ahead here, three and
+four. So it's actually at the lowest point at three or four in the morning. And I
+want to see when the uptick is. And so you can see that right at 5 o 'clock is
+the uptick. So I'm going to do this and analyze it this way for a couple weeks
+here to see exactly what's actually happening naturally on my channel. And then I'll
+occasionally look at it deeper once we're able to analyze the right time. Now, we
+don't want to just go when the uptick coming. We basically want to get it right
+when it's about really to take off. And so as we come in a little bit deeper, six
+o 'clock's not the right time, seven to eight o 'clock looks like the biggest uptick.
+So you see from here, you got some natural uptick right here. I would do it
+between eight, eight o 'clock mountain time to 10 a .m.
+mountain time. Like that's really at that beginning of the wave that you can see
+here. And ultimately, that's when you start paddling. That's when you start going.
+Because what we're trying to do is getting YouTube to see our content. So the
+notifications go out and people are going to come on and consume the content. People
+are going to see it on the homepage and people are going to consume the content.
+And then that gives YouTube enough time to say, oh, here's the type of viewer
+that's liking this content And you have all this natural traffic that's coming to
+your site. Guess what it's going to start recommending? It's going to start
+recommending your new video because you have all this new viewers that are coming
+on, consuming your content. And what's going to be what's next or up next is your
+new video. And that's where you're going to get more suggested views along with
+browse feature. That's kind of the key. So for your assignment, what I want you to
+do is go ahead and analyze your channel to know exactly which days bringing you the
+most views naturally and the times of the days that's really on that uptick that's
+really going to get you a lot more views and visibility so go ahead and do that
+and we'll see you on the next video
+
+PT3
+
+Hey, Jumpstarters ready to jump right in and start talking about how to jump start
+the algorithm. Now, this section is going to be a little bit different than the
+other sections that we actually done here in Channel Jumpstart. The reason why is
+because I've given two presentation, one at VidCon, one at VidSummit. And we're going
+to take a section out of each of those and show you here in this video. Now,
+the difference is, is now that you understand the bulk of what Channel Jumpstart is
+with buckets and really understanding the behavior of it, I want you to actually
+watch these two segments. And then at the end of those two segments, we're going to
+actually jump it in and talk a little bit more in depth. And I'm telling you guys,
+This is where we're all wrapping it up in the sense of understanding the algorithm,
+and we'll go ahead and start with VidCon. So we're going to go right in on
+triggering growth with YouTube. I know a lot of content creators,
+they struggle sometimes when they're trying to create content and they say,
+oh, we had an algorithm change. And this poor guy, this meme has gone everywhere.
+You know, he's trying his best he really is trying his best and it just he's
+there's a lot of struggles and take take take take take back a few years and I
+want everyone to have some context of this it's like YouTube is so massive and
+there's so many different creators and even YouTube has a hard time to be able to
+communicate with every creator and there's so many different support issues and stuff
+like that but ultimately YouTube is a system that content creators that create
+to predict what the viewer will watch. They're very, very, very sensitive to the
+viewer because that viewer will help YouTube expand and grow to where it needs to
+be. So I want you always to remember what the viewer is. And I just started a
+podcast, and I was super excited because we're talking shop, And we actually had
+different guests on, like Matt Pat and staff, and we were going in through a lot
+of things. And we were just slowly growing our YouTube channel and we're trying to
+develop a specific audience. And then we did an interview with Chad Wild Clay and
+his wife, V, who are just the most amazing people out there. They do younger kids
+content. We went from averaging 100 to 200 views and a couple thousand views to
+over 100 ,000 views and that was the only time I was really depressed of getting
+100 ,000 views because it was just the wrong viewer that I wanted to attract. So
+with YouTube, they're trying to predict what the viewer will watch. And the more
+that you can get into that mindset of helping the AI to do it. This next goal
+would be How do you actually maximize long -term viewer engagement and satisfaction?
+Now, this is where I think YouTube is knocking it out of the park. Basically,
+long -term engagement and satisfaction used to start at a click, and they're now
+really getting them satisfied further and further down. It's like they're light years
+ahead of where they're at. Now, knowing these two goals that YouTube has, we need
+to really, truly understand what type of data that they really care about.
+Now,
+what I'm going to share with you here today is things that you should really focus
+in on. There's a couple things that you might not know, and I really want you to
+kind of apply back on your channels or your brand what we're talking about here. So
+first off, YouTube's gathering data of user behavior and videos.
+So let's talk about user behavior. So basically user behavior, they're looking what
+users are telling YouTube about the video based on behavior.
+And behavior is one of those things that they're really, really trying to pay
+attention to and really have a good understanding of the viewer, and I think they're
+getting better and better and better because they're just collecting more and more
+data, and they're getting different types of points. And it all comes back down to
+how is the viewer actually satisfied with the specific content that we're actually
+showing them. So we're going to be talking about satisfaction signals. But they're
+really, really sensitive to this. So the first one is what they they watch. That's
+no surprise. They're trying to understand what people want to watch. So they're just
+watching what people watch. Also, what they don't watch, what they skip.
+You know, there's a lot of different things that's being displayed in different
+areas, different features of YouTube, and they're seeing how you behave on the
+platform. How much time you are spending and spend watching.
+They're very concerned with this. Now, I want you to, I'm
+do with that, but it gives it context and signals back to the algorithm that's
+helping that content to be served. Next is something I use quite frequently,
+not interested feedback. Does anybody do that? We've got a few people. Do it more
+frequently and you'll actually have a better experience on YouTube. This next one,
+I, you know, as a marketer, I really love and appreciate and it's surveys. And I
+don't know if you use surveys a lot. There's two types.
+And that's one of those indicators that really has a lot of weight and a lot of
+merit for that. And it's been discussed before, but saving content and watching it
+later or saving content, watching it on an airplane is one of those signals that's
+there. And then also, there's a lot more longer form content. There's podcasts and
+content that's two or three hours. They want to know, you know, are you coming back
+and finishing the content that you started? Do you have that active engagement? And
+how are you finding that? Is that something that you go back in certain areas of
+different YouTube features to do it, or as YouTube serving it again, you're watching
+it again, they're really looking at those signals. Now, that being said,
+there's always about a satisfaction feedback loop. What I love about this is that
+their feedback loop is instantaneous. Before it had to gather data, crunch data,
+it would take days, and then it would kind of figure out things from there. But
+now it's instant. And it's really, really smart, and it's really predictable of
+where, you know, content should be exactly for the right type of viewer. Also,
+let's talk about gathering the video metadata. Now, I want to stress this,
+And I'll stress it quite heavily here. I believe that metadata is more important now
+than ever before, but it's not what you think. And I know a lot of people are
+very concerned about their tags and their titles and descriptions, and they have
+merit. There's a lot of things that are there. But the metadata that I'm going to
+share with you is the metadata that you really should care about. And it starts
+here with a thumbnail. When you actually use a custom thumbnail,
+there is data that's included with that. Now,
+the internal innards of YouTube is using Google Brain as the AI to manage all the
+different feature sets that are on YouTube. And
+There's one thing that you can use called Cloud Vision, and it analyzes thumbnails.
+And they're able to really predict what the content, and your thumbnail is the
+beginning of your content, what your content is really about. They can see there's
+some joy, you know, and there's some sorrow, anger, surprise, you know, if they're
+exposed, I mean, you can get really, really detail. What I love about this is it
+gives it a confidence rating, and it's all over the place. Now, this is where it
+gets really interesting, and this is where I want you to pay really close attention.
+Then they start to label your metadata. So this is the cloud vision predicting what
+all these little things is. There's a skin, nose, eyes, photo caption, mouth,
+photography, smile, and those labels go on and on. Another thing that's really
+important is the web entries. So they're saying, okay, is this found anywhere? Well,
+guess what? You know, Stephen Hawkins is, there's a Wikipedia page that's connected
+to, and then the creator has it. Then look at this one, black hole. There's no
+black hole in text, like for the OCR, but there is the image of the black hole
+that's there. And there are some references to it. And if you look at the score,
+that is the scoring of how relevant it really is. And how, you know, when it
+predicts that that's what it's about. And then it starts to go through all the web
+entries, and there are a lot of content that it's able to go out there and to see
+what's there, and you can kind of see the things that is associated with that type
+of content. So it's starting to create this data relationship within itself. Okay?
+Now, this is where I like to geek out right here is a lot of people are worried
+about their content if it's safe. I would 100 % upload every thumbnail through Cloud
+Vision. You can do that for free. You can get an account. It's really simple. And
+you can upload your thumbnail to see if there's any red flags. When we were able
+to do that, we've had less of being demonetized off of a thumbnail.
+And certain Thumbnels might cause certain flags there. So use this as part of your
+process to upload. Now, let's talk about the video. This is where I'm probably the
+most excited. We've been using this a very long time. This is something I haven't
+really publicly talked about a lot. But I want to kind of talk in detail about it
+because the algorithms really care about the viewer and the relationship to content,
+and that video is really important. So there is a tool called video intelligence
+that really starts to define what your content really is about. And this is where
+it gets really interesting. You can actually start to predict different shots. So it
+literally goes through every frame of your video and creates the same thing that
+happened in Cloud vision and starts to label and put what the video is actually
+about in visual form. And what's interesting is there's a lot of noise.
+If they were going to do that, there would be a lot of noise, but they did a
+really good job at reducing the noise and really selecting what it's about. So right
+here in this specific shot of Mr. Beast, you can see that the key word,
+grocery store is 95 % positive that that's what it is and that it's food and
+parking lot. And as he's having a discussion, it gets really, really interesting. But
+these keywords right here are really, really, really important.
+And in a video setting, these are the ones that you want to really start taking a
+little bit more focused in on, is really looking at these types of keywords. Now,
+here's the thing. There's 20 ,000 plus labels that are in the library,
+and it's expanding at a rate as the AI is getting smarter, and it's able to really
+understand what content is. I've been fascinated with this for several years now,
+because they are getting so good that you can take a camera and start walking
+through this store and we've done this in this video and every label of every can
+will start to come back what's actually in stock in the actual grocery store and it
+knows oh it's a can of ketchup or a bottle of ketchup you know of can of beans
+or whatever it is and it even says oh it's dole and it starts pulling all this
+information and seeing what the content really is about this is super powerful and
+YouTube for quite some time says, hey, you know, when you're putting your tags in
+your videos, we really don't care about that anymore. And the reason why, labels,
+when they're able to go through all the video content and your thumbnail, that
+they're able to start creating their own tags, and these are relevant tags that
+really tell you and tell the viewer what the video is actually about.
+Now, this right here is a little bit more complicated to get set up. You can still
+do it and there is, like if you use it aggressively like we had, you know, there's
+things that will cost because you're using bandwidth, but you can set this up. I
+would encourage anyone that has a brand or, you know, huge libraries to set it up
+this way. It's a really great way to organize content and find content quickly, and
+you could use the AI to do it. You know, when we were getting it set up for some
+different clients, it was really, really cool because they were able to go through,
+you know, 15 years' worth of content and really start identifying all these different
+things, and it was all happening in the background and labeling. Yeah, they were
+using bandwidth, but it was good for them instead of hiring someone says, oh, find
+this shot. You know, it already found all those shots, and it would actually go
+through search. So it's really cool. YouTube's using the same system, but modified
+for YouTube to really have superior type of content. This next one,
+there's a lot of people that are sensitive, or they're getting demonetized, and they
+have, you know, pornography, likelihood in this video, it's very unlikely,
+and, you know, we could take a whole session and really talk about this, but we do
+need to move on. Next is captions. So what's being said in the video, like I said,
+is super important and it comes back down to the natural language portion of Google
+Brain. This is where it gets really interesting. So everything that you're saying in
+your videos is trying to be analyzed of what type of context. Now the natural
+language API, you can tap into this. It's like really defining are you trying to
+spam someone or is
+because of this, right here. So it starts to score your content. And that content,
+they're trying to predict, is this content going to be good, and what is the
+content about? Well, they can figure out what the content's about, but they can't
+figure out what it's good until they serve it to viewers, right? And so they're
+really trying to define what this content is and be able to predict people to watch
+it, and once they have that data, then they can find similar people. This is where
+I really love it, because it really starts to geek out in all the English classes
+that I missed. But it's like they really start defining every little thing, what's a
+noun and so on, and it's showing the positions of it, and it has a lot of weight.
+Now, this next one is, it creates, when you use this enough, it automatically
+detects what category it should be in. So when you self -select your own category,
+there's not that many categories. And people like, well, I need my own category.
+Well, they're already doing that for you. Like, that's why videos are so important
+and they're unique. You can do different types of videos and it will figure out
+what type of category to serve that in based on what's being said in the video,
+what's being shown in the video, and also your thumbnail. Okay? This is super
+powerful, and you can go see a complete list. Once you go through this process,
+there's that little link right there that you can click on it, and it'll give you
+every list of categories. It will blow your mind how many categories there are and
+how they can really define that. Okay, now, metadata. I said metadata is more
+important than ever before, and this is why. Because it's taking what's in the
+thumbnail, because the thumbnail is content, and what's in the video,
+because video, of course, is content, and what's being said in the video, and that's
+pulling all this information, and then it's gonna look at your title and description.
+Now, based on the YouTube feature that it's going to go, there might be a little
+bit more weight for the title and description, like in search, we'll talk about that
+in a second, but they are looking to say, is this content, is it validating?
+Is it clickbait? Or is it actually what's happening in the video? This right here
+is something that as you understand your content, what you're going to create, and
+if you can reinforce those keywords that already have a strong presence in your
+content and you're utilizing it and reinforcing it in your title, that's where you
+start to have authority if your video will actually perform with the viewers. And it
+gets really, really interesting from here.
+This right here, like I can't overstress this, is the type of information that
+you're putting in your videos. You've got to create better content if you want to
+succeed. Stop blaming YouTube, because it's ultimately up to you right now that if
+your content's going to perform or not. And I can tell you right now that there
+are creators that get frustrated, and the reason why they're frustrated is because
+they don't take a step back and analyze if their content's actually good. They just
+kind of coast. And I don't believe you can coast anymore. You have to always
+improve and always understand where is the traffic coming from, who are these
+viewers, and you have to analyze and adjust. And so this is a good place to start
+seeing where trends are happening and so on, and you're able to see what actually
+impacts your viewer. So YouTube is not one algorithm. Get that way out of your
+mind. There's multiple algorithms that actually happen. Each YouTube feature has its
+own set of systems. And each system is very specific of accomplishing certain goals.
+So here's a couple of them. There's other features that YouTube has, but I wanted
+to put together a few of them here. And if you notice it's in the center is
+Google Brain. That's basically controlling all the algorithms and making sure
+everything's playing properly. But the whole objective is to achieve the objective and
+goals for that specific feature set. And the feature set has a system behind it,
+and it's trying to be optimized. It is taking time to really understand what's
+happening, the behavior that's going on, and really optimizing that specific feature
+set. I know that a lot of you have voiced frustrations over certain features not
+getting out. Like, seriously, like the subscriber is not being notified. Like, really,
+I know it's kind of sometimes hard to trust, but it's like the AI is really good
+at predicting if you can hit the metrics and the things that it's actually looking
+for, and it will get it out to far more people than what your small little group
+would be. Okay? And so every feature has a system behind it. And what the features
+are looking for is a hit rate. It's very sensitive to this hit rate.
+Now, you're probably wondering, what's a hit rate? Well, a hit rate is how often
+viewers are able to find what they want to watch. And so each feature,
+there's a different hit rate for the objectives and goals that they're trying to
+accomplish. And so they're very individualized. They're organized,
+but they're individualized to what type of content it's providing four viewers to
+see. And this hit rate is extremely sensitive.
+And they are, all the hit rates trying to do is follow the audience to understand
+the user behavior of the audience and understand the type of content that's being
+uploaded and make sure that they're giving new videos out to a new audience as new
+segments appear. So let's kind of break this down. And I think this is really
+important that we take a little bit more time of really understanding the features
+and understanding the hit rate and so on. As Google Brain gets smarter and really
+achieves its goals, they're always going to be pushing the envelope. They're always
+going to try to define, hey, we need to amplify and really get a higher goal set.
+And you take all this data. There's a lot of noise out there, but they're able to
+take all this unstructured data, structured data, and see patterns that we cannot
+see.
+And that's where the AI is able to give a viewer a better experience. And so
+they're always doing experiments. I believe they said in a video on the YouTube
+creators channel. I have everyone subscribe to that and inside creators stuff.
+Definitely subscribe to those. But they're doing constant experiments. I think it's
+either 300 experiments. We could ask Todd. He's probably somewhere here in VidCon.
+But it's like either two to 300 experiments that they actually solidified. Now, each
+experiment's not all across that. It's of different specific features. and they're
+always experimenting, they're always trying. Why do they do that? Well, they're trying
+to predict to get that hit rate to go up, okay? And it's really,
+really important that you understand that. And not get frustrated. You just need to
+take a step back at times. Okay, I know a lot of creators have come to me and
+voice their frustration at the YouTube homepage because, you know, it never was like
+it was before. You know, seeing only your subscriptions. And I'm here to tell you
+it's good that they don't do it this way. Because a lot of you right here would
+have never been discovered or found if YouTube didn't shift that. There's more videos
+being served on the homepage every day than any time before because that is how
+this feature is made. Okay. So this, the whole goal of this feature is a one stop
+personalized destination. You do not have to tap in a query or you have to
+navigate. It's like everything's there for you to start to consume. Now as you start
+giving feedback and satisfaction to your videos, this section would be so much
+better. Let me give you an example.
+Before I was going to go to VidCon London to speak, My kid was watching a cartoon,
+and he's like, have you seen the odd ones out? I'm like, I don't really watch
+cartoons. He goes, you've got to come watch this. They have a video called Sue
+Buoy. So I sat down, I was crying, laughing so hard. And before you know it,
+I watched three videos from Odds went out. And before you know it,
+I checked off YouTube, because it was late at night. And the first thing I went in
+the morning, I went to YouTube, to the home page, my personalized destination, and
+guess what's actually, I didn't subscribe to the channel, but guess what was there?
+Two more videos from the same creator, and what did I do? I watched them,
+and I laughed again, and I go, I've got to stop. I cannot, I can't binge watch
+the whole channel. But it found something that I liked, and then it literally
+stalked me and hunted me for about 28 days until I hit that subscribe button. OK.
+Now, this one -stop personalized destination is based on viewers what they watch and
+the search history. And if you want a clean slate, go ahead and just delete all
+your search history. They keep some data and stuff like that. But just start to see
+what it appears. Now, for me, I want it really focus because I don't want to waste
+time. Time is really important to me, and I want to be able to get exactly what
+I'm looking for. So this includes how much a person watches on a specific channel
+or topic. Now, this right here, I want you all to understand. They don't want to
+just give you what you've already watched. They want to predict what you want to
+watch. And so if there's a specific topic that you enjoy, they're going to find
+other creators. Well, let me take a step back. They're going to find a subset of
+viewers like you and see what they're watching. And then that's what they're going
+to start serving on the YouTube homepage. So this is all about how many times we've
+already seen the results and so on and so forth. But this is where I like to
+break it down. I like to say, hey, it's broken into two parts and it's personalized
+destination for what they're familiar with. These are things that you subscribe to or
+you've watched a lot of content and they're like saying, hey, you've already watched
+this, watch this again, or watch this other version of this video, and what's being
+discovered. Now, I can tell you, I am so grateful that I'm finding videos I never
+knew existed and I would have never found them. And I'm telling you, a lot of you
+creators would never have had the success that you had if they didn't actually
+change this feature. because people you'd be
+really important and I think everything is like how do you trigger the algorithm and
+it's it's simple you actually need to pay attention to your content and what is
+your content your content is your title your thumbnail your video what you say in a
+video that's your content your description of course and it starts to analyze all
+this and it wants to see how how satisfied people are. So to improve that,
+it's like create a better engagement and satisfy more of your viewers in a way that
+they'll want to watch more videos from you. And if you can get a larger sample
+size and YouTube can go, hey, guess what? We're going to go and find you more
+people because this video is really good and it's performing. And guess what? There's
+all these people that just watch this content. We're going to serve it out there.
+Have you ever noticed that a video would actually get a ton of views and then it
+just kind of dies? And you're like, oh, why did it die? Well, what's happening
+there is it takes a break because you can only go and serve out to so many
+people. And whether it's effective or not, it doesn't matter. It needs to take a
+break until it creates enough user behavior to set it out to another group.
+And the more that it expands out, I have videos that have been going for the last
+five years, and it's almost predictable of what they're at. And every channel,
+every video is different. And so giving you numbers of that, it's not going to help
+you. It's just like there is a predictive way that the algorithm goes and finds
+more people. Because as people consume more, then they're like, oh, we've got to go
+ahead and show them this video. They're also looking how performance is higher than
+normal. And I'm really grateful for the studio beta. Get over it. Just go jump on
+it. Get entrenched in it. Leave your feedback. Tell them what you need. They will
+put it in there. They've been great to put a lot of features that I get really
+excited about. The first one was that video performance funnel. I mean, I was
+crying. Well, not really, but I was crying. I was so grateful for it because it
+gave me so much information that I was just hypothetically thinking was happening and
+they actually give me real -time data. And now real -time CTR, I'm just like, oh,
+I'm just over the moon. But they're really looking at the performance of the video
+and having it higher than normal. I've got to get cooked in here. Okay, so next is
+the what's next. We call it a suggestion, but this feature is like what to show
+the creators next. This is where things change. We're actually giving YouTube a
+query, the video. So the video actually has content. The video actually has data and
+that data will say, okay, now we actually have a size of viewers that are seeing
+it and we're looking at that relationship of that data to know what to predict to
+get it out there. Now this is, I can tell you right here, this is the most
+powerful recommendation areas, and I would spend a lot of time creating data
+relationships between your content. I'm going to give you some really, really
+important tactics and strategies that you need to do, and it's just best practices.
+But now that you give in YouTube a query, which is the video, now it can start
+defining what it is. Now the AI has additional context of what you're watching now.
+So it has all that metadata that's in the video, but now it starts to have
+context. As people start watching your content, it gathers more and more data.
+Now, here's where it's interesting. It took a while before they push and promote in
+different ways, the freshness factor and a few other things. They can immediately
+turn it on and ramp it up as fast as it can grow, but it's going to only go to
+sample sizing. And And it knows its limits, and it will kind of slow down, and
+then you'll see a huge drop, and it'll be patient a little bit, and then they'll
+come back up. But the AI actually has additional context with what you're watching,
+and it's trying to actually predict what viewers will have without having viewer
+fatigue and having them jump off of YouTube. So there is a mixed relationship of
+the What's Next. This is all the content that's, if you're on desktop, is the side
+of the video going down there on mobile. It's beneath the video.
+There's a feature, I don't think I threw it through the video in, or the image in,
+because they had my slides before, but this is what they're actually pulling in.
+They're pulling in videos from the current channel that they're actually watching. So
+you as a creator, there will actually be videos that actually show up there, and it
+might or might not be on the same subject, depending on what the viewing
+relationship of the person that's watching that at that time. It's also looking at
+who watched the video that you're watching and what they did next. So it's saying,
+okay, we had 10 ,000 people watch this video, and there's a 2 % of the people that
+watch this video, 4 % of the people watch this other video that we suggested, 10 %
+of the people watch this other video and it's starting to create content and video
+going off the side based off of that data, that user data, because it's similar
+people, what they're watching. Then they're also pulling in similar videos that have
+similar titles, keywords, and descriptions. And this is probably one of the most
+misunderstood. You're like, hey, you know, if the video I'm watching is about
+cooking, why don't I always see all cooking things, or I do see all cooking things.
+Well, they're going to pull in those three types of videos. And then a fourth one,
+which is personalized videos that are literally non -directly related to what you're
+watching, but it's topics that you like to consume and content that they already
+know that you'll want to consume. And the big thing here is this. When you're
+thinking of what's next, or watch next, if you want to go further and further down
+the rabbit hole, not in a negative way, but you want to go more deep on the
+topic, you can. Or you can watch something else. That gives you two options to do
+that, and it's something that they already know that you might like. And the AI is
+really smart of understanding that relationship of when you start to have fatigue,
+how many videos in a row, How many when you stop binging a specific topic or a
+video? Okay? So, triggers to watch the next one? You guys want to know this?
+The triggers? Say yes. All right, here's the triggers. You want to create a strong
+behavioral data relationship with your own content. It's already built in,
+guys. It's already there. What we got to do is leverage that. Now, to do that,
+there's a couple ways to do it. One, I talk about video buckets. You have to have
+topics. You have to have topics that are going to resonate with an audience. And
+when you can narrow down, when you can niche down what that topic is, that's great.
+That's what I call a bucket. Then what you do is you can create content within
+that bucket that would resonate with an audience on a specific topic. And then you
+start doing it into a series, multiple videos on it, and that creates a really
+strong relationship between doing it. Now, if you do the same topic every day for
+the next 100 years, it's not going to do you any good. You can only serve it out
+so much, but if you start to vary your topics based off of different other items,
+keywords that might be in that bucket, that creates a relationship. Then next, you
+create a strong
+CTA to have the viewer watch another video within that bucket, within that series.
+Stop asking them to comment, like, and subscribe. Tell them to watch this video
+because you need to watch it. So with our clients, guess what? We tell them, what's
+the thumbnail going to be? What's the title going to be? What's the hook going to
+be? And what is your video that you're going to recommend in the video so people
+can watch next? Because what we're trying to do is create a data relationship of,
+hey, you have 20 % of the people that finished the video, clicked on the other
+video that went to this next one, they're gonna go ahead and predictably find people
+for you to watch. So that means cards and cards, leaks in description, series
+playlists. Series playlists is important if you're doing serialized content, that you
+can actually create these bonds and this relationship between the content. Next, we're
+gonna talk about search. I gotta get cruising because I'm gonna run it out of time.
+But when you're doing search, you're giving YouTube a query. And you're actually
+typing in something. And this is where it gets interesting. They're going to display
+videos that match the query, the title, and the description. But have you ever seen
+in one of your searches that those videos show up that doesn't have the title or
+the keyword in the title of the description, but it's there? That happens all the
+time for me. And basically, this is another one. It's like people searching for this
+query tend to watch certain types of videos, and it might show up. Like that might
+be one of the things that's happening in that search feature. But most importantly,
+they're looking at the performance. And the performance. When someone sees that,
+do they watch just a portion of the video? Do they watch more of the video? Are
+they more engaged in that area? They're looking very specific at that information of
+what to see. Now, if you're trying to game this, don't. Just make better content.
+And it all starts down with your title. Next is trending. There's been a lot of
+frustrated creators on trending. They don't understand this. I like to say that it's
+a geopacific water cooler. And basically, this is not a popularity list.
+It's not, what's the most popular videos in different verticals? It's not that. What
+it is, is it's really understanding broader topics that appeal to a huge,
+large audience. And this right here, the larger the audience it is, it could be
+different topics that, you'll see something that has 10 ,000 views, and you're like,
+oh, some YouTube employees, like hit a button so that shows up. That's not the
+case, because it's appealing to something that, you know,
+And whether you like it or not, that's what's there, because that's the whole
+purpose, the objective, of that feature. So focus in on the viewer.
+This next, and I got to really cruise, and I do apologize, you really need to
+start focusing in on the middle of the video performance funnel. And like I said,
+I'm really grateful for YouTube for this feature. This is the best thing that hit
+the analytics since real -time analytics. And if you ever want to know what the
+And it's really important. So you can see this content was 99 .8 % recommended by
+YouTube. We had a 23 .1 click -through rate. When this was only recommended at 42%,
+it was like a smaller sample size, it's like our own group, and it was like 42 %
+click -through rate. It was a really good thumbnail and a really good title. You
+also want to spend hours. This is Jimmy, I don't know if you know him, But he,
+as Mr. Beast, and one of the most real authentic people I've met, and he just
+cares about the title and the thumbnail so much. And then he comes up with that.
+He spends hours really analyzing what he's going to do for a video, and sometimes
+days and sometimes weeks and sometimes months. And he wants to understand what it's
+going to look like, the relationship. There's a lot of testing going on. It's just
+not creating it last minute before you upload, And there's a lot of thought. But
+next, you want to spend double, triple the amount of time. If you were my client,
+I would say you need to spend a lot more time until you can start doubling your
+averages in a different way. The lower rung of this is the average iteration.
+I've always been sensitive to that of the percentage and also the minutes watched.
+And I know that there's a lot of weight and discussion on, hey, is it percentage?
+Is it Minutes Watch? Well, yes, it's both. I personally care a lot about the
+percentage. I don't know if I'm right, but I do. And I want to know if they can
+finish the video, then they're satisfied. And then there's a toggle, too, that you
+can actually come in. Oh, I've got more slides here. But there's a topic that you
+can actually come in and you can toggle it to see how it is relative to other
+videos that are similar into that type of niche, similar length, and you can see if
+it's above average or whatever. So I'm really sensitive to those two things. Next,
+please, please, please, always deliver on the promise of the title and thumbnail. If
+you do not do this, you will be penalized because if that viewer says, oh, this is
+not the content I'm looking for. And please don't do it at Minut Marketer 8. Like
+literally do it at the beginning, right there in the front, the first 10 seconds,
+reinforce that keyword, and the promise of that title and thumbnail. Your audience
+retention graph is really interesting. I want every creator in here, whether your
+brand or a YouTuber, to spend time on this. This tells the relationship how your
+video is actually performing based off of viewing behavior. And the best way to
+understand what the algorithm likes and what the averages are is to really understand
+this. And the cool thing is, you can play a video and it will show you the real
+time where people drop. And what's interesting is this specific video, the reason why
+it dropped down so much, we did not reinforce our title and our thumbnail within
+that first bit of time, but we did a little bit later, and then that's when
+they're like, okay, do they just jump to that part, and they didn't want to feel
+like they're missing anything on it. Average view duration was great on this, but
+every video is different. Now, remember we talked about buckets? You can start to
+see correlation between content, and when it's on a specific topic and it appeals to
+a specific viewer, then you can start putting things in groups. Now, this is a
+feature that I begged YouTube to put in there. And luckily Matt Pat was able to,
+you know, him and quite a few others, made the suggestion to get it in there. So
+in the analytics, it's like the most powerful thing to do is look all your top
+videos. And in the upper right end corner, you can actually do some comparisons. If
+you start putting those videos in buckets and groups and you start saying,
+hey, this is all related content within this, in this topic or niche and it's my
+serialized stuff and you start doing all your different buckets, you now start to
+compare data that is the right way. You can see which viewers like which content,
+but you can see which traffic source these contents coming from. And this is going
+to shock you that there's certain traffic sources that like certain type of content.
+And when you understand that as a brand or as a creator, that helps you really
+understand the dynamics. Now, The closing thing, and I want everyone to understand
+this, is you have to improve your content. Your content and the relationship that it
+has with viewers is not going to go away. It's not going to go away. And it's
+either going to perform or not. Now, there's all these hidden surprises that happen,
+that you'll have a piece of content that just takes off. And that's because YouTube
+finally found a large enough sample size to actually give you the content that you
+want to watch. And when you do that, you can have numbers that just take off.
+And you can really explode. You can have a ton of views in a short amount of time
+by just changing a few little things, small tweaks. Don't overanalyze what we're
+talking about. Just make better content and really focus on the viewing experience of
+what people are watching at that time. Thank you so much, guys. Appreciate it. Let's
+talk about metadata. Metadata is what's important on YouTube,
+and it gives us the queries and the things that we're able to do to know how to
+get recommended. So you actually has, it starts with a thumbnail, title, your video
+itself, then what you supply YouTube, which is your video title, your description,
+and even some tags. But what I want to explain is that's all great until YouTube
+has enough data on its own to do its job. And I want to talk about videos itself,
+but more about viewer behavior. Now, I can tell you, I've talked to a lot of you
+here. That's why I'm losing my voice. And a lot of you focus in on the wrong
+things. And I want you to really take a step back here at VidSummit. I want you
+to take some takeaways. You're going to have two presentations. This is the first.
+And once you understand what myself and Jimmy are going to teach, then it's going
+to help you understand how you can improve, and how to analyze, and how to adjust.
+So let's go to it. Who's seen this graph? I mean, I think Matt Gillian had it in
+his presentation. This is actually in a paper that was actually written by some
+people that are here and some people that are watching it. It's like way over a
+lot of people's heads. I've spent a lot of time researching and trying to understand
+the whole system, and this is the whole recommendation system. But for me, anyone
+that knows me, I want to always make it simple. So, shall we simplify it? No,
+should we simplify it? All right, here we go. This is the most simple thing. This
+is actually this graph right here that you're seeing right here is simplified like
+this.
+No, it is. No, you think it's not simplified, but it is. This graph right here is
+this. Okay, so should we define it? Okay, so.
+they're really, really watching the viewer. Really watching.
+Okay, that's how simple it is. Like, let's not overcomplicate the AI. Okay,
+so the AI is meant to have a deep relationship, a partnership with the viewer.
+And as the viewer navigates through the platform, it's able to identify what the
+viewer will like. Now, we've talked about this before. I even went in detail several
+presentations that I've done, but I want to do it in the most simplistic way that
+I can. Okay.
+You have the triangle of destiny here. So, like, as a viewer comes on,
+they're able to watch content and skip content, and it gives feedback. There's a
+feedback loop that goes to the bot that has the tight relationship with the viewer,
+and then it goes, gives the viewer, and it refreshes and gives the viewer what they
+want. Now, what's interesting is each part of this is really important.
+So as you interact as a viewer with the platform, it gets smarter and smarter and
+smarter. And ultimately, as as this feedback loop happens,
+it becomes more predictable. And so I want to break it down on viewer trajectory.
+This is not necessarily discussed in a lot of places, but this is kind of the
+essentials that you need to know. And the first part about viewer trajectory is the
+impression. Now, what an impression is, just really quickly, is when someone actually
+sees your title and thumbnail for longer than a second. Okay, that's an impression.
+And you can only get certain impressions on certain traffic. We're not going to go
+in deep on that. But the first thing is, is the consumption part.
+So there's an impression, and then the viewer consumes. How do they consume?
+They click, right? So this is not rocket science. There's a lot of people talking
+about this but this is where it gets really really interesting the next thing is
+the like this is the most misunderstood portion that creators make they're like oh
+yeah we had a lot of thumbs up we had a lot of engagement but all we consider
+how people like it how the AI is is basically the average view duration and the
+average view percentage That right there is the keys to the kingdom.
+Like, if you can get them to click and you have this down in the right way, you
+will get promoted. Next is the query. Now, let's talk about this for a second.
+So, when someone watches a video, they watch it for five seconds. It now gave
+YouTube data. Okay? It says, this person consumed this content and the average
+reiteration wasn't very long, so let's not actually serve a more content like that.
+So now you have a query, you have content that YouTube can use, and it has a lot
+of data around that video. They see who's watching those videos, who's engaging with
+those videos, who's actually going to the video and watching it over and over and
+over again. The query is so important to the AI, and that's why some of the
+tactics that Mr. Beast is going to share with you will make your mind explode.
+Okay? Next, after they have the query, they can now make a recommendation.
+Now, this is the viewer trajectory, and this is what happens, this is the life
+cycle of a viewer, and if they do a good job with the recommendation,
+guess what happens, guys? we start over again. It's an impression, right?
+Then it's a click -through rate. They consume average utilization query, and they keep
+on getting better. Now, right here is broken into two areas. Now, I can tell you,
+one of the most key things that I look at as a consultant is watch history,
+viewer watch history. That's really, really, really important for me because the watch
+history and how recent that really is on a channel is critical for success.
+And you're either going up or you're either going down. And YouTube has done a
+great job to give us a lot of tools that we can actually analyze the things there.
+Now, that itself gives us a dynamic future. And this is what I love is it can
+change. you could be stalled out, you could be plateaued. All you've got to do is
+change a few things to get people to actually watch your videos and have them in
+history and engage with your content, and that changes the dynamic future. I've seen
+channels explode overnight because they were focusing in on the right things.
+Okay, so this being said, this is where it gets interesting. Three main focuses.
+And I can tell you,
+a marketer okay focus number one viewer acquisition this right here is key it's main
+focus next viewer retention and lastly churn okay how many people are dropping off
+so let's kind of look at it in a different light let's go ahead and look at
+viewer acquisition Let's like break this down. So in this, we can actually take,
+this is Mr. Bees, part of his number, so you can take your pictures now.
+But here's where it's interesting. There's a lot of data here, okay? But the data
+that we care about, the data that we care is about actually this,
+right? The impressions to clicks. Now, the impressions are really important,
+and I'm not going to go in depth on that. I'm going to leave Jimmy the opportunity
+to go in there, but it's really important that you understand that that is the
+acquisition. And when you're able to acquire a new viewer, that is the first step.
+Next, if we look at it, is the viewer retention. Viewer retention is key.
+We talked about that. And that's where it comes right here, the average view
+duration. This is like my favorite tool that YouTube's ever developed. It is super
+powerful. Everybody should get off classic. I think we're going to be forced off
+classic. But this is by far the best tool that you can ever use when you're
+analyzing your content. And you're able to pull this in and start seeing the real
+data that is behind every single view and how they come in. Now,
+what's interesting as we're going through this is most people don't click on that
+little plus icon with a round circle. There are gyms of joy there.
+Okay? I can tell you. One of the things is the average percentage viewed. There's
+another thing of how many subscribers are actually coming in from the different types
+of videos that you're putting out there. And it goes deep and deep and deep. And
+this is why I love it. I've been using Google Ads for a very long time for other
+businesses that I have. And I thought AdWords is amazing. And you're able to do so
+much. Well, they've taken a lot of the analytical stuff and kind of moved it over
+for YouTube. And I wish everyone would know how to use it. But this gives you a
+lot of great things. Now let's talk about, next, Let's talk about this.
+This right here is, I want everyone to take a picture of this. This is so
+important. This right here is the true retention that we're talking about.
+So you have average vieweration. You have average percentage viewed, but this is
+right here. It says average views per viewer. In what days? 28 days.
+So he released four videos, and in four videos, the average person is watched 4 .2
+times.
+Okay.
+Jordy, raise your hand. I see it back there. Raise your hand. Jordy, how many
+average view per viewers that you get?
+Seven. He gets seven. Think about that for a second. It's crazy.
+That means every person that's watching it from there. Now, I can tell you, if you
+want to improve, it's getting people to watch your content and watch it again, and
+watch it again, and watch it again. Now, I'm going to not go in depth on this,
+but this metric right here, I believe that most creators are not looking at or they
+didn't understand. So to understand this, this is the actual retention of your
+viewer. This right here is watch history. Watch history. This
+actually a lot higher if Jimmy would post more videos. And he does. And it goes up
+to six or seven. It depends on how many videos that he actually releases in a
+given 28 days. Okay. Viewer churn. I am so concerned with this.
+And so YouTube, if you are here, please give us the data for this. Like, I want
+this data. I love this data. And let me kind of explain how YouTube can put the
+resources behind this to get the
+of traffic and where traffic's going where traffic's coming because once you
+understand that then that's where success happens I had a client that was getting
+yet 42 % of other viewers are coming from search and he couldn't figure out why his
+videos just would never take off and I go well because it's search if you want 70
+% 75 % of all views on YouTube you need to be recommended by YouTube not through
+search but recommendation And so once we were able to change a strategy, he was
+able to get hundreds of thousands of views in a couple days. Once he was able to
+know, oh, you can change a few things, and it's going to take some time so that
+you can actually develop a relationship with the viewer and your content. So next,
+YouTube has its own traffic, or sorry, each YouTube traffic is its own system. One
+of the biggest mistakes that I've found that content creators make is they're trying
+to analyze data that they have no idea how to analyze it. Now, I love YouTube, and
+they do a great job, that you can actually roll over. There's a little icon by
+every little metric, and it has a little eye on it. You roll over, and it tells
+you what it is, and I really appreciate them doing it, but nobody does that. But
+you've got to treat each different traffic source as different type of content. And
+the best way to do, let's go back to this graph, is really dig deep. So this is
+Mr. B's traffic sources. So you have suggested videos, browse feature, channel pages,
+YouTube search, notifications, and so on. You can see the watch time, because we
+sort by watch time, because watch time's the most important, and then we look at
+the views. And here's what's interesting from this. When you start to dig deep and
+you start to look at a video that he just released and you're able to see, okay,
+this video had 6 .1 click -through rate. Would you guys say that's good or is that
+bad? Who gets better than 6 .1 click -through rate? Okay, we got some people in
+here, but here's the whole thing. Who gets better than 6 .1 click -through rate with
+207 million impressions? All right. Okay,
+that's what's interesting. So most people would say, oh, this is how my video is
+performing. No, no, no, no, no. That's not how your video's performing. What you've
+got to do is dig a little bit deeper. You've got to look at this number in a
+different light. Because you're trying to put everything together. So what we need to
+do is go over and pull in what traffic sources are bringing what and what click
+through it is. Because every system on YouTube is independent. Okay.
+Suggested videos is not trending tab or homepage. Well, home page and training tab
+is the same thing, but you have a lot of things that are there. And you know, you
+have home page, which is home and you have the subscriber tab and so on,
+but you're kind of breaking this down and everything. So looking at this, on his
+home page, he has 15 .4 % click -through rate instead of 6 .1.
+Out of how many? 30 million impressions. And so what you can do is start taking
+averages of your best performing and your low -performing you, and you can actually
+create a baseline. Is this making sense? Yeah. All right. So it's about viewer
+acquisition, viewer attention and viewer churn. And I truly believe what I just
+showed you is a very simple approach to actually understand this. Okay,
+so now what we need to do is talk specifically about channel jumpstart. And
+ultimately, what we're looking at is understanding that the AI, we're able to feed
+it, we're able to jumpstart it when we can give it predictability. And remember when
+we talked about how to actually start linking content together. We talked about that
+target video and we talked about buckets. That is where it's like jump starting the
+algorithm because we only care about two different traffic sources. We care about
+suggestion and we care about browse feature. Now suggestion 100 % is based off of
+viewing behavior. Okay. So when people watch something and how they respond to it,
+it is like going to interconnect with your content if we do a couple things. One
+of the other things that we're going to be talking about is playlist here in a
+couple videos. And ultimately, we're going to go in depth of how to actually
+optimize that in a way. So you have a higher probability of suggestion. Okay. Now,
+ultimately, the suggestion portion is basically user behavior, what they watch next,
+and that probability of getting them to watch next. And as we're creating these data
+points of really saying, hey, look, they watch this one, and then they watch this
+one, and we've done several different ways to increase the probability of that
+happening, then you're starting to dominate time and time again. And ultimately, it
+leads to our other traffic source, which is Browse Feature. Now, Browse Feature is
+probably the most sensitive to what is happening on your channel. Now, when someone
+just engages with some content, they might not subscribe, but it's going to show up
+in Browse Feature, which is homepage or subscription feed. And if it shows up on
+homepage, people, you know, they're going to watch it. They might watch four or five
+videos before they actually hit subscribe. And once they start engaging with that,
+then it's going to hit in a little bit deeper level. Now here's where I want you
+to understand. It is so, so important that we get people to engage with our
+content. That's why you don't want to have disjointed content. What you want to do
+what you want to have is content that complements each other. That's why we call
+this programming strategy when we're setting up different buckets. And when people
+skip a video, that could be bad in a lot of different ways because they're like,
+hey, they like this content, but they didn't like this content. So let's not show
+them this content anymore. Let's only show them this content. So you're like really
+handcuffing the AI. So what we want to do is get our content so that they're in
+buckets and then they'll naturally recommend it and they'll be more apt to watch
+because another thing that they look at is the time when they watch videos. So
+they're really sensitive to the watch history of when people watch content, how long
+they watch content for. And they can say, do you know what? They've watched five
+videos in four weeks of this creator. Let's always show them them stuff. Not only
+in Brow's feature, but in suggestion. So In my VidSummit presentation, I showed you
+numbers from Mr. Beast. Now, what I want you to really look at is all the
+different things that we talked about with Channel Jump Start. And the most important
+thing that YouTube's looking at when you're actually producing content is this.
+Now, we already talked about click to rate. We already talked about average view
+duration. We already talked about average percent viewed. But more importantly, it is
+the average view per viewer in a given time. Now, YouTube is super sensitive to how
+much content you consume from a specific content creator. And you can see here in
+Mr. Beast's video that he released four videos in 28 days and the average view per
+viewer is 4 .2. Now think about that. Every single video,
+the average was higher than the release. So if he released five and you had 5 to,
+that right there is what really makes YouTube want to recommend your content. That's
+the secret of everything. Like, seriously, it doesn't get more simple than that.
+That's why we use buckets. That's why we try to space things out and we'll go a
+lot more into depth. When we start analyzing the content, we're going to go a lot
+deeper into it. But more importantly, that's the reason why you want to do the
+things that will increase your probability of YouTube recommending. And I can tell
+you, if YouTube looks at your channel and when someone watches it, they watch every
+single content and more, then that's when you'll actually jumpstart the algorithm.
+
+PT4
+
+Hey, jump starters, ready to jump right in and start talking about promotion. Now,
+I can't wait to geek out because we're going to go in depth on the smart promotion
+and also strategic collaborations. Now, let me give you a little bit of backstory.
+When I was growing up, I was really gravitated to ads. I love the psychology of
+ads. And as a young child, I would sit down and watch these commercials, and I'm
+like, man, I can't wait to create something like this. I can't wait to make Super
+Bowl commercials. I remember one commercial that just made me laugh time and time
+again was Where's the Beef from Wendy's. Yes, we know it's a What's a big plop to
+the manager? It is the manager. Where's the beef? He's putting us under the
+supervisor. If you ask me what you did isn't, we should call the owner. At Wendy's,
+the hamburger we modestly call her single, has more beef than the Big Mac or
+Whopper. He's got the owner.
+Hello? Where's the beef?
+Wendy's kind of people never ask, where's the beef? I don't think Is anybody there?
+That ad campaign was so disruptive, and it was so entertaining, and it was so
+different than what McDonald's and Burger King were doing at the time. And I can
+tell you, that's where I was like, holy cow, this is something that I want to do.
+This is something I need to do, and I want to be a part of it. And so I spent
+my life really looking at advertising in a different way. I'd collect ads, and I
+would actually do quite a bit when it came to that and I ended up getting my
+degree in marketing and advertising and my goal was to go and work for a big
+company and so on and so forth. The tactics and strategies that I'm going to share
+with you here in this video is the best way to actually promote on YouTube.
+Like there's other ways to promote if you're looking to sell products and stuff from
+there. But when we're talking about the channel jumpstart way it's all about
+community building and really leveraging the video that we're creating that's why we
+put so much time energy and effort in the preparation of those videos and also
+really getting it just right so that it will have a higher probability to succeed
+because if we can get people watching it and some of you are now enjoying the
+fruits of that of actually seeing when someone actually watches your content that
+you're actually getting more promotion from YouTube, and that's what we're talking
+about here. Now, I want to give you two different examples. I want this to really
+resonate with you. One example is when we were able to get 352 ,320 new subscribers
+in 12 days. Also, we were able to do 1 ,050 ,590 subscribers subscribers in 30 days.
+That's right. We're able to get a gold play button in a 30 day time and it all
+has to do with the things that I'm actually going to share with you. One of the
+biggest mistakes that most creators make when they're actually getting ready to
+release their video is their thought process of promoting that video. And I think it
+has a lot to do with YouTube educators meaning well and trying to get you to take
+action to put that video out in every place of the internet all I got to do
+subscribe to my channel now i know that most of you are like oh my goodness this
+is something i've done time and time again i put them in different facebook groups
+on my facebook page all over the board oh no we suck again okay so like that we
+don't want to suck we don't want to suck again so what we're going to do is put
+the past in the past and we're not going to do our promotion like we've done for
+any other video, we're going to be more strategic. Now, for me, I've told you in
+Channel Jumpstart several times, I am super sensitive to traffic. And what we want
+to do is get the right type of traffic. So in this focus for promotion, we're
+really going to be sensitive of two things. Number one, traffic sources and number
+two, the viewer. Why? Why am I so obsessed and sensitive to traffic sources and the
+viewer is because the quicker that we can help the AI understand what our content
+is and who actually enjoys it, that's where massive growth comes from.
+Some of you have experienced this up to this point. You're starting to see your
+videos take off. Why? Because we're getting really hyper -focused on the content and
+the viewer. And what happens is the viewer enjoys it, and they naturally want to
+share it. And then next, the AI is watching very closely what's going on and says,
+hey, this video is performing quite well with their core audience. Let's find more
+people like the core viewer of this video. Now, I can tell you that the target
+viewer that we're wanting can be our core viewer. And when this happens,
+when we're able to do this, this is where massive growth happens, and you're able
+to grow with every single video release when you're using the channel Jumpstart way.
+Now, in my Vid Summit presentation, we talked about the YouTube AI, how it's
+watching the specific viewer, and it's seeing how they respond to different videos
+and how they engage with it. And when like this example right here, the bot's
+looking really closely at the viewer and the viewers are really emotionally connected
+to that video, that's when the bot goes nuts and the reason why it says oh this
+person responded really well to this video i know that there's more viewers like
+this person out there let's go and find him and i'm here to tell you when you get
+the right type of video that bot will automatically go out and get those viewers
+for your video and you're going to see that some videos on your channel will get a
+boost of views and then die off a boost of views and then die off a boost of
+views and then die off or it's like a boost of views and then come down to a
+medium boost of views and comes down to a medium that right there is when the
+bot's doing its job it says hey look we found more people that would fall under
+this parameter of liking that content let's go ahead and serve it because we already
+know when we show it to this viewer that the viewer responds really well they're
+going to click on it and they're going to watch it and they're going to watch it
+for a this type of average view duration between this specific traffic source
+the subject. Number one, yeah, they may go and watch for 10 or 30 seconds. That
+sends a bad signal. Number two, the bad signals that are just damning your video
+from not progressing. And so you're literally shooting yourself in the foot.
+So not trying that. What we want to do is get the ideal target viewer, that core
+viewer that we truly believe and we know that people would respond to. And for me,
+that is the secret of growth on YouTube. That is the secret of taking really good
+channel jumpstart content, the doing it the channel jumpstart way and promoting it to
+the right type of people that will respond really well, and that's where success
+comes. So when we're breaking down the success of promotion, it's about having
+amazing content. Now content is king, but more importantly, distribution is queen and
+she wears the pants, because I've seen amazing content on YouTube and it had like
+three views. And I'm like, why isn't this getting out to people? Because their
+content was good, but not all the content was good. The thumbnail is
+understanding viewer and behavior. That's why I had you do so much recon and
+research and look at all these little details of the comments and how way people
+engage and how people respond is hoping that you start seeing some similarities that
+says, oh, I need to do it this way. Or, oh, the viewer responds really positively
+this way or negatively this way. And so let's not do those things or let's do
+those things in our videos. And so creating better content is key. But more
+importantly, it's like finding where your audience is at. And for me, I want to
+give you this case study is when I was working with a brand new client, they had
+a brand new YouTube channel. And I'm thinking, okay, how can we get the ball
+moving? Now, every client has different things that they're offering. And this client,
+it was super fun. They're super talented. They're super creative. And I knew that if
+we got the right type of viewer watching this, that they'd be able to grow and get
+over billions and billions of views on YouTube and grow a massive audience. And so
+what I was doing is a lot of recon and research on the type of viewer, the target
+viewer that I was looking for. And so I knew that this audience would respond
+really well to this. And so I made a huge list of all the different channels that
+were out there that would be our target audience. And I was going down through that
+list and I was identifying, do you know, which audience would be the best? And I
+just basically highlighted the ones that I wanted to reach out to. Now, when you're
+reaching out to someone, regardless of what it is, you've got to bring value. You've
+got to know what they're wanting and what they actually need. And if you can
+provide what they want or what they need, they're emotionally to be more apt to do
+a collab with you or do the right type of promotion for you. Now, this example
+right here, we had a brand new YouTube channel. We were actually just posting some
+content randomly that's out there. We were growing an audience. And at this time, we
+had about 60 ,000 subscribers. And when I was going through this list, I knew a
+couple of the people that were on this list. I actually worked with a couple of
+the people on the list. And so I thought, you know what? Knowing their
+circumstances, knowing what they truly want, I need to bring an offer to them that
+would be appealing for them to work with a channel that was much smaller than them.
+And so that was the match. We found the match that had the audience. We found the
+match of what that creator wanted. And we were able to do it. Now, I can tell
+you, had nothing to do with money, guys. Had nothing to do with money. They were
+offering something that the creator needed. I'm not going to go into detail on that.
+We'll have something a little bit more to discuss on that in the Discord group. But
+we tried to find as much value as we can. And when we actually lined this up,
+when we actually lined up our first collaboration, I knew, I just knew that we
+needed to work really closely to really bring the full value of the collaboration to
+our new YouTube channel. And as I was discussing with them of how things would work
+and how it would look like, they were super excited to jump into it. And I'm gonna
+basically show you the two videos for the collaboration and ultimately, maybe you're
+gonna see the value that's truly there. And I can tell you right now, if you're
+just gonna be in a video for someone on their channel and they're gonna give you a
+shout out that won't do as much as doing this strategy which is what we call a
+one for one that means that we're in their video they're in our video and we cross
+promote each other and let's go ahead and take a look at this one for my
+different video for y 'all. It's very exciting. We are super excited for y 'all to
+see this. We did a co -lap with another channel called Studio C, and on their
+channel they do like these sketch comedies. They do like these little skits that are
+really funny and very addictive. They're like on replay 24 /7 at our house. Yeah, so
+we decided to do a co -lap with them and we did a little skit for y 'all on our
+channel and then we did one on theirs as well. So the one that's going up today
+on our channel is kind of, It's like a parody version of the parent trap. It's
+very funny. So they used us as the twins and it's very funny. I thought it turned
+out great. It was so fun to film. Yeah. It was like filming a mini movie. Yeah.
+It took all day. Like we got to dress up the costumes and beat characters. Tons of
+fun. So enjoy. Let's watch the video. I
+know, right? Tony is so cute. I'm so excited for this.
+twins separated at birth each sent to live with different parents. You have a mom
+but no dad, you have a dad with no mom, leaving you both to wonder what the other
+parents is like. It's too bad you just figured it out on the last day of summer
+camp right before you're about to go home. Are you thinking what I'm thinking? Yes,
+we're going to be what it's right. Oh, okay. My bad.
+Hope I didn't give you any ideas, right? Please don't do that. We should do it.
+Let's switch places. That way I can get to know Dad. And I can get to know Mom.
+Let's do it!
+Dad? There's My girl. Come here.
+Wow, camp has been good for you. You look way prettier. I miss you so much. I've
+missed you too, sweetheart, which is why I've taken the entire day off just to
+spend with you. You're the best out in the whole world. Anything for my princess.
+Brooklyn? Brooklyn? Mom? Oh, Brooklyn.
+Who are you? It's me your daughter, Brooklyn. My Brooklyn would never stop.
+A strange teenager who wants to spend time with her family?
+Why are you doing this?
+Bailey? Bro. What is going on here? Well, the two of us switched places and I got
+sent to jail for four months. Then I swam across the Atlantic Ocean, stole a car
+in South Carolina, drove to Tulsa, and then hitchhiked the rest of my way here. Oh,
+hey, sweetie.
+Once I realized what had happened, I tried looking for you for about an hour, but
+I had to put the clothes in the dryer. Then your father and I reconciled. I'm
+sorry about that, but now we're all together. Well, I guess that's true. But wait,
+there's still a corner missing. That's probably because of the third twin that
+neither your father nor I wanted custody of and was left to fend for themselves in
+the woods.
+Barnaby? There's an even prettier one? Well everything's turned out great and there
+were no unresolved questions and no one's going to need therapy. Now let's eat.
+Guys,
+if you absolutely love this video, be sure to go check out Studio C's channel where
+they have awesome sketches just like this one. And as a bonus, Brooklyn and I did
+a sketch with them on their channel, so if you guys want to see that, be sure to
+click this box down there. And then also, where you're there, subscribe because
+they're awesome and amazing, and we love them So much. And that's all we have. So
+bye guys.
+Man, what is taking so long? Are you guys almost ready up there? Just a minute.
+You can't rush beauty, fellas. Prom is a big deal. The girls have been getting
+ready since 10 this morning. 10 a year. I just threw the suit on in my car.
+Didn't even shower. Just cologne. Guys, the Limo driver's been waiting for like 20
+minutes.
+Ladies, are you coming down soon? I'm ready.
+Are you kidding me? Kelly, you're like the most beautiful girl in our class. Now
+come on down. Hey, here I come.
+Do you like it? Wow.
+The modest is hottest. Oh, sweetie. I just wish your mom was here to see this.
+She went to the store. Oh. Go, let me get the camera. Where is your shoulder? I
+don't know.
+Thanks.
+Is it everything you imagined? No. What? Yes. Oh, good. She looks like a burrito
+with a face. Thank you. Hey, Brooklyn, are you almost ready up there?
+Yeah, and my sister's ready too. Oh. Is she coming with us? Yeah,
+I hope that's okay. Brooklyn, you look boo.
+Do you love it? So your sister couldn't get a date and you sold her into your
+dress. Yeah. Thank you so much for understanding, Dan. Yes. Yep,
+no, no, not you. I got this for you.
+Thank you. Thank you.
+Oh yeah. Lauren? You can stay up there if you need more time, you know. No
+problem's here. I look amazing.
+Oh. Hey.
+That should work.
+Oh, Michael.
+She could roll down a flight of cement steps and she wouldn't get hurt. Yeah, well
+at least yours has some curves. Mine has left literally everything to the
+imagination. My date is a flippant, two -headed mythological creature. Okay, Michelle,
+lay it on me. I can take it. I don't know. I don't look nearly as good as
+Lauren, but I'm coming. No, no, no, no. Stay up there, please. Michelle, I can't
+take it. I'm not strong enough, Michelle.
+You look good. No. No way! How is that fair? Okay.
+You boys have than back by midnight. I'll be home well before that. I'm excited.
+I guess you go sideways? Okay. Of what you reminded. Baruka Salt.
+You know what I'm talking about? Oh, wait. Just a little, a little. Okay.
+Hi, thanks. Bye. I'm Sorry, I forgot my hat and cape.
+Woo!
+No!
+Hi everyone, thanks so much for watching this video. We want to give a special
+thanks to Brooklyn and Bailey for joining us on this one. We filmed another video
+with them that is on their channel, so click on the link below to check that out.
+Make sure to subscribe and comment below which one was your favorite dress. I know
+mine. It was mine, right, Dad? It's mine. Anything's possible.
+Sure. Okay, so now you just watched both video, that one for one, I hope you
+noticed that the whole storytelling cycle worked in this for a sketch comedy show,
+right? And at that end, you saw that gush. That gush is alive and well in both of
+those videos, and they were really, really good. Now, for us, this strategic
+collaboration or this promotion that we were doing was very, very, very well thought
+out. And I want to break it down so you can see it because you mind not to see
+it in your lens, but I'm going to show you what we did to not only bring this
+in, but to take it to the level of promotion that we really wanted to. And it all
+comes back down to this. We had the right audience watching that content. And the
+second thing is, we had the right push. Let's go ahead and take a look at the
+push again. Hey, guys.
+It's very exciting. We are super excited for y 'all to see this. We did a collab
+with another channel called Studio C, and on their channel they do like these sketch
+comedies, they do like these little skits that are really funny and very addictive.
+They're like on replay 24 -7 at our house. Yeah, so we decided to do a co -lap
+with them and we did a little skit for y 'all on our channel and then we did one
+on theirs as well. So the one that's going up today on our channel is kind of...
+It's like a parody version of The Parent trap. It's very funny. So they used us as
+the twins and it's very funny. I thought it turned out great. It was so fun to
+film. Yeah. It was tons of fun to film. It was like filming a mini movie. Yeah.
+It took all day. Like we got to dress up in costumes and beat characters. Yeah.
+Tons of fun. So enjoy. Let's watch the video. Wow. I mean,
+that was it right at the beginning of their video and they were watching Studio C
+long before. And like I said, there was some value there. And then they really
+loved and they were Starstruck with Studio C because they're like, hey, we love you
+guys. And it was so awesome. And it was a great.
+And as a bonus, Brooklyn and I did a sketch with them on their channel. So if you
+guys want to see that, be sure to click this box down there. And then also, while
+you're there, subscribe because they're awesome and amazing. And we love them so
+much. And that's all we have. So bye, guys. Okay, so that right there is we had
+an intro video that they're kind of prepping the people for it, saying what was
+going on because this is definitely different type of content for their audience. And
+at the end of the video, it was an amazing shout out saying, hey, go subscribe to
+them and watch another video, and that was pushing traffic to that video. Now, there
+was another thing that happened. If you look basically underneath the video, you can
+see that there was in the description the link to their video. And so we have all
+this data that's going, all this traffic that was watching this video, had a higher
+probability to go watch the other video that has Brooklyn and Bailey with them with
+Studio C, and they just laughed and they love the video and they're ready to
+respond to the content that is on Studio C. And so when they went over there,
+that's where it got really interesting. Now, a strategic collab will always have that
+swarm of core viewers, the viewers, if you do this right, that will be our ideal
+target avatar or ideal target viewer and it's sending them in swarms to your video.
+When that happens, that makes the AI do another reaction and says, wait, what's
+going on here? Why is all this influx of people, viewers coming to watch this and
+look at all the similarities that they have in common? So you have a huge amount
+of similarities with viewing behavior coming and watching and consume a video if you
+do that one -for -one strategy that we talked about. And so as they're coming over
+in swarms, the AI goes, huh, I'm paying attention to this. Let's see how they
+respond to the content. And as they engage with the content and they go through the
+content, it's really key what the AI sees next. Now also, I want you to understand
+that we are getting the most core, the most devout viewers that are coming in this
+swarm. And so it's really important so this right here I wanted to show you is all
+these all these arrows that are pointing to the video this is the video going to
+be on your channel and what do we want them to do well at we want them to finish
+the video for sure and more importantly we want them to watch another video on our
+channel because we don't really care for the subscribe right now yes we can put it
+in the shadow yes we can put it in the CTA but we want them to watch another
+video and so when we do that that is that viewing behavior that makes the
+for joining us on this one. We filmed another video with them that is on their
+channel, so click on the link below to check that out. Make sure to subscribe and
+comment below which one was your favorite dress. I know mine. It was mine,
+right, Dad? It's mine. Mine? Anything's possible. Okay, so you might say,
+okay, wait a minute. Where is the video? You're just pushing them back to the their
+video. Well, not necessarily. And I want you to look really closely at how many
+views that Brooklyn and Bailey had on their video. We had 8 million views.
+Also on our video, we had 11 .2 million views.
+But what happens next is when viewers are actually watching the content, when it's
+on our own library and we've done a great job at actually connecting our content
+together, what is YouTube going to do? It's going to recommend our content and look
+at the differences between watching this video of what's being suggested and also
+what was being done on Brooklyn and Bailey's. And so there's a higher probability
+that YouTube says, hey, here's all these attractive videos for you to watch and just
+seeing what they're going to do, how they're going to respond. And It responded so
+well that people clicked on it, clicked on and watched another video that YouTube
+started to recommend our video more to the Brooklyn and Bailey audience because they
+knew that that audience loved it and it was kind of being come our audience. And
+they not only watched one video, but they watched multiple videos. They went on a
+binge of Studio C and that's where we were able to get 352 ,320 new subscribers in
+12 days. Now, I can tell you, I want to give you a lot more in -depth on
+advertising because we actually took that little shout -out, got approval from the
+McNights, but got that little shout -out that was for 30 seconds, and we actually
+did a strategy. I'm going to show you in the next video. You don't want to miss
+it. But before we get into it, it even gets better than this. And let me tell you
+why. Because they had such a great experience, and we made it so fun for them,
+and we fulfilled with the value that they were looking for, which was not money. It
+was that experience of feeling like they were an actress in a movie or whatever.
+That right there, going from a YouTuber and transitioning over to broadcast TV was
+really, really big for them. So they did another collaboration the following year.
+Check a look at this. We had 3 million high school and drama featuring Studio C in
+Brooklyn and Bailey on Brooklyn and Bailey's channel had three million views and then
+ours dance battle boys versus girls featuring Brooklyn and Bailey had three point six
+million now here's the thing and here's what's interesting from that we had another
+collaboration a year later and we brought in another hundred and twenty three
+thousand two hundred and twenty new subscribers but it didn't take 12 days it only
+took 48 hours
+over a billion, almost two billion video views. Now, I can tell you that's the
+fastest way to grow on YouTube. There's nothing bigger than that. And you're gonna
+see really good strategic type of collaborations. You're looking at what's inside and
+jerry rig everything and they do a lot of videos back to back and they grow
+together. And we can break this down. We've seen a lot of smaller creators just
+start helping each other and being each other's videos because they have the same
+type of audience, and that is key. So I'm here to tell you, please, please, please
+do not promote your videos to people that are not interested in your videos. I
+don't care if they're a YouTuber. I don't care if it's in a Facebook group. What I
+want you to do is promote it in the right way with people that will actually like
+your content. They'll watch every video to the end. They'll share it naturally and
+organically, and if there's enough of them, YouTube, the AI, will actually look at
+it in a way to really grow. Now, let me explain to you another example where
+someone got a gold play button in 30 days. 30 days. I mean, that was the fastest
+we've ever seen it. It's so crazy. And what happened is they went through the
+Channel Jump Start system. They got personal consultation from me, and they're just
+using the same system that you guys are learning here right now. And they were a
+part of Reddit. And Reddit, they're all these sub -communities that are out there.
+And basically, they saw how people were, they did a lot of recon in Reddit, and
+they saw how people were responding to the different type of content. And all they
+did was create content that would respond really well to a sub -reddit. And that sub
+-reddit went nuts. The person didn't self -promote because you don't do that in
+Reddit. Reddit will nix you faster than you can even imagine. And what you want to
+do is just speak their language, speak the way that they would want to communicate.
+So it really resonates with that audience. And he knew that audience because he'd
+been a part of that subreddit for 13 years. And so he's like, I know this audience
+better than I know myself because I am that audience. And he was able to make some
+content right there. He actually had some friends look at it and give him some
+advice to make it better, those friends then just kind of put it in those
+subredits. So went to the number one page of Reddit. And the first five videos that
+that guy made, he made one video a week. He made sure that he did, just starting
+a new channel, I always make sure you have at least one video that you release
+that you're not really pushing to so that when somebody watches one video, they have
+another video to watch. And what happened in those 30 days is he had over a
+million subscribers. And he's getting almost a billion video views. And it's just
+been since 2019.
+the right people and we're really sensitive to the type of traffic that is coming
+from and the channel jump start is more about understanding traffic analyzing and
+adjusting now it is time for your assignment now i want you to come up with 10
+different places where your ideal viewer your target viewer congregates online now
+these could be youtube channels these could be subredits these could be facebook
+groups but what i want you to do is figure out where they congregate, put them in
+a list, and we'll see you on the next video.
+
+PT5
+
+Hey, Jump Start is ready to jump right in and start talking about how to promote
+your video. Now, before we get started, I hope that you watch the video, this last
+video on smart promotions and strategic collaborations, and I hope you did your
+assignment. If you didn't do your assignment yet. Please do not watch this video. Do
+the assignment first. Okay, so let's talk about promotion. What we want to do is
+get the right type of viewer watching our content, coming from right traffic source,
+and that will trigger the algorithm. That will trigger the AI once they can start
+consuming the content and the content is in line with the viewer, and it's what the
+viewer will want to watch and we have great content. It's going to trigger YouTube
+recommending our content to similar viewers. Now, the best way is really on your
+list that you've created. You should have some YouTube channels. Now, maybe you went
+too big. And so I'm going to give you another assignment right now to go a little
+bit smaller. Maybe some of these YouTube channels are about the same size as you.
+And what we want to do is get your videos in front of new balls and the best way
+to do that is in the community tab because that's what it's for and secondary is
+for the cards and screen elements now the community tab is a lot easier to get
+into you know you just basically change for a post for a post and got to be fans
+of these creators and you have be watching their videos and you'll be able to
+really engage with them and you need to push traffic their way and they're pushing
+traffic your way. When you're doing that, that type of cross -promotion is nuts.
+And you can do that with 10, 20, 30, 40 different channels as long, as long as
+they're the right type of viewer. If it's not the right type of viewer, it's that
+other trap that we talked about in the last video. You do not want to do that. So
+the more that you can do it with the ideal viewer, the better it is. I can tell
+you, guys, I can tell you, seriously, jump starters, this is part of the key to
+success. I've seen a lot of creators work with each other. They collaborate, they
+share, they help promote each other. And as a group, they're able to lift and to
+grow. And I can tell you that works every single time because when someone grows,
+as long as they're sharing, that brings up the rest and you know you might be
+growing at different times and it can work from there it really does build a good
+relationship with their viewers who will jump over because they're similar to yours
+and they just haven't discovered you yet what I want you to do now is to identify
+smaller channels that would be about the same size as you that would have the same
+type of audience and then I want you to reach out find a way to talk to them
+find a way to do a little group a mastermind group or whatever and start sharing
+content on each.
+But the card and the end screen definitely is. And so when you're doing that,
+that's the traffic that we want because that's the other YouTube features or cards.
+And basically those end screens and the cards or the other YouTube features, which
+is community tab, is bringing traffic in. That is an indicator that basically
+YouTube, if you remember my talk at VidCon and also at VidSummit, that YouTube's
+looking very specifically for their hit rate, and that hit rate will translate into
+other things, and it'll notify other traffic sources to test that out. And if it's
+true, it will start to see a rise with other traffic sources. So we're doing
+everything here internally to YouTube. So what about all the other people that are
+off YouTube? And you have a list of things of where they actually congregate. Now,
+for me, there is a couple strategies. First off, if we can bring them from off of
+YouTube onto YouTube and that they stay on YouTube, not only one video, but their
+session might be four or five videos, that is a very big deal. And that's a very
+big thing. Now, I have a client, Mr. Beast, that he has an amazing strategy and he
+has a lot of core following that when he does a tweet or he does an Instagram
+post, he never, ever, ever puts the link in there. Why? He wants him to come onto
+YouTube, type his name, look for the video, click on it. That's extra effort. It
+is. But I can honestly say that does make a big difference. Now, what if you don't
+have that size of core audience that loves your stuff and they follow you off of
+YouTube on all these other socials? That's not going to work for you. You can get
+to that point where it does, but we want to make sure that they're coming to
+YouTube. Do not have it as an embed on your website. I mean, you can embed it,
+but keep in mind, it's not bringing people to YouTube. We want to bring people to
+YouTube. That is the traffic we want to have happened to really get our video to
+be promoted in YouTube. And then next is there's several ways to do that. You can
+actually just share a photo with the link so it doesn't do an embed. That's a very
+powerful way. Now, I want you to look at that list, And I know that there's a lot
+of things on that list of where you can actually promote. The thing that I want
+you to do now, and this is part of your assignment, is to think about how you can
+bring them value outside of your video content. And I want you to write them down.
+And if you don't know, I want you to do a little bit of time to do some
+research. Because this is your golden list that's going to help you be more
+successful down the road. It's not like for immediate promotion. The immediate
+promotion is, hey, we're releasing this video, we're getting some people to actually
+do some cross -posting with community tab and getting some cards and end screens to
+get that traffic going. And then off of YouTube, I would definitely, definitely,
+definitely try to get value in those communities so that when you do ask for
+something, it should be for the right video that will resonate with them. And when
+that does happen, you'll have an influx of traffic coming to YouTube, but it's more
+importantly that they see another video.
+to talk about it because if the press talks about it, then he has people coming to
+YouTube and checking that out. Sometimes it's through an embed. But there is that
+other factor that kind of deals more with trending than anything else. And that's
+something that he's able to do because what he's on trending, it will promote
+naturally out to his love group in addition to that. So that's kind of a strategy
+from there. Now, besides this last assignment, the assignment that I want to give
+you now, besides coming up with all the different ideas of how you're going to
+bring value out there, I want you to go ahead and select the people that are the
+influencers in those spaces. I want you to reach out and start a relationship with
+them, be their friend, and find a way to help contribute to their community and
+helping them to be where they need to be. And if that happens, then you'll have a
+higher probability of you getting your videos promoted. Now, I know this is not what
+you're thinking. You're thinking, oh, there's some magic secret sauce that's here for
+promotion. And the secret sauce is getting YouTube content that is your ideal viewer
+to see your content through community tabs, cards, and end screen elements. And other
+than that, you can do stories on YouTube, but realistically, it's reaching out to
+the right people having those relationships so they'll want to actually push your
+content naturally and organically from off platform to on the platform. And there
+isn't really a hit list, a checklist. If anyone's giving you a checklist, you're
+spending a lot of time, effort, and energy if you just spend more time on
+developing the relationships with YouTubers that would do it naturally and you're
+doing it for them and you're cross -promoting each other that's where success will
+come here on channel jumpstart
+
+PT6
+
+Hey, Jump Start is ready to jump right in and start talking about how to use
+advertising to get your content discovered. Now, I can tell you, this is the most
+common question that I get when I'm getting a new client. They say, hey, we have
+budget. Do we need to spend on ads? And I'm going to give you my answer for this,
+and we're going to do it here in this video, and I would not do it any other
+way. Now, I have spent a ton of money trying to discover the way to translate and
+add into a subscriber. Why is that? Because I love advertising. I love that type of
+promotion. And if I could figure out that magic bullet to do it, that would be the
+best way to do it. Now, in that case day with Brooklyn and Bailey, what we were
+able to do is I talked with the owners of the channel, which was Brooklyn and
+Bailey, and I asked, hey, can we just create our ad account here just for some
+promotion of your videos and our videos? And they said, sure, why not? So we took
+that little clip of them kind of doing the shoutout. It was like 30 seconds. It
+was great. And what I did was said, hey, anyone that watched this video on their
+channel, I wanted to be able to put out that ad, which was them doing a shout out
+to check out Studio C. Now, the great thing about it is we did some negative
+targeting too where we said, hey, anyone watch this video that's not subscribed, then
+show them this ad. And we actually had a high conversion rate on that.
+And it was the highest I've ever seen. Now, that being said, there was still a lot
+of money that was actually a part of this process trying to refine it. And it was
+so much easier just to do a collaboration and not have to do it through ads. But
+we did it. we were able to get about another 50 ,000.
+traffic source it through and through ads when you can have it organically at a
+massive rate. And so what we want to do is get YouTube to suggest. So remember in
+the last video I talked about cards and end screens and also community tab, I would
+take the money that you're going to put in ads instead of giving it to YouTube.
+Give it to a creator. Say, hey, we have similar audiences. What about like 50 bucks
+for you to put this as a card or an end screen and you do a shout out? Think
+about that for a second. That would be 50 bucks that would be well.
+or in a community tab, community tab could be pretty cheap. And I can tell you,
+I've grown a lot of audiences that way. And it's a natural organic way. And
+sometimes you get like five engagement points or you get a lot of money that's
+wasted there. But that's because you haven't really looked at the right audience and
+the right size. Now, I would go bigger on this and see if creators are maybe not
+just beginning or just not there. I mean, you can probably do your cross -promotion
+pollination tactic and strategy where you're just doing it for each other, but maybe
+it's a bigger creator that is getting more views and more engagement on their
+community tab. So I'd go to their channels, check out their community tabs, see if
+it's happening, if it's not. Say, hey, what if I gave you, you know, 200 bucks or
+300 bucks or whatever it may be? I don't know where your budget's at, but you can
+literally look and see what the value is for that post. Now, the most effective way
+to do this is an end screen element with a shout -out. That's your best bang for
+your buck because you're getting the best viewers coming to the end of the video
+that will be more apt to trust the creator that they've been watching their content
+to go to the other video. Second would be without a shout -out. Third would be just
+a card and you can do in combinations for this and the least effective of all the
+tactics there would be the community tab, but it's probably the easiest to actually
+get people to bite off on, because it doesn't really disrupt their video schedule or
+whatever. So that is where I would put my money. You could do this over and over
+and over again. We actually had one that did with 100 different channels, and we
+spent right around $10 ,000, and we were able to get a half a million subscribers.
+It's nuts. But the content was really good and they were using the channels don't
+start way. So now, you know, now that they have five million subscribers, it's like,
+okay, it's a no -brainer. But that's the best way that I would do advertising and
+realistically, that's the only way that I'll do advertising until there's a better
+way.
+
+PT7
+
+order to do it on YouTube? Cool. What is your understanding right now?
+Very little in a sense that, okay, my understanding is the editor can upload the
+video. And then once it's uploaded, you can't modify the video,
+but you can modify the words underneath. Is that correct? Like the description of
+the video, everything you put in. So I guess my question is, if I put it on
+private, so let's say I have like three people helping me, somebody to upload the
+words, somebody to upload the video, and then someone to put up the thumbnail,
+you know, like, can you do that piecemeal or does one person have to do it all?
+That's kind of my first question. Okay. Let me go here.
+when all those little tasks are on multiple people and they're all waiting on
+someone like, oh, I can't, I got the thumbnail ready and I can't add it until the
+editor adds the video and like the description stuff. It's just best to have one
+person be in charge of just gathering all the assets and just taking care of it
+first and foremost. I'll just say that one because that's a lot of work. But what
+you have is like under here, under settings, there's permissions.
+And then you can do your invite there. And it's the different accesses of what
+people can do. So what you're going to want to have is the editor. Oh,
+let's see, I can't manage permissions or delete content.
+Yes, this is the one that I like quite a bit, right there, editor limited. So what
+they can do is they can upload videos that you, if they can go live, just, you
+know, you're going to trust this person, but they can do this right here, is they
+can upload videos, they can upload thumbnails, they can do anything to get the video
+and schedule it. Okay. So that's a really good one.
+I see. So it's not really a private option is actually a scheduling option that's
+in there so that when you, I guess I was kind of confused, you know, when you
+have private versus public, but there's actually a third option to schedule the video
+to go either private or public. Is that what you're saying? The third option is the
+schedule to go public. So I'm just going to put up a video right now. That's it.
+That's a super short. Okay, let's go through the process. So I've got a video, do
+-do -do -do. Oh, that came in as a short. I want to make sure it's got everything.
+Even though it's a short. Okay. So what happens here is you've got your title,
+your description. What it does is it pulls from what you already have set up as a
+default. If you set those up under your settings, your channel settings and stuff,
+you got your thumbnail that you can grab, your playlist.
+If it's not made for kids, that's all of you pretty much. For some reason, Matt's
+off wrote it, other channels that I work on, this is always defaulted to know it
+doesn't include a paid promotion. A paid promotion is, even if somebody,
+if you're not making money for it, but they gave you the product, then technically,
+legally you're supposed to click that. Do a lot of people do? No. But yeah, so you
+click on what it is there,
+you run through all of this and add in tags, all that fun stuff. Now, what I like
+to do, and I just want to make my life as simple as possible, is always just
+click on reuse details, and I go to a previous video that falls into that bucket.
+And I just click on that, and it pulls in, I can decide what data I wanted to
+grab, And then I just hit reuse there. I can pull this title out here because it's
+from my, from my bucket. So I just do Control C.
+Then I hit enter three times. I add it there. I go to my playlist where that
+video is on my homepage. So like, let's just go here. I'm just going to walk, do
+the whole process.
+So if it's a Matt's off road. Just pull that up here.
+Do do the playlist. I go to my Matt's off road recovery playlist.
+I let's say if it's that fifth video. I hate this thumbnail. I hate night videos.
+This video is bombing today and I knew it was going to. But this is where to copy
+and paste. See how it says and index equals number five. Now, as you add to that
+playlist, that and index number five will not always be the fifth place. So you
+actually copy before the ampersand. I feel like Jamie's probably listening to this
+going, can I write some code that just grab it and do all that fun stuff? That'd
+be pretty amazing if you could.
+Then I just copy and paste it in right there. And I always like to just keep
+seven. So then I like to have my top performing videos within the last seven days
+and within that bucket there. So then usually whatever it is, I would delete and
+make sure that there's just seven there. I got all the products to sell. I go and
+upload my thumbnail. I make sure I add in the right playlist. So Matt's offered
+recovery.
+That's always the default. We'll put every single video in there. And then whatever
+else there is for other playlists. And then I have the bulk of the tags are pretty
+much the same. I don't really care. Okay, hold on. Let me stress that.
+I don't want that to be heard the wrong way. When you have a new channel and all
+that stuff, these things are vital and important. So like your tag's best practices
+are super key because you want to give YouTube as much data as possible to find
+your audience and grow. When YouTube learns your audience, people like, oh, Mr.
+Bees doesn't do tags, things like that. You can pull vid IQ, you can see our tags.
+You will see that there are times where I have forgotten to put tags on videos and
+the videos get are some of the top performers or they have the wrong tags where
+it's like record Olympics and record games, but it's not a builds video,
+it's actually a recovery that has nothing to do with it. YouTube knows Matt's
+audience extremely well. So all I do is I delete like three or four of these tags
+here and just add three to four new tags for that current video each time because
+of that. Can I ask you a question on that tag? You just mentioned vid IQ. So how
+do you get vid IQ to generate those tags if you don't upload it to YouTube.
+Is there a way to do it or no? So what you can do is if you have like even
+the, the vid IQ basic, I don't know which count. I can't remember which count I
+have vid IQ on. So, oh, I guess I got on this one. Check this out.
+See this right here? Channel tags.
+And then let me see. Does it not let me copy them anymore? I think you just.
+Oh, he has, see how he has no video tags. That's what's going on there.
+On the upgrade now where you can copy it. But what I do is I like to go do my
+recon and research and see what are other channels within my niche and what are
+some main tags that they all have that are common. And I get those tags and I
+have those. And then I make my channel tags of who my, what my channel is overall,
+that's maybe three, four, five keywords there. Then I have kind of like those tags
+specifically for the videos and then like for the bucket and then the individual
+video. And like when you're wanting to look for it with that individual video,
+like go look at other channels or other videos that are talking about your same
+subject and copy from there. And look for all those, those main, the patterns. Does
+that make sense?
+Yes, it does. Okay, cool. That's clear. Thanks. Yep. So that's tags.
+Now, coming back up here to the description, the top of the fold, one thing that's
+really, really good, best practice use when you're starting a new channel,
+all that stuff. Like, You have key words up here with your title. You want to have
+those keywords show up in the top of the fold of your description. When you're
+first starting, make it a good paragraph. Three, it's like, what was a paragraph in
+like elementary school? Three to five sentences. Elementary school level paragraph,
+please. Three to like five seconds, five sentences max. And really hit those keywords
+from your title.
+As you can see here, it's one, two, three lines that appear. And then you have to
+hit click, show more, right?
+So always the juiciest of the best in those three lines. If you're pushing a
+product, like right now on Matt's Off Road, let's just click on the worst video in
+months, in months and months. You see right now we're pushing for the off -road
+record games, so we have that link. Whenever I have any massive push that I want,
+I always have my link in the description on the second line. On YouTube,
+you have to put HTTPS, or if it's just HTTP colon forward slash forward slash,
+if you don't, if you just put the WWW dot, it will not show up as a link. Okay,
+cool. Let's skip.
+It's like, hold up. Here, here's two things on that one. YouTube, especially, it's
+been almost two years, they're not housing everyone's content for free. So if
+someone's going to watch their videos, they're going to put ads on those videos
+anyways. You might go, oh, but when I go on my dummy account, there's no ads on
+my video. Maybe for you, but maybe you're not getting enough video views or
+whatever, but YouTube put in their terms of service, they will advertise on all
+videos. So if you don't have the 4 ,000 watchtime hours and the 1 ,000 subscribers,
+your videos are still going to have ads on them. YouTube needs to generate income
+to keep going. So first off then is you're just letting YouTube keep that ad
+revenue. The second thing is you can always go into your Google AdSense account, and
+you can block certain people from advertising on your videos. So if you know those
+people, just go block them on your AdSense. T 'da.
+It's a good move that way. So there's that one, monetization, make that money. You
+can see we just got everything checked. We like to make money. Add suitability, read
+through that. I don't think a lot of you will have any issues with that. So Matt's
+always none above. It's like, oh my gosh, wow, rate your video carefully. Duh,
+like warning, you're so high, what happens next? It's all good. Then we have our
+end screens. You can add in subtitles if you like. YouTube does such a great job.
+And now, this was really good three years ago and previous.
+You have the ability to tag certain products, which is really nice that way,
+especially if you have affiliate links and stuff like that. You can tag at certain
+times in the video, so it pops up, especially if you have your Shopify account
+connected or whatever. You can do that there, which is really nice. You can add in
+your end screens and your cards. And then Last thing, Jailyu that you brought up,
+oh, they have the checks, no issues found. This is nice for copyright, add
+suitability. Then the next thing is the visibility. Okay,
+private. Private means right there. Only you and people you choose to watch your
+videos. So YouTube can collect data on it. If it's private, right,
+Hold on me. Let me just double check. Hold on. Oh, yeah, yeah. No, no, no. Sorry,
+that was wrong. Private is YouTube does not check the data on it. It doesn't go
+out anywhere. If it's out embedded on another platform, it's not looking at it or
+anything like that. So if you have any issues, it's pretty much nobody's, it's hard
+to watch that. Now, Unlisted, unless Unlisted takes it off of YouTube, but your data
+is still there. People can still watch it if they have the direct link.
+So if you go and embed it on your course, if somebody grabs that link and embeds
+it anywhere they want, if somebody has that link and they click on it, they click
+on it, they put it up in their bar, it will take them straight to YouTube and
+they can watch there. So YouTube can still get data on those people. So the one
+thing that you have to be very careful about is if you have, if it's test content,
+if it's like you upload two versions of the exact same video, one goes public and
+one's unlisted, you can get dinged for that.
+I don't like using unlisted at all. I just don't. Like I know a lot of people
+that use YouTube unlisted for their courses and stuff like that. There are a lot of
+people out there. There's things that can go scrape through people's accounts and
+find unlisted videos and be able to get all those links. It's just not that safe
+and secure. So I don't like it. Members only that's for people like kind of like
+the on type thing, or only members have access to that. They have to be logged in.
+It's more blocked down or lockdown. And then public. Right when you click save,
+the video will immediately be launched. It is live right then and there, and YouTube
+will send out notifications and all that stuff. You can do that. Now, the scheduling
+is to schedule to make it go public at a specific time and date. So that's what
+we always do. You'll see Matt's off road, Wednesdays, Fridays, and Sundays at 7 .15
+a .m. Now,
+here's the wonderful part about this. And I have made this mistake before because
+I'm the one that does all Matt's videos. And it's the learning curve of things is
+you cannot set a default time zone. I really wish it would.
+And because of that, it always defaults to the time zone that you are in at that
+moment. So here's the wonderful story. Oh, someone's jumping in. Do to do.
+Here's the wonderful story on that one. Two years ago,
+It was two years ago in summer on a family vacation in Florida, got a video,
+and it was got it late, it was Tuesday, went to upload it, got it all set,
+everything was good.
+But the time zone issue, I got me. I didn't have that one. But then,
+so there's two things that I learned two lessons really quick. The next thing is
+that when you upload, it will always default to the next day.
+So I had to correct the video. There was an issue. So I got a text. So I started
+uploading the video at 1150 or 1155 at night. I got to the visibility button at 12
+.01. Because I already did it earlier, and I'm like, oh, yeah, I said all the
+dates. It's all good. I just, like, went and I checked. I selected the time for 7
+.15 a .m.
+And it automatically defaulted the next day at 1201 because it was 1201 at night.
+It picked Thursday. And so then I went, oh, crap. So I got a wonderful tech
+sitting, sitting beachside like, hey, what's going on with the video. I'm like, oh,
+what I'm like? Hold on. I need to schedule all that. Pull up my phone. There it
+was. And so I just released it right then and there. So there you guys go. A lot
+of these things you learn by experience.
+So can I ask you a question? Yeah, of course. Okay. So on the, so if you had a
+product that you wanted to push as a new channel, Because you said you would always
+put it on the second line, but as a new channel, I should focus first on my
+description, the three to five line, get the tag. And so where would you - If you
+go into your video, you can make the call out to, hey, check for the link in the
+description below.
+I see. Okay. And then, so how does that tag function you mentioned go in? Like
+when you put that in, like what does that what does the system do with that you're
+talking about the tag the product
+yeah so you have to go and add your products and stuff like that so this is with
+your like your shopify account and stuff like that well yeah let's say um because
+darrow was saying you know like i could sell um you know like a health wellness
+packet or something like that like just go on amazon make an account And so it
+would be a link to different things on Amazon. Does that apply here or no?
+Yes. Yes, you can. So you want to look it up.
+Let me see here. And that's what I, I don't do many tag products.
+Let's go.
+So you've got all these products. Now, if we have products, we don't have products.
+Let me see.
+As I know our shop by Recovery,
+where is it?
+I've never added them in. That's why it's not adding it, popping up. So I haven't
+added our Matt's offer of recovery things in there. Daryl's like hold off on doing
+that because not data. So all we do is we make specific callouts in the video of
+check the link in the description below. And then we have the link there in the
+description tagging to that. Now we have also, let me cancel this.
+What we have also done is do do let's see here customize where is it earn
+shopping there you go here in shopping YouTube has now connected Shopify and I think
+there's it there might be a couple other store chat websites that you can connect
+to YouTube as well but you can connect all your products to it, and then you can
+decide which products to display and add them in. So that's where you have those
+options there.
+So what you have is like, see here with Matt's off road, there's all that stuff
+right there. So everyone can see it.
+Cool. Any other questions on that?
+then, yeah, it's a paid promo video. But if it's our own product. What's that?
+No, I think the question is, if in your video you don't mention the product,
+then it's not a promo video. Is that correct? If you don't mention the product. So
+here, now this is, I'm not a lawyer. Okay. So don't take this as legal advice from
+what I've heard now is if you're using a product that you got paid for to use it,
+it's a promo video because that product paid you and you're putting it in the
+video. Even if you don't say, hey, go buy this product. If they paid you for it
+and there was a transaction, that needs to be selected as a promo video. Right.
+But if you own the product. If you own the product, you're not getting it's,
+that's, that's you doing your own thing. That's not your, that's, yeah, that's not
+another company.
+Oh, when you put, okay, count on this is the second line. That's what you're asking
+for, Celine. Yeah, no.
+The promo videos, if it's your product, yeah, it's not a promo cool. Okay, next up,
+we've got Dr. Ulrich, and then we're going to tie. So, Dr. Ollich, go ahead. unmute
+yourself, and let's chat.
+Hi, Justin.
+First of all, I'm absolutely crushing it. Man, I got really big success. Thousands
+of subscribers are spooling in. One video had,
+I think, nearly about 200K. And, yeah, it's absolutely cool.
+So I'm making progress here. And it's getting better from day to day.
+So channel jump start. I love that.
+So did I just a little question, did I get it right that on Friday? There's no
+meeting because I jumped in a little bit later. Yes, correct.
+One week you late, right? Yep, one week later. Okay, cool. So I've just a little
+question on the YouTube live because I've never done a YouTube live.
+So do you recommend to have somebody to manage the chat,
+so a moderation function? Yes. Yes, okay, got it. Especially when it's your first
+time, don't do it all on your own. Let's have somebody that's there with you.
+And what software are you using? Are you doing the stream yard?
+No, I'm doing e -cam. E -cam, okay. It's a little bit more intense, especially for
+the first time, but that's okay. If you know the software, you learn the software,
+that's awesome. And then they can pop up, they can pop up YouTube questions from
+comments and things like that. Make sure you definitely do like the super chats.
+Whenever a super chat pops up, give that precedence. Okay. Because they're paying
+money. they're giving you money right then and there and having their name pop up
+is really cool and that person can take care of that um if they're struggling with
+it then they can just hey we've got a super chat come it came in and it's from
+so and so and they read the question so that's another way that if there's a
+struggle in a live stream just let it be and let them if they're in the that's
+why it's good to have them be in the same room at first so they can then talk
+and that's the thing about live streams is there's always issues and stuff like that
+something's going to pop up and don't let it fluster you at all um and just yeah
+keep it okay so what do you recommend just to do a FAQ let's say we do a FAQ on
+hormones or on i don't know uh on on on on gut health or should i do a more
+specific thing presenting um slides and stuff or what what what's your experience so
+what i would look at is what are your top videos right now and you like what in
+the last 28 days what's been your top video yeah it's about liver and detox and
+stuff okay uh and in your real -time analytics what is your top three videos the
+same okay then so yeah You got a lot of people that are wondering about detox.
+Okay, cool. So I do it simply, an FAQ about detox. Basically,
+talking had no slides sitting there. What I would do is because people are going to
+get bored. And it's about re -engagement. So when people come on,
+you're welcoming them,
+starting to build them into the community of saying how awesome they are, build them
+up, do some shoutouts and see, ask people like little basic questions, hey,
+who's farthest? So I'm here. I'm located here. Who's farthest from here? And you
+start looking at where everyone's from. Cool. It's those micro commitments. I mean,
+Russell's talked about that too often. So in your live stream is getting people,
+getting that chat activated. Then take a couple questions. Well,
+it's first off like talking to the audience, thanking them, tell them how awesome
+they are, how excited you've been about the growth that's come with the channel.
+It's all because of them like this, and that they're here tonight or whatever time
+it is. They're at, and then just personal questions people want to open up about.
+Then while you're asking those questions, you're setting the stage for the live
+stream of, hey, you're going to do a couple of questions right now, just a couple.
+You're going to do awesome training because there,
+crazy you start to see those comments you react to maybe three maybe five comments
+and you get into a training aspect to go like really more in depth and as you're
+doing like that training the great part about it is that you you answered questions
+for each part of those sections of what people have what about that just like where
+I did that walk through and Jail Liu was like hey can I can I ask a question?
+I'm like, sure. Okay, gotcha. So then you're doing a teaching, you're clarifying and
+getting that feedback from people so they're feeling like, hey, I want to be on
+here. I'm getting my questions answered. And then at the end of it, like as you're
+setting the stage and you let them know in the beginning, that at the end, you're
+going to do an open Q &A. So that if you want right now,
+we're going to be focusing on this. And at the end, I'm going to do an open Q &A.
+So That was what I would do on a first live stream. Very simple structure that's
+not too easy. And the only major thing is, because if you have a monitor up,
+you can read questions from there. And then the person that's monitoring the chat,
+they can be the one grabbing all the super chats and popping the super chats up on
+the screen. Okay, gotcha. So what would you recommend? One hour, two hours for the
+first one? Probably one hour. I wouldn't go too much because it's your first one.
+You want to find your rhythm. Okay. And just get into it and just have a good
+time. Okay. So one specific question on that and then I'm going to finish.
+I tried to bring my employee up so we simulated a live chat on um not on private
+what was the other stage not listed yeah unlisted and then youtube said that um my
+employee has to open a channel to be able to um have this function do you have
+you any information about that or should i reach out to youtube um support So,
+hold on, you try to do, your employee tried to get onto your live stream?
+Yes. And they couldn't get it from Unlisted?
+Yes. Huh. She saw the chat, but we were not able to install her in a moderation
+function. Oh, oh, oh, oh, and the moderation function. I'm like, hold on. She should
+be able to watch. Okay. Yes, for a moderator, they have to have, YouTube needs to
+know who they are. So just have them make like a channel in their name, an
+account, and all that stuff. Okay, so she has to have a channel, right? Yeah. But
+it doesn't have any videos or anything on that. I mean, like, I'm Daryl's, I'm a
+moderator on Daryl's channel, but I don't have any videos or anything like that okay
+cool thank you very much see you on friday in one week yeah awesome we're sending
+even more better numbers i like it cool i'm so we got to chat i want to come get
+some screenshots of your stuff so oh sure yeah i'm gonna send you involved right um
+i'll i'll bug you and we'll get on i want to check out your channel i'll show you
+what what we look at we'll do a little dive and stuff like that into the channel
+and then i'll show you what i'll show you what type of
+Nice.
+Top right corner, you'll see the list of people that are on there, like Jumpster to
+Admin, the My Name's in Red, and then Mods, Brianna. So if you're ever needing
+access to something, Brianna is the person to reach out to. She's a moderator.
+Jackson there is Daryl's assistant. I don't know if he checks Discord much. I would
+never probably reach out to him on Discord. He's more of an email person if you're
+trying to connect with Daryl or things like that. But yeah. No worries. I want to
+wrap it for just a couple more quick ones. Frame .io. So is it important that the
+editor is the subscriber so that it integrates with their Adobe premiere?
+Or is it okay that I just subscribe to it and give him a password? I just want
+to make it seamless for them and make sure I'm not setting up frame. I .O. to be
+able to see the kind of the revisions and stuff. Yeah. So you can just, there's
+different types of access where you, you have it as the main person.
+Now, if it's, do they want to sync it so it automatically syncs to their frame .0
+or what they can do is like, I'm, I'm not the member. I just have my own account
+and I have access on the lower end. And So I can upload videos,
+but I can't delete other people's videos if they upload onto frame .io or anything
+like that. I can only delete the videos that I upload. So what we have is Daryl's
+the owner of the account. And you're going to have to forgive me because he's been
+grandfathered in. So what we have may cost money,
+more money for every person that you bring in. So what we do is we have Daryl as
+the main owner, then he has the one team member who's our editor that's been with
+him for over a decade, Alex. And then there's all of us as just regular people
+that we've been invited to the collaborations. So within those invites,
+I can upload videos like I said, but I can't delete other people's videos off
+there. I have to have Alex managing frame .io so when our other creators they add
+their videos if they're already posted on youtube he goes in and he just keeps it
+clean and manages it uh so yeah jambi okay yeah you can have two team members
+awesome so have one of your editors beat that team member and got it you're golden
+got it and then what one other thing i want to point out on frame dot a i let
+me see if i let me just pull it up which i love i love this and i think it's
+it's just really good practice to keep things clean and um
+uh for editors and for you so oh let me just give this as an example i'm going
+do it right now because we have a mess up
+oh yeah and unlimited others can watch heads up on that one is that your team
+member, they can drop a review link. The review link is good for people that will
+never come into your frame .io again. So they just need to review a video. But if
+they're going to be part of the process, you're going to want to invite them to
+the project.
+There's that one there. Now, do you, I like how this rapid fire and I go into
+like five minutes of talking about it. So Here's our thing right here. Here's first
+version. Here's second version right there. Even though there's two different editors,
+you can see who are like names of the editors. One thing that I love about frame
+.io, and I think this is a lot better is, let me go back to YouTube,
+right here to review videos, this part. See how it says V2 on here? Yep.
+What's nice about that is while you're watching the video, and this happens quite
+often, I hate GoPro's at night. I'm just going to say this right now. And this is
+why I knew this video was going to flop. Look how horrible that picture quality is.
+Oh, it killed me.
+So bad. So bad. Now, what you can do here is you can toggle easily between the
+two projects. So when you're at a certain point, you can say, oh, I left a comment
+on there. Did they miss it or whatnot? You can easily toggle between them. Now, on
+this previous one, where I was on this push is, when you upload, it makes it, it's
+so easy. All you do is grab the new version and put it over the top. I'm not
+going to do it right now, but it creates that as now version number two,
+but it's the top one that you see. Got it. I'm just going to do it. I don't care
+about that. So there we go. See how it says V2 and Jonah's on the top with the
+three. Alex's was the original at three something minutes. Now we have this one. And
+so you can easily click between the versions. It makes it so nice to just organize
+your content and on here. I love it. I love it.
+Two quick ones. If you're doing a course, you have a landing page, you're embedded
+like your video sales letter or you're just kind of explanation of your product or
+pitch. Are you just hosting that in like click funnels on the actual native wherever
+the landing page is? Are you using Vimeo? Vimeo? Well, hold on. 2 .0 lets you put
+it up on the on the site now right okay so i'm just going to we're migrating
+slowly over to 2 .0 um so we haven't haven't done that yet and train someone to do
+vid summit on 2 .0 and so i got to go look to see if they did it on vimeo or
+if they did it on the main site got it's all of like the membership stuff too is
+hosted in 2 .0 it's going to be hosted on the an actual ClickFunnels membership
+area.
+all that other stuff. It's all integrated there. So it's really cool that way. It's
+super nice. Little bugs, but they're crushing it. So it's nice. And then last
+question, I believe like two or three weeks ago, you talked about an affiliate,
+affiliated editor that you guys share with the group. Oh, yeah. And then maybe
+somebody that does thumbnails also. If you can. Thumbails I'm struggling on.
+Easy Um, yes, I just got to get them our information for the affiliating, but let
+me just drop the link. Tell them we sent you. Yep. They actually do some
+thumbnails. I don't know their quality, but they do. I just, I've never checked
+their thumbnails. So I can't speak into that one. Thank you.
+This is great. Thank you, Justin. You guys want to see a cool trick I learned
+today about thumbnails yes there we go i got you and jamie the only ones that care
+okay i know everyone talking about chat gtp a lot and it's about how to get like
+good information from them so i was oh no it's that capacity right now i just need
+to record it
+I just need to record. I did it with it. Wait, Justin, try to like, like refresh
+it because that happened. Oh, I did. Like, oh, I'm in now. I knew you'd get in.
+Okay, here we go. Do, do,
+do, do.
+So, let me pull up my YouTube example that it made me cry.
+And I talked to them. I said, you made me cry.
+Okay.
+Here we go. So this guy, Scott, he is so cool. Formula,
+a former Formula One race car driver, starting this new channel right here,
+Overdrive. He's got his other channel, Driver 61, because that was his number as he
+drove and raced at over 200 miles an hour. And he's a Brit. He's so cool. So they
+started this channel recently. It's about a year old. And they had this, we talked
+about low lift. And I'm like, okay, the thumbnail to me, it's okay.
+Like,
+What's missing for me when I think of a race, speed,
+anxiety, stress, like gripping, and just, yeah,
+yeah, when you're in a car and you're driving way too, a whole lot faster than you
+should, you feel that, that emotion, if you guys know what I'm talking about. And I
+go, I don't feel that all in this race that there's any any level of stakes at
+hand of is it your safety is it like money whatever the stakes will be i just i'm
+not feeling it there and um last night i went on to chat gt pt and um i asked
+it this question now it's about how you ask the question the first thing i did
+did, as I said, make me, knowing that it's not, it's, make me a YouTube thumbnail
+for a race
+across London between a man on a scooter and a race car.
+put them in a prompt and say, I need a description for a YouTube thumbnail with
+this type of title and this, and you create an awesome description, and it gives
+you this one. The background could show an iconic London landmarks, such as Big Ben,
+the London Eye, you know, and then it's like, and it could have the text could
+read. And that to me is like the worst text and the worst thing, That's so much
+text across a thumbnail. But if you need a text, you can say how you can amplify
+it, like the amazing race or whatever.
+What's faster or whatever in bold eye catching. Now, what I did is I'm like,
+okay, those are some cool elements. Now, then the next thing is there's two more
+steps I took. Okay, so.
+Oops.
+Dang, what I put that one in? They even told me how to have the person standing
+I've taken too long for me.
+I am impatient in this training.
+Can I ask you a question on the cloud vision while you're talking about thumbnails?
+So when you upload the cloud Vision, it'll tell you if it's, I don't know,
+like, I remember adjectives, like, it's Racy content or this or that. So if you put
+an image, like I've noticed, if I put an image of a blonde, of a good looking
+blonde person that has a facial expression that's not happy, then it doesn't like
+that image, right? So I'm not too worried on that one as much.
+I think, Like Cloud Vision, Darrell talked about that. That was four years ago.
+It's to give some information, but don't go too deep in the woods,
+in the weeds on that one, because it can help a little bit if you're struggling.
+But when you start to see the patterns on YouTube, and then you have your title,
+your description, and your tags, right, then YouTube's going to pick that up. So as
+a new channel, look at what's working on pretty well on YouTube and go from there.
+And it will learn your audience. So, yeah, Daryl's thought about taking that cloud
+vision part out of it. So just a heads up. Okay. Here,
+it looks nice. It's got my history here. So here is the first one. Make a YouTube
+channel or make this right here. Here's where gave this one. They'll give me a
+description of YouTube thumbnail for a race across London between a man on a scooter
+and a race car. And this is what I really liked about. Kind of gave my mind
+around what's the emotion to pull out. It said, the background is blurred to
+emphasize the intense speed of the racers. The man on the scooter is leaning forward
+with a determined expression with the race car is in a blur motion as it speeds
+past. And I go right here, he is kind of leaning forward, but see how far back he
+is. The emotion is missing out on it for me. And I'm just like, oh, man,
+like that's, that's where it pulls that in. And we talked about that by doing
+multiple prompts. And then I said, you know, give me five descriptions of different
+YouTube thumbnails. And then what you can do is you can take these five descriptions
+and you can put each one into a prompt about, hey, expand on this. And this helps
+really get your creative mindset flowing on what that should look like.
+And other people like, oh, then you go to Dolly, which is on the Open AI. And you
+can put that in there and create an image to help, but it's not there yet. But
+this is, I feel that this is really good. As you work through this process, it
+helps move the process faster, especially if you're not used to thumbnails. And what
+was funny is that on this call that I was talking to these three gentlemen,
+one of them was a woodworker. And I helped him with a thumbnail last week. I told
+him, I want the background a little bit darker. It was a hidden bar that he built
+in his house that it just popped out, popped up from the floor. And it just
+glowed. It was so cool. I'm like, I need you to darken the wall for me. You
+really need to make the lights pops with the eyes tracked here. I need you on the
+bottom, bottom corner of it looking up. I want a red arrow going with a hidden
+bar. And then he puts that in the prompt and it came up almost to the T of what
+I explained to him and everything, except for the phrase. It put on this like long
+title of everything. But it was like, yeah, man,
+It helps, AI.
+Cool. Do you guys like that little tip? Is that going to be some of you? That was
+awesome. That was very awesome. Cool. Well, then, on that note, I've got another
+call I need to jump on, training call. So everyone, it's been really good. We'll
+have another call next Wednesday, 10 a .m. Mountain Time, noon Eastern, 11 Central,
+and 9 Pacific. And we'll just keep doing.
