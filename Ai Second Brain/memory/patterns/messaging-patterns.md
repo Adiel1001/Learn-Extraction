@@ -1,4 +1,4 @@
-# /learn — Session Extract
+#
 **Date:** April 4, 2026
 **Source:** Live mentorship session — Darrel Eves Channel Jumpstart + YouTube research
 **Channel niche:** GTA Online (YouTube challenge/grind format)
